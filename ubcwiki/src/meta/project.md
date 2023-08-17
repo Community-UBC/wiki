@@ -13,3 +13,7 @@ It is hosted on GitHub Pages, and is automatically built and deployed using GitH
 * [Automated Deployment of mdBook](https://github.com/rust-lang/mdBook/wiki/Automated-Deployment%3A-GitHub-Actions)
 
 You can use this documentation to contribute to the wiki. It has information about what is possible with mdBook, and how to further extend functionality.
+
+---
+---
+Do you see something that is incorrect/out of date/needs improvement? See how you can [contribute here](https://communityubc.github.io/ubcwiki/index.html#contributing)

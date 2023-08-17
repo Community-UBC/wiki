@@ -37,3 +37,7 @@ TODO:
 * *Best Text Post*: [Can Chemistry change the world](https://www.reddit.com/r/UBC/comments/k6y009/can_chemistry_change_the_world/)
 
 * *Best Comment*: [Part of science...](https://www.reddit.com/r/UBC/comments/kk7jux/what_happens_if_you_click_the_button/gh0wjh0/?context=3)
+
+---
+---
+Do you see something that is incorrect/out of date/needs improvement? See how you can [contribute here](https://communityubc.github.io/ubcwiki/index.html#contributing)
