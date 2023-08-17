@@ -1,10 +1,11 @@
 # UBC Wiki
 
-This is the repository for the UBC wiki. You can access the wiki here: https://communityubc.github.io
+This is the wiki that was started years ago by the moderators of /r/UBC. It is a community driven project that aims to provide a central location for information about UBC.
 
 ## Official Community Links
 * [UBC Reddit Community](https://reddit.com/r/ubc)
 * [UBC Lemmy Community](https://lemmy.ca/c/ubc)
+
 
 ## Contributing
 
