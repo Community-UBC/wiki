@@ -25,6 +25,7 @@ Course scheduling is a nightmare and the SSC has a lot that can be improved, her
 
 **Picking Courses**
 * [UBCGrades](https://ubcgrades.com): See past grade distributions for courses. This is a great tool to see how hard a course is / how grades vary between sections.
+* [UBC Profs](https://ubc-profs-reborn.herokuapp.com/): Offers information on grading variance between profs.
 * [RateMyProf](http://www.ratemyprofessors.com/campusRatings.jsp?sid=1413)See what profs are like for classes that release who's teaching. Most people know what this is so I won't add more.
 * [UBC Pair](https://pair.ubc.ca/student-data-analytics/performance/grades-distribution/): Official UBC grade distribution tool, which is more accurate but harder to use. You will need ot access using your UBC VPN, or use it on campus.
 
@@ -57,4 +58,3 @@ While pen and paper work great, here are some tools that can make the schedule p
 
 **Submitting courses & Transcripts**
 * [Improved UBC Transcripts](#): No longer works
-

@@ -4,15 +4,16 @@ Textbook companies often have business practices that force students to pay larg
 
 Here are some tips on how to handle textbooks in university.
 
-### ☑️ TIP 1: NEVER buy books ahead of time unless you are 100% sure you will need it
+### ☑️ TIP 1: NEVER buy books ahead of time
 
 * In some classes, the book actually is an invaluable resource. You can see the **Hall of Fame** section below for some examples. However, with most classes you will find that you don't actually use the textbook. In some cases, the professor will TELL you that you don't need it sometime in the first week.
 * Sometimes you will need to buy a specific version of the book, you will need some special online access, or it might be cheaper buying from a particular source. When in doubt, it's always best to wait for the first week of classes.
 
-### ☑️ TIP 2: Buy books second hand
+### ☑️ TIP 2: Try to buy books second hand
 
-* Most students want to get rid of their books once the term is over. Below are some places you can buy and sell your textbooks.
-* NOTE: Sometimes a course or publisher will have shady practices that force students to buy new textbooks every term. This can include restructuring, renumbering pages/questions, or unnecessary online components. See TIP 1, even when buying second hand.
+Most students want to get rid of their books once the term is over. Below are some places you can buy and sell your textbooks.
+
+NOTE: Sometimes a course or publisher will have shady practices that force students to buy new textbooks every term. This can include restructuring, renumbering pages/questions, or unnecessary online components. See TIP 1, even when buying second hand.
 
 **Places to buy/sell textbooks**
 * Discount Bookstore (TODO: Check if this is still an option)
@@ -25,8 +26,7 @@ Here are some tips on how to handle textbooks in university.
 
 ### ☑️ TIP 3: Find a PDF or EPUB of the textbook
 
-* Even if you ultimately get the physical book, a PDF is super handy for if you don't have your book with you.
-* It's often free
+Even if you ultimately get the physical book, a PDF is super handy for if you don't have your book with you. It's also often *free*.
 
 **Places to look for books**
 * [Library Genesis](https://libgen.is/): Most commonly recommended place for finding textbooks
@@ -45,6 +45,8 @@ Here are some courses that are a great model for afforable and ethical learning 
 
 * CHEM 121: CHIRP
 * MICB 202
+
+---
 
 ### Open Learning Materials
 
