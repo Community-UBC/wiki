@@ -17,9 +17,13 @@ If you need a particular citation style or need to manage in-text citations, you
 
 **Reference Managers:**
 
-* [Zotero](https://www.zotero.org/) 🟢FREE 🌐OpenSource
+* **[Zotero](https://www.zotero.org/)** 🟢FREE 🌐OpenSource
   - Commonly recommended. Available on most platforms, it has a browser extension to help you save sources, and it has integrations for Google Docs and Microsoft Word.
   - Being open source means that it is free to use and that there aren't privacy concerns.
 
-* [Mendeley](https://www.mendeley.com/) 🟢FREE 🌐OpenSource
+* **[Mendeley](https://www.mendeley.com/)** 🟢FREE
   - Also commonly used with many great features. However it was purchased by Elsevier a few years ago and there have been complaints about changes that the new owners have made. Elsevier is a large academic publisher that has long been criticized for its business practices, which doesn't help Mendeley's reputation.
+
+---
+---
+Do you see something that is incorrect/out of date/needs improvement? See how you can [contribute here](https://communityubc.github.io/ubcwiki/index.html#contributing)

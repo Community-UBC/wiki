@@ -40,6 +40,6 @@
     - [Places to Shower]()
 
 # UBCWiki Project
-- [⚙️UBCWiki Project](./meta/README.md)
+- [⚙️UBCWiki Project](./meta/project.md)
 - [⚙️Community](./meta/community.md)
   - [Census 2018](./meta/census/2018.md)
