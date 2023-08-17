@@ -25,7 +25,7 @@ jobs:
       - name: Build Book
         run: |
           # This assumes your book is in the root of your repository.
-          # Just add a `cd` here if you need to change to another directory.
+          cd ubcwiki  # MODIFIED DEFAULT INSTRUCTIONS: since book is not at root of repo
           mdbook build
       - name: Setup Pages
         uses: actions/configure-pages@v2
