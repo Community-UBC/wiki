@@ -1,31 +1,35 @@
 # Summary
-[UBC Wiki Introduction](../../README.md)
+[UBC Wiki Introduction](./README.md)
+- [Helpful Tools](./tools.md)
 
 # Admissions
-- [BC Domestic](./admissions/bc-domestic.md)
+- [BC Domestic]()
 - [International]()
 - [Transfer]()
 
+
 # Course Planning
-- [Course Registration](./course-planning/registration.md)
+- [Course Registration]()
 - [GPA Boosters & Recommended Courses]()
+
 
 # Academics
 - [Textbooks](./academics/classes/textbooks.md)
 - [Research](./academics/research.md)
 
+
 # Housing
-[Housing](./housing/README.md)
-  - [On-Campus](./housing/on-campus/README.md)
-  - [Off-Campus](./housing/off-campus/README.md)
+[Housing]()
+  - [On-Campus]()
+  - [Off-Campus]()
 
 # General
-- [Clubs](./general/clubs/README.md)
-- [Food](./general/food/README.md)
-    - [Microwaves](./general/food/microwaves.md)
-- [Health](./general/health/README.md)
-- [Transportation](./general/transportation/README.md)
-- [Places to Study](./general/places-to-study/README.md)
-- [Ammenities](./general/ammenities/README.md)
-    - [Places to Rest](./general/places-to-relax/README.md)
-    - [Places to Shower](./general/places-to-shower/README.md)
+- [Clubs]()
+- [Food]()
+    - [Microwaves]()
+- [Health]()
+- [Transportation]()
+- [Places to Study]()
+- [Ammenities]()
+    - [Places to Rest]()
+    - [Places to Shower]()
