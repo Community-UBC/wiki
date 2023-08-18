@@ -1,6 +1,6 @@
-# Food spots
+# 🍴 Food Spots
 
-THIS PAGE IS UNDER CONSTRUCTION
+this page needs work
 
 **List**
 - The Pit

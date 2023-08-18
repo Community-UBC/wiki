@@ -1,6 +1,6 @@
-# Study spots
+# 🏫 Study Spots
 
-THIS PAGE IS UNDER CONSTRUCTION
+this page needs work
 
 **List**
 - Asian Centre (beautiful in the spring, basement is quiet)

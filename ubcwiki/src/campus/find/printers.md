@@ -1,1 +1,1 @@
-# Printers / equipment
+# 🖨️ Printers / equipment

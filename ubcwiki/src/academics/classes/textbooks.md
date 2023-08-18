@@ -1,4 +1,4 @@
-# Textbooks
+# 📕 Textbooks
 
 Textbook companies often have business practices that force students to pay large amounts while already on a tight budget. While some courses have switched to more equitable and affordable models, such as open learning materials, some of your classes may still have expensive and/or unethical practices.
 
@@ -14,11 +14,11 @@ Sometimes you will need to buy a specific version of the book, you will need som
 
 Even if you ultimately get the physical book, a PDF is super handy for if you don't have your book with you. It's also often *free*.
 
-**Places to look for books**
-* [Library Genesis](https://libgen.is/): Most commonly recommended place for finding textbooks
-* [Mobilism](https://forum.mobilism.org/viewforum.php): Has some books that you might not find on LibGen. You may need to make an account to see the book section.
+> **Places to look for books**
+> * [Library Genesis](https://libgen.is/): Most commonly recommended place for finding textbooks
+> * [Mobilism](https://forum.mobilism.org/viewforum.php): Has some books that you might not find on LibGen. You may need to make an account to see the book section.
 
-If you are looking for research papers, there's a similar section on the [Research page](../research.md).
+If you are looking for research papers, there's a similar section on the [📜 Research page](../research.md).
 
 ### ☑️ TIP 3: Try to buy books second hand
 
@@ -26,40 +26,76 @@ Most students want to get rid of their books once the term is over. Below are so
 
 NOTE: Sometimes a course or publisher will have shady practices that force students to buy new textbooks every term. This can include restructuring, renumbering pages/questions, or unnecessary online components. See TIP 1, even when buying second hand.
 
-**Places to buy/sell textbooks**
-* Discount Bookstore (TODO: Check if this is still an option)
-* [Karrot](https://ca.karrotmarket.com/?in=vancouver-11031)
-* [Facebook marketplace](https://www.facebook.com/marketplace/) - You can also check specific groups:
-  - [Buy and Sell - UBC Textbooks](https://www.facebook.com/groups/234720869933130/)
-  - [UBC TEXTBOOKS SALE](https://www.facebook.com/groups/150847275006201/)
-  - [UBC Used Textbooks](https://www.facebook.com/groups/ubc.textbook.4.sale/)
+> **Places to buy/sell textbooks**
+> * Discount Bookstore (TODO: Check if this is still an option)
+> * [Karrot](https://ca.karrotmarket.com/?in=vancouver-11031)
+> * [Facebook marketplace](https://www.facebook.com/marketplace/) - You can also check specific groups:
+>   - [Buy and Sell - UBC Textbooks](https://www.facebook.com/groups/234720869933130/)
+>   - [UBC TEXTBOOKS SALE](https://www.facebook.com/groups/150847275006201/)
+>   - [UBC Used Textbooks](https://www.facebook.com/groups/ubc.textbook.4.sale/)
 
 
 
 ---
 ---
 
-# 🏆 Hall of Fame
+## 🏆 Hall of Fame
 
 Here are some courses that are a great model for afforable and ethical learning materials. These are textbooks that are affordable, open source, and/or closely tie in with the content in the course. You should still wait before buying these books, since this section is intended to show off some amazing courses and teaching teams at UBC.
 
 ### Custom Learning Material
 
-* **CHEM 121**: CHIRP
-* **MICB 202**: Custom course material that mirrors course material
-* **CAPS 391**: Very good reference that mirrors course content
+<table>
+  <tr>
+    <th>Course</th>
+    <th>Textbook</th>
+    <th>Reason</th>
+  </tr>
+  <tr>
+    <td>CHEM 121</td>
+    <td>CHIRP</td>
+    <td>Closely tied to the course content</td>
+  </tr>
+  <tr>
+    <td>MICB 202</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CAPS 391</td>
+    <td>M & M Essential Anatomy</td>
+    <td>Very good reference that mirrors course content</td>
+  </tr>
+</table>
 
 ### Open Learning Materials
 
-* **DSCI 100**: [Data Science: A First Introduction](https://ubc-dsci.github.io/dsci-100-student/README.html) 🟢🌐
-* **STAT 201**: [ModernDive](https://moderndive.com/]https://moderndive.com/) 🟢🌐
-
-KEY:   🟢FREE 🌐OpenSource
+<table>
+  <tr>
+    <th>Course</th>
+    <th>Textbook</th>
+    <th>Reason</th>
+  </tr>
+  <tr>
+    <td>DSCI 100</td>
+    <td><a href="https://ubc-dsci.github.io/dsci-100-student/README.html">Data Science: A First Introduction</a></td>
+    <td>🟢FREE 🌐OpenSource</td>
+  </tr>
+  <tr>
+    <td>STAT 201</td>
+    <td><a href="https://moderndive.com/">ModernDive</a></td>
+    <td>🟢FREE 🌐OpenSource</td>
+  </tr>
+</table>
 
 ---
 
-# 😞 Hall of Shame
+## 😞 Hall of Shame
 
 These are courses where the textbook is expensive, unethical, and/or not useful for the course. This section is intended to highlight some courses that have been called out for their textbook practices, and hopefully encourage them to change.
 
 * TODO: Add courses
+
+---
+
+Updated by [/u/cynber_mankei](https://www.reddit.com/user/cynber_mankei)
