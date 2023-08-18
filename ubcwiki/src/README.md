@@ -21,6 +21,8 @@ If you would like to contribute, you can:
 
 To learn more about GitHub, you can get started here: [Hello World (guides.github.com)](https://guides.github.com/activities/hello-world/)
 
+NOTE: If you want to create a page but you don't know where to put it, or if you want to restructure some content without messing with the main directory, you can create files and folders in the `~/drafts` directory.
+
 ## Technical Details
 
 This wiki is powered by mdBook, a free and open source project written in Rust. You can find more information on the [⚙️UBCWiki Project](https://communityubc.github.io/ubcwiki/meta/project.html) page.

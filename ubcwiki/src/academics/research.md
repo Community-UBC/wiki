@@ -24,6 +24,9 @@ If you need a particular citation style or need to manage in-text citations, you
 * **[Mendeley](https://www.mendeley.com/)** 🟢FREE
   - Also commonly used with many great features. However it was purchased by Elsevier a few years ago and there have been complaints about changes that the new owners have made. Elsevier is a large academic publisher that has long been criticized for its business practices, which doesn't help Mendeley's reputation.
 
+## 💬 Keeping up with research on campus
+- [Science in the City](https://scienceinvancouver.com/): Nice feed of life sciences related research on campus and in Vancouver
+
 ---
 ---
 Do you see something that is incorrect/out of date/needs improvement? See how you can [contribute here](https://communityubc.github.io/ubcwiki/index.html#contributing)
