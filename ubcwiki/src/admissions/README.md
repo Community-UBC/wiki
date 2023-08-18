@@ -1,8 +1,8 @@
-#Admissions
+# 📫 Admissions
 
-##Admissions Rates (from High School)
+## Admissions Rates (from High School)
 
-###Glossary:
+### Glossary:
 
 * Applicants: Number of students who apply
 * Admitted Students: Number of students who receive an offer (does not mean they accept)
@@ -14,7 +14,7 @@ Some programs have unusually high admit rates, but few of the actual students wh
 
 This is for a variety of reasons, but generally this implies that this program is viewed as a backup program (in case their first few choices don't work out). For example, the Bachelor of International Economics (BIE) program attracts high performing students, but only a third of students that receive offers end up registering in BIE. This could be because students that are able to acquire a first-round offer in BIE are typically strong candidates for more competitive programs (e.g. Ivy League, uChicago, UofT), and therefore, most students are admitted from the last admissions rounds (after the first few rounds of offers are rejected or rescinded in favour of getting into or getting off the waitlist for better universities).
 
-*Source: [British Columbia Higher Education Accountability Dataset](http://bcheadset.ca/)
+* Source: [British Columbia Higher Education Accountability Dataset](http://bcheadset.ca/)
 
 ### Arts
 
@@ -154,9 +154,9 @@ This is for a variety of reasons, but generally this implies that this program i
 
 ### 
 
-##Mean GPA (2012-2018)
-
-###Incoming First-Years
+## Mean GPA (2012-2018)
+ 
+### Incoming First-Years
 
 | PROGRAM     | STREAM | 2012  | 2013  | 2014  | 2015  | 2016  | 2017  | 2018  |
 |-------------|---------------|-------|-------|-------|-------|-------|-------|-------|
@@ -171,7 +171,7 @@ This is for a variety of reasons, but generally this implies that this program i
 
 Notes: This does not account for personal profile/supplementary scores. 
 
-###Second-Year Transfer
+### Second-Year Transfer
 
 | PROGRAM     | Stream        | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 |
 |-------------|---------------|------|------|------|------|------|------|------|
@@ -200,7 +200,7 @@ Notes: This does not account for personal profile/supplementary scores.
 
 Source: [BC Headset](http://bcheadset.ca/)
 
-##Taking Summer Courses as an Incoming First-Year Student
+## Taking Summer Courses as an Incoming First-Year Student
 
 If you have already gotten your offer of admission and are planning on starting university early:
 
@@ -212,3 +212,7 @@ If you have already gotten your offer of admission and are planning on starting 
 Note 1: You can take courses in Term 1, in Term 2, or in both; just make sure that you fulfill the prerequisite high school course credits. Contact your Enrolment Service Advisor by phone or e-mail if you are unsure if you meet specific requirements. They may refer you to the specific department for more information. Mention that you were admitted (by the Admissions Office) into the summer 2020 session.
 
 Note 2: If you have any issues along this process, contact u/zwischenimmerundnie, who successfully did this in 2018 summer.
+
+---
+
+Thank you to [/u/kinost](https://www.reddit.com/user/kinost) for putting this together!

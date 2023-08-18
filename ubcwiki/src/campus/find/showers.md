@@ -1,6 +1,6 @@
-# Showers
+# 🚿 Showers
 
-THIS PAGE IS UNDER CONSTRUCTION
+this page needs work
 
 **Relevant threads**
 

@@ -1,4 +1,4 @@
-# Research
+# 📜 Research
 
 As a UBC student, you already have access to a lot of research resources through the UBC Library.
 
@@ -28,5 +28,5 @@ If you need a particular citation style or need to manage in-text citations, you
 - [Science in the City](https://scienceinvancouver.com/): Nice feed of life sciences related research on campus and in Vancouver
 
 ---
----
-Do you see something that is incorrect/out of date/needs improvement? See how you can [contribute here](https://communityubc.github.io/ubcwiki/index.html#contributing)
+
+Updated by [/u/cynber_mankei](https://www.reddit.com/user/cynber_mankei)

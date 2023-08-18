@@ -3,6 +3,7 @@
 - [Helpful Tools](./tools.md)
 
 # Admissions
+- [Summary](./admissions/README.md)
 - [BC Domestic]()
 - [International]()
 - [Transfer]()
@@ -24,28 +25,29 @@
 - [Co-op]()
 - [Programs]()
   - [Medicine]()
-  - [Law]()
   - [Computer Science]()
 
 # Campus
 - [Places to visit](./campus/ubc-sights.md)
 - [Food spots](./campus/food.md)
 - [Study spots](./campus/study.md)
-- [Lost & Found](./campus/lost-and-found.md)
+- [Lost & Found]()
 - [Where to find...]()
   - [Showers](./campus/find/showers.md)
   - [Sleep/Naps](./campus/find/sleep.md)
-  - [Printers / equipment](./campus/find/printers.md)
-  - [Lockers](./campus/find/lockers.md)
+  - [Printers / equipment]()
+  - [Lockers]()
   - [Health monitoring]()
 
 # General
 - [Clubs]()
 - [Health]()
+- [Finances]()
 - [Transportation]()
 - [Buying Laptops]()
 
 # UBCWiki Project
-- [⚙️UBCWiki Project](./meta/project.md)
-- [⚙️Community](./meta/community.md)
+- [UBCWiki Project](./meta/project.md)
+- [Community](./meta/community.md)
   - [Census 2018](./meta/census/2018.md)
+  - [Census 2017](./meta/census/2017.md)

@@ -1,4 +1,4 @@
-# Course Registration
+# 📅 Course Registration
 
 Course scheduling is a nightmare and the SSC has a lot that can be improved, here are a few of those (currently NOT in order of usefulness):
 
@@ -59,6 +59,7 @@ While pen and paper work great, here are some tools that can make the schedule p
 **Submitting courses & Transcripts**
 * [Improved UBC Transcripts](#): No longer works
 
+
 ---
----
-Do you see something that is incorrect/out of date/needs improvement? See how you can [contribute here](https://communityubc.github.io/ubcwiki/index.html#contributing)
+
+Updated by [/u/cynber_mankei](https://www.reddit.com/user/cynber_mankei)
