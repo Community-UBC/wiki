@@ -27,17 +27,23 @@
   - [Law]()
   - [Computer Science]()
 
+# Campus
+- [Places to visit](./campus/ubc-sights.md)
+- [Food spots](./campus/food.md)
+- [Study spots](./campus/study.md)
+- [Lost & Found](./campus/lost-and-found.md)
+- [Where to find...]()
+  - [Showers](./campus/find/showers.md)
+  - [Sleep/Naps](./campus/find/sleep.md)
+  - [Printers / equipment](./campus/find/printers.md)
+  - [Lockers](./campus/find/lockers.md)
+  - [Health monitoring]()
 
 # General
 - [Clubs]()
-- [Food]()
-    - [Microwaves]()
 - [Health]()
 - [Transportation]()
-- [Places to Study]()
-- [Ammenities]()
-    - [Places to Rest]()
-    - [Places to Shower]()
+- [Buying Laptops]()
 
 # UBCWiki Project
 - [⚙️UBCWiki Project](./meta/project.md)
