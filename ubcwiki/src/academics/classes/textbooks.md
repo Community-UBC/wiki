@@ -63,7 +63,3 @@ KEY:   🟢FREE 🌐OpenSource
 These are courses where the textbook is expensive, unethical, and/or not useful for the course. This section is intended to highlight some courses that have been called out for their textbook practices, and hopefully encourage them to change.
 
 * TODO: Add courses
-
----
----
-Do you see something that is incorrect/out of date/needs improvement? See how you can [contribute here](https://communityubc.github.io/ubcwiki/index.html#contributing)

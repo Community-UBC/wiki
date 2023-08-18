@@ -29,7 +29,3 @@ To build the book and start a local webserver to view it: `mdbook serve --open`
 
 To simply build the book `mdbook build`
 - This can be useful if you added pages to the list in `SUMMARY.md` and want to automatically create them in the proper locations 
-
----
-
-Do you see something that is incorrect/out of date/needs improvement? See how you can [contribute here](https://communityubc.github.io/ubcwiki/index.html#contributing)

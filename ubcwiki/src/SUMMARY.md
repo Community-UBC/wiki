@@ -3,6 +3,7 @@
 - [Helpful Tools](./tools.md)
 
 # Admissions
+- [Summary](./admissions/README.md)
 - [BC Domestic]()
 - [International]()
 - [Transfer]()
@@ -35,8 +36,8 @@
 - [Where to find...]()
   - [Showers](./campus/find/showers.md)
   - [Sleep/Naps](./campus/find/sleep.md)
-  - [Printers / equipment](./campus/find/printers.md)
-  - [Lockers](./campus/find/lockers.md)
+  - [Printers / equipment]()
+  - [Lockers]()
   - [Health monitoring]()
 
 # General

@@ -69,7 +69,3 @@ In addition to the [UBC subreddit](https://www.reddit.com/r/UBC/) and [UBC Lemmy
 * [/r/UBCcsss](https://www.reddit.com/r/UBCcsss): Computer Science Student Society
 * [/r/UBC_BCS](https://www.reddit.com/r/UBC_BCS): Second degree Computer Science
 * [/r/Vancouver](https://www.reddit.com/r/vancouver)
-
----
----
-Do you see something that is incorrect/out of date/needs improvement? See how you can [contribute here](https://communityubc.github.io/ubcwiki/index.html#contributing)

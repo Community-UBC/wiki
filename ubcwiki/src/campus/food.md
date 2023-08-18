@@ -3,15 +3,15 @@
 THIS PAGE IS UNDER CONSTRUCTION
 
 **List**
-The Pit
-Sprouts/Seedlings
-Blue Chip
-Bean Around the World
-Great Dane Coffee
-Mercante
-Rain or Shine
-Jamjar
-Village Basement
+- The Pit
+- Sprouts/Seedlings
+- Blue Chip
+- Bean Around the World
+- Great Dane Coffee
+- Mercante
+- Rain or Shine
+- Jamjar
+- Village Basement
 
 
 ## Tools

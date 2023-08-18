@@ -26,7 +26,3 @@ If you need a particular citation style or need to manage in-text citations, you
 
 ## 💬 Keeping up with research on campus
 - [Science in the City](https://scienceinvancouver.com/): Nice feed of life sciences related research on campus and in Vancouver
-
----
----
-Do you see something that is incorrect/out of date/needs improvement? See how you can [contribute here](https://communityubc.github.io/ubcwiki/index.html#contributing)

@@ -49,9 +49,11 @@ Articles:
     - https://sustain.ubc.ca/stories/bird-friendly-art-saves-feathered-lives
     - https://sustain.ubc.ca/stories/bird-friendly-windows-reduce-collision-deaths-ubc
 
-![Bird Windows at Bookstore](bird-strike-bookstore.jpg)
-![Bird Windows at CIRS](bird-strike-closeup.webp)
-![Bird Windows at CIRS](bird-strike-cirs.jpg)
+| ![Bird Windows at Bookstore](bird-strike-bookstore.jpg) | ![Bird Windows at CIRS](bird-strike-closeup.webp) |
+|-|-|
+
+|![Bird Windows at CIRS](bird-strike-cirs.jpg) |
+|-|
 
 **Pride Installation**
 

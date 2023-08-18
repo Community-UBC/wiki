@@ -58,7 +58,3 @@ While pen and paper work great, here are some tools that can make the schedule p
 
 **Submitting courses & Transcripts**
 * [Improved UBC Transcripts](#): No longer works
-
----
----
-Do you see something that is incorrect/out of date/needs improvement? See how you can [contribute here](https://communityubc.github.io/ubcwiki/index.html#contributing)
