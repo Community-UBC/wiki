@@ -43,52 +43,57 @@ NOTE: Sometimes a course or publisher will have shady practices that force stude
 
 Here are some courses that are a great model for afforable and ethical learning materials. These are textbooks that are affordable, open source, and/or closely tie in with the content in the course. You should still wait before buying these books, since this section is intended to show off some amazing courses and teaching teams at UBC.
 
-### Custom Learning Material
-
 <table>
   <tr>
     <th>Course</th>
     <th>Textbook</th>
+    <th>Type</th>
     <th>Reason</th>
-  </tr>
-  <tr>
-    <td>CHEM 121</td>
-    <td>CHIRP</td>
-    <td>Closely tied to the course content</td>
-  </tr>
-  <tr>
-    <td>MICB 202</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>CAPS 391</td>
     <td>M & M Essential Anatomy</td>
-    <td>Very good reference that mirrors course content</td>
+    <td>Custom</td>
+    <td>🖇️ 📚 | "Reading the textbook was pretty much all you needed for this course"</td>
   </tr>
-</table>
-
-### Open Learning Materials
-
-<table>
   <tr>
-    <th>Course</th>
-    <th>Textbook</th>
-    <th>Reason</th>
+    <td>CHEM 121</td>
+    <td>CHIRP</td>
+    <td>Custom</td>
+    <td>🖇️</td>
   </tr>
   <tr>
     <td>DSCI 100</td>
     <td><a href="https://ubc-dsci.github.io/dsci-100-student/README.html">Data Science: A First Introduction</a></td>
-    <td>🟢FREE 🌐OpenSource</td>
+    <td>FOSS</td>
+    <td>🟢 🌐 | "Beautiful textbook that's really nicely organized"</td>
+  </tr>
+  <tr>
+    <td>MICB 202</td>
+    <td></td>
+    <td>Custom</td>
+    <td>🟡 🖇️</td>
   </tr>
   <tr>
     <td>STAT 201</td>
     <td><a href="https://moderndive.com/">ModernDive</a></td>
-    <td>🟢FREE 🌐OpenSource</td>
+    <td>FOSS</td>
+    <td>🟢 🌐</td>
   </tr>
 </table>
 
----
+<br>
+
+|  | Meaning |
+| --- | --- |
+| 🟢 | Free |
+| 🟡 | Cheap |
+| 🌐 | Open Source |
+| 🖇️ | Closely tied to the course content |
+| 📚 | Great reference |
+
+
+
 
 ## 😞 Hall of Shame
 

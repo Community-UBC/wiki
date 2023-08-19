@@ -4,11 +4,11 @@
 
 ### Glossary:
 
-* Applicants: Number of students who apply
-* Admitted Students: Number of students who receive an offer (does not mean they accept)
-* Registered Students: Number of students who accept an offer, and register in classes
+* **Applicants**: Number of students who apply
+* **Admitted Students**: Number of students who receive an offer (does not mean they accept)
+* **Registered Students**: Number of students who accept an offer, and register in classes
 * **Admit Rate**: % of applicants who receive an offer (does not mean they accept)
-* __Yield Rate: % of applicants who register__
+* **Yield Rate**: % of applicants who register__
 
 Some programs have unusually high admit rates, but few of the actual students who receive offers actually end up registering (low yield rates). Sauder, International Economics, Forestry and Engineering are the programs most prone to this. This generally (but does not always mean) that your chances of receiving an offer in a later round (i.e. not early admissions) are much higher.
 

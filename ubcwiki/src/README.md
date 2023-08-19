@@ -1,27 +1,30 @@
 # UBC Wiki
 
-This is the wiki that was started years ago by the moderators of /r/UBC. It is a community driven project that aims to provide a central location for information about UBC.
+This guide is an unofficial community driven project that aims to provide a central location for information about UBC.
 
-For help using this wiki, see the [official mdBook documentation](https://rust-lang.github.io/mdBook/guide/reading.html)
+For help navigating this website, [see here (external link)](https://rust-lang.github.io/mdBook/guide/reading.html).
 
 ## Official Community Links
 * [UBC Reddit Community](https://reddit.com/r/ubc)
 * [UBC Lemmy Community](https://lemmy.ca/c/ubc)
 
+For stats, census results, and 'Best of' winners: [🙌 Community Info](./meta/community.md)
+
 
 ## Contributing
 
-If you would like to contribute, you can:
+See an error? Want to add something? This wiki is an open source community project, and we welcome contributions. If you would like to change something, you can:
 
-- Send us a message on Reddit (no modmail on Lemmy yet): [link](https://www.reddit.com/message/compose?to=%2Fr%2FUBC)
-- Discuss the wiki on the [UBC Reddit Community](https://reddit.com/r/ubc) and [UBC Lemmy Community](https://lemmy.ca/c/ubc)
-- If you are familiar with GitHub, you can 
-    - [create an issue](https://github.com/CommunityUBC/ubcwiki/issues) with suggestions or corrections
-    - submit a pull request into **STAGING** with your changes
+- Send us a modmail on Reddit: [link](https://www.reddit.com/message/compose?to=%2Fr%2FUBC)
+- Discuss in the UBC [Reddit](https://reddit.com/r/ubc) and [Lemmy](https://lemmy.ca/c/ubc) communities
 
-To learn more about GitHub, you can get started here: [Hello World (guides.github.com)](https://guides.github.com/activities/hello-world/)
+If you are familiar with GitHub, you can also: 
+- [create an issue](https://github.com/CommunityUBC/ubcwiki/issues) with your suggestions or corrections
+- implement the changes yourself and submit a pull request into **STAGING**
 
-NOTE: If you want to create a page but you don't know where to put it, or if you want to restructure some content without messing with the main directory, you can create files and folders in the `~/drafts` directory.
+Want to learn how to do this? You can start here: [Hello-World (guides.github.com)](https://guides.github.com/activities/hello-world/)
+
+> ℹ️ TIP: If you want to create a page but you don't know where to put it, or if you want to restructure some content without messing with the main directory, you can create files and folders in the `~/drafts` directory.
 
 ## Technical Details
 
