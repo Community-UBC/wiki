@@ -1,6 +1,5 @@
 # 👟 Places to visit & Things to do
 ---
-# Contents
 <!-- toc -->
 ---
 
