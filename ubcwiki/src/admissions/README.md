@@ -1,4 +1,7 @@
 # 📫 Admissions
+---
+<!-- toc -->
+---
 
 ## Admissions Rates (from High School)
 
@@ -152,8 +155,6 @@ This is for a variety of reasons, but generally this implies that this program i
 |                                    | Sum of ADMIT_RATE          | 91%       | 95%       | 86%       | 91%       | 95%       |
 |                                    | Sum of YIELD_RATE          | 38%       | 36%       | 35%       | 42%       | 35%       |
 
-### 
-
 ## Mean GPA (2012-2018)
  
 ### Incoming First-Years
@@ -184,7 +185,7 @@ Notes: This does not account for personal profile/supplementary scores.
 | SCIENCE     | Domestic      | 3\.4 | 3\.5 | 3\.5 | 3\.4 | 3\.5 | 3\.6 | 3\.7 |
 |             | International | 3\.5 | 3\.4 | 3\.7 | 3\.6 | 3\.6 | 3\.7 | 3\.9 |
 
-###Third-Year Transfer
+### Third-Year Transfer
 
 | PROGRAM     | Stream        | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 |
 |-------------|---------------|------|------|------|------|------|------|------|
