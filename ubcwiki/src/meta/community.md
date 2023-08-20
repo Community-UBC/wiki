@@ -1,5 +1,7 @@
 # 🙌 Community Info
 
+For community guidelines, see [here](./guidelines.md).
+
 ## History
 - Reddit Community: Created May 06, 2009
 - Lemmy Community: Created June 11 2023
@@ -8,7 +10,6 @@
 - 2021 results - [TBA]
 - [2018 results](./census/2018.md)
 - [2017 results](./census/2017.md)
-
 
 ## 'Best of' Awards
 > **Best Of 2022:**

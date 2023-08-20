@@ -48,6 +48,7 @@
 
 # UBCWiki Project
 - [UBCWiki Project](./meta/project.md)
+- [Guidelines](./meta/guidelines.md)
 - [Community](./meta/community.md)
   - [Census 2018](./meta/census/2018.md)
   - [Census 2017](./meta/census/2017.md)
