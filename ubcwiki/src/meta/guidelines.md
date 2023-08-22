@@ -39,7 +39,7 @@ Lastly, please use appropriate language when addressing other users, even when y
 
 ## 3. Megathreads 
 
-If your question can go in a megathread or stickied post, it should 
+If your question can go in a megathread or stickied post, you must post your question there.
 
 Our goal for r/UBC is to foster community. In order to do this, we try to maintain a front page that can be relevant to most students. At different times during the year, we may opt to post and sticky a megathread to collect an influx of posts surrounding a single category. Common megathreads include:
 
@@ -95,7 +95,7 @@ We’d like to place special emphasis on these rules:
 **If you are a UBC organization making money:** Please [contact the moderation team](http://www.reddit.com/message/compose?to=%2Fr%2FUBC) before posting an advertisement.
 
 ## 7. Surveys
-Surveys should be posted to [r/samplesize](https://reddit.com/r/samplesize) or similar communities.  If it's important that the survey reaches the UBC community, please [contact the moderation team](http://www.reddit.com/message/compose?to=%2Fr%2FUBC) first.
+Surveys should only be posted if they related to UBC or of unique interest to the UBC community. Please modmail with your ethics approval number (for market research survey, a clear explanation of how your product/service is relevant to UBC would suffice). Do not post surveys for an undergrad class.
 
 ## 8. No foreign politics
 
@@ -112,27 +112,27 @@ Unless there are clear and direct implications for the UBC community (ex. FAFSA,
 
 <!--  Short form for sidebars:
 
-**[Full Guidelines](https://communityubc.github.io/meta/guidelines.html)**
+**[Full Guidelines](https://communityubc.github.io/ubcwiki/meta/guidelines.html)**
 
 Summarized Guidelines:
 
-1. **Treat each other with respect**: No slurs (ex. racial, gender, homophobic, mental health, etc.)
+1. **Be polite**: Treat each other with respect. No slurs (ex. racial, gender, homophobic, mental health, etc.)
 
 2. **Engage in good faith**: If you can’t say something nice, don’t say anything.
 
-3. **Use Megathreads**: If a megathread is currently pinned, you must post your question there.
+3. **Use Megathreads**: If your question can go in a megathread or stickied post, you must post it there.
 
-4. **Keep content relevant to UBC**: Posts must be related to UBC or its community. All memes must be OC and/or explicitly related to UBC.
+4. **Keep content relevant**: Posts must be related to UBC or its community. All memes must be OC and/or explicitly related to UBC.
 
-5. **Follow sitewide rules**: This includes illegal activities, linking to unauthorized copyrighted materials, doxxing, and violations of UBC academic conduct policy. ([read more](https://communityubc.github.io/meta/guidelines.html#5-follow-sitewide--university-rules))
+5. **Follow community rules**: This includes illegal activities, linking to unauthorized copyrighted materials, doxxing, and violations of UBC academic conduct policy ([read more](https://communityubc.github.io/ubcwiki/meta/guidelines.html#5-follow-sitewide--university-rules)).
 
-6. **No Advertisements**: UBC affiliated non-profit organizations may advertise within reasonable limits, but are encouraged to [contact us](http://www.reddit.com/message/compose?to=%2Fr%2FUBC) first. Everyone else must [contact the mod team](http://www.reddit.com/message/compose?to=%2Fr%2FUBC) prior to posting. No private advertisement of any sale or purchase. ([read more](https://communityubc.github.io/meta/guidelines.html#6-no-advertisements))
+6. **Advertisements**: UBC affiliated non-profit organizations may advertise within reasonable limits. Everyone else must [contact us](http://www.reddit.com/message/compose?to=%2Fr%2FUBC) before posting. No private advertisement of any sale or purchase. ([read more](https://communityubc.github.io/ubcwiki/meta/guidelines.html#6-no-advertisements)).
 
-7. **No Surveys**: Surveys should be posted to /r/samplesize. Please [contact us](http://www.reddit.com/message/compose?to=%2Fr%2FUBC) if it is important that your survey reach the UBC community specifically.
+7. **Surveys**: Surveys should be posted only if they are related to UBC or are of unique interest to the UBC community. Only some survey types are allowed ([read more](https://communityubc.github.io/ubcwiki/meta/guidelines.html#7-surveys)).
 
-8. **No foreign politics** unless it has clear and direct implications for the UBC community. ([read more](https://communityubc.github.io/meta/guidelines.html#8-no-foreign-politics))
+8. **No discussion of foreign politics** unless it has clear and direct implications for the UBC community ([read more](https://communityubc.github.io/ubcwiki/meta/guidelines.html#8-no-foreign-politics)).
 
-9. **Lost & Found Posts** are only allowed for some items (see [detailed guidelines](https://communityubc.github.io/meta/guidelines.html#9-lost--found-posts)). Found posts SHOULD NOT include images or descriptors (color, location) of the item, so only the owner can verify. Pictures with personal information are also prohibited.
+9. **Lost & Found Posts** are only allowed for some items ([read more](https://communityubc.github.io/ubcwiki/meta/guidelines.html#9-lost--found-posts)). Found posts SHOULD NOT include images or descriptors (color, location) of the item. Pictures with personal information are also prohibited.
 
 In addition, we strongly frown upon reposts and LQ posts, and such posts may be removed.
 
