@@ -17,6 +17,7 @@ Even if you ultimately get the physical book, a PDF is super handy for if you do
 > **Places to look for books**
 > * [Library Genesis](https://libgen.is/): Most commonly recommended place for finding textbooks
 > * [Mobilism](https://forum.mobilism.org/viewforum.php): Has some books that you might not find on LibGen. You may need to make an account to see the book section.
+> * [Project Gutenberg](https://www.gutenberg.org/): Full texts of books or individual stories in the public domain. All files can be accessed for free under an open format layout
 
 If you are looking for research papers, there's a similar section on the [📜 Research page](../research.md).
 
@@ -27,6 +28,8 @@ Most students want to get rid of their books once the term is over. Below are so
 NOTE: Sometimes a course or publisher will have shady practices that force students to buy new textbooks every term. This can include restructuring, renumbering pages/questions, or unnecessary online components. See TIP 1, even when buying second hand.
 
 > **Places to buy/sell textbooks**
+> * [UBC Bookstore buyback program](https://bookstore.ubc.ca/faq/can-i-sell-back-my-textbooks-to-the-ubc-bookstore-how-does-the-textbook-buyback-program-work/):
+>    - [Search for your book](https://ubc.bookware3000.ca/Buyback/search)
 > * Discount Bookstore (TODO: Check if this is still an option)
 > * [Karrot](https://ca.karrotmarket.com/?in=vancouver-11031)
 > * [Facebook marketplace](https://www.facebook.com/marketplace/) - You can also check specific groups:
@@ -90,7 +93,8 @@ Here are some courses that are a great model for afforable and ethical learning 
 | 🟡 | Cheap |
 | 🌐 | Open Source |
 | 🖇️ | Closely tied to the course content |
-| 📚 | Great reference |
+| 📚 | Long term value / good reference after course |
+| 💻 | Accessible formats (ex. online) |
 
 
 
@@ -99,8 +103,25 @@ Here are some courses that are a great model for afforable and ethical learning 
 
 These are courses where the textbook is expensive, unethical, and/or not useful for the course. This section is intended to highlight some courses that have been called out for their textbook practices, and hopefully encourage them to change.
 
-* TODO: Add courses
+One of the easiest ways that a course can improve is by making the textbook optional, or providing 
 
----
+<table>
+  <tr>
+    <th>Course</th>
+    <th>Textbook</th>
+    <th>Type</th>
+    <th>Reason</th>
+  </tr>
+  <tr>
+    <td>BIOL 300</td>
+    <td>The Analysis of Biological Data</td>
+    <td>regular</td>
+    <td>🔴👎🔢 | "Expensive and mandatory textbook written by prof. In class problems could only be submitted using newest edition of textbook. (<a href="https://www.reddit.com/r/UBC/comments/15xmmmz/booklist/jx7wwq6/?context=3">link</a>)"</td>
+  </tr>
 
-Updated by [/u/cynber_mankei](https://www.reddit.com/user/cynber_mankei)
+|  | Meaning |
+| --- | --- |
+| 🔴 | Expensive |
+| 👎 | Irrelevant / Not helpful / Barely used |
+| 🚫 | Mandatory Online Component / Unnecessary bundling |
+| 🔢 | Unethical practices (ex. renumbering pages/questions to force new purchases)  |
