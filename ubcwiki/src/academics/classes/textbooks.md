@@ -118,6 +118,9 @@ One of the easiest ways that a course can improve is by making the textbook opti
     <td>regular</td>
     <td>🔴👎🔢 | "Expensive and mandatory textbook written by prof. In class problems could only be submitted using newest edition of textbook. (<a href="https://www.reddit.com/r/UBC/comments/15xmmmz/booklist/jx7wwq6/?context=3">link</a>)"</td>
   </tr>
+</table>
+
+<br>
 
 |  | Meaning |
 | --- | --- |
