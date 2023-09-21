@@ -28,8 +28,8 @@
   - [Computer Science]()
 
 # Campus
-- [Places to visit]()
-- [Food spots]()
+- [Places to visit](./campus/ubc-sights.md)
+- [Food spots](./campus/food.md)
 - [Study spots]()
 - [Lost & Found]()
 - [Where to find...]()

@@ -2,6 +2,10 @@
 
 The UBCWiki was initially started by moderators of the /r/UBC subreddit. It has since been moved to GitHub to allow for easier collaboration and contribution.
 
+---
+<!-- toc -->
+---
+
 ## Technical Details
 
 This wiki is powered by mdBook, a free and open source project written in Rust. It is hosted on GitHub Pages, and is automatically built and deployed using GitHub Actions.
@@ -24,7 +28,7 @@ To build the book and start a local webserver to view it: `mdbook serve --open`
 
 To simply build the book: `mdbook build`. This can be useful if you added pages to the list in `SUMMARY.md` and want to automatically create them in the proper locations 
 
-## Custom Changes
+## Custom Changes from default mdBook template
 
 The following changes have been made to the default mdBook template.
 
@@ -43,3 +47,25 @@ We are using the [mdbook-toc](https://github.com/badboy/mdbook-toc) preprocessor
 Following the instructions [here](https://rust-lang.github.io/mdBook/format/theme/index.html), the `./ubcwiki/theme` directory was added and default `index.hbs` copied in. The footer code was then added to the `index.hbs` file, and you can find it by searching for `<!-- CUSTOM UBCWIKI FOOTER -->`.
 
 This change may cause issues when mdbook is updated. We may need to keep `index.hbs` up to date with the default template, or find a better way to add a custom footer.
+
+## Want to add a new page?
+
+1. Create a new markdown file somewhere in the `~/ubcwiki/src` directory. The file name and location will become the URL slug, so make it something short and descriptive. For example, `~/ubcwiki/src/campus/ubc-sights.md` will be available at `https://ubcwiki.ca/campus/ubc-sights`.
+
+2. Add content to the page. You can use the [Markdown Guide](https://rust-lang.github.io/mdBook/format/markdown.html) to learn how to format your page. Remember, the entire project is open source, so you can always take a peek at the source of other pages to see how they are formatted!
+
+3. Add the page to the `SUMMARY.md` file, which is located in `~/ubcwiki/src/SUMMARY.md`. This file is used to generate the table of contents for the wiki, and your page will not show up in the sidebar unless it is added here.
+
+You can copy this boilerplate into your file:
+
+```
+# Page Title
+
+---
+<!-- toc -->
+---
+
+Page Content Goes Here
+```
+
+Please note that we may not merge in all requests, so don't get started on a huge project without checking in with us first! To make things easier, please select the "Allow edits from maintainers" option when submitting a pull request so we can make minor changes if needed.

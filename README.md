@@ -6,6 +6,10 @@ This is the repository for: https://ubcwiki.ca
 * [UBC Reddit Community](https://reddit.com/r/ubc)
 * [UBC Lemmy Community](https://lemmy.ca/c/ubc)
 
+## Technical Details
+
+This wiki is powered by mdBook, a free and open source project written in Rust. You can find more information on the [⚙️UBCWiki Project](https://communityubc.github.io/ubcwiki/meta/project.html) page.
+
 ## Contributing
 
 See an error? Want to add something? This wiki is an open source community project, and we welcome contributions. If you would like to change something, you can:
@@ -21,6 +25,3 @@ Want to learn how to use Github: [Hello-World (guides.github.com)](https://guide
 
 > ℹ️ TIP: If you want to create a page but you don't know where to put it, or if you want to restructure some content without messing with the main directory, you can create files and folders in the `~/drafts` directory.
 
-## Technical Details
-
-This wiki is powered by mdBook, a free and open source project written in Rust. You can find more information on the [⚙️UBCWiki Project](https://communityubc.github.io/ubcwiki/meta/project.html) page.
