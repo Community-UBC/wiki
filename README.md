@@ -1,54 +1,27 @@
-# Summary
-[UBC Wiki Introduction](./README.md)
-- [Helpful Tools](./tools.md)
+# UBC Wiki
 
-# Admissions
-- [Summary](./admissions/README.md)
-- [BC Domestic]()
-- [International]()
-- [Transfer]()
+This is the repository for: https://ubcwiki.ca
 
-# Housing
-[Housing]()
-  - [On-Campus]()
-  - [Off-Campus]()
+## Official Community Links
+* [UBC Reddit Community](https://reddit.com/r/ubc)
+* [UBC Lemmy Community](https://lemmy.ca/c/ubc)
 
-# Course Planning
-- [Course Registration](./course-planning/registration.md)
-- [GPA Boosters & Recommended Courses]()
+## Technical Details
 
-# Academics
-- [Textbooks](./academics/classes/textbooks.md)
-- [Research](./academics/research.md)
+This wiki is powered by mdBook, a free and open source project written in Rust. You can find more information on the [⚙️UBCWiki Project](https://communityubc.github.io/ubcwiki/meta/project.html) page.
 
-# Career Planning
-- [Co-op]()
-- [Programs]()
-  - [Medicine]()
-  - [Computer Science]()
+## Contributing
 
-# Campus
-- [Places to visit](./campus/ubc-sights.md)
-- [Food spots](./campus/food.md)
-- [Study spots]()
-- [Lost & Found]()
-- [Where to find...]()
-  - [Showers](./campus/find/showers.md)
-  - [Sleep/Naps](./campus/find/sleep.md)
-  - [Printers / equipment]()
-  - [Lockers]()
-  - [Health monitoring]()
+See an error? Want to add something? This wiki is an open source community project, and we welcome contributions. If you would like to change something, you can:
 
-# General
-- [Clubs]()
-- [Health]()
-- [Finances]()
-- [Transportation]()
-- [Buying Laptops]()
+- Submit your suggestions or corrections using [this Google form](https://forms.gle/8L7GPodjp2SNRM2w9)
+- Send us a [modmail on Reddit](https://www.reddit.com/message/compose?to=%2Fr%2FUBC) or [message Otter on Lemmy](https://lemmy.ca/u/Otter)
+- Discuss in the UBC [Reddit](https://reddit.com/r/ubc) and [Lemmy](https://lemmy.ca/c/ubc) communities
+- Share the wiki with your friends and classmates
 
-# UBCWiki Project
-- [UBCWiki Project](./meta/project.md)
-- [Guidelines](./meta/guidelines.md)
-- [Community](./meta/community.md)
-  - [Census 2018](./meta/census/2018.md)
-  - [Census 2017](./meta/census/2017.md)
+If you are familiar with GitHub, you can also [create an issue](https://github.com/CommunityUBC/ubcwiki/issues), or implement the changes yourself and submit a pull request into the `STAGING` branch. New ideas submitted by other means will be added as issues.
+
+Want to learn how to use Github: [Hello-World (guides.github.com)](https://guides.github.com/activities/hello-world/)
+
+> ℹ️ TIP: If you want to create a page but you don't know where to put it, or if you want to restructure some content without messing with the main directory, you can create files and folders in the `~/drafts` directory.
+
