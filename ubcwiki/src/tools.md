@@ -23,7 +23,7 @@ As this wiki is developed, these links may be reorganized or moved to other sect
 
 * [maps.ubc.ca](https://maps.ubc.ca/): Official UBC wayfinding tool
 * [Learning Spaces](https://learningspaces.ubc.ca/find-space): Find information about rooms on campus (ex. outlets, seating, etc.)
-* [UBC Online Timetable](https://sws-van.as.it.ubc.ca/sws_2022/): Find class and room schedules (and empty rooms to study in!)
+* [UBC Online Timetable](https://sws-van.as.it.ubc.ca/sws_2023/): Find class and room schedules (and empty rooms to study in!)
 
 #### 🚏 Transit
 * [Renew your U-Pass](https://upassbc.translink.ca/)
