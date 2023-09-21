@@ -3,8 +3,13 @@
 For community guidelines, see [here](./guidelines.md).
 
 ## History
-- Reddit Community: Created May 06, 2009
-- Lemmy Community: Created June 11 2023
+Reddit Community: 
+- Created May 06, 2009
+- Total Subscribers: ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/ubc?style=flat&logo=reddit&logoColor=FFFFFF&label=Users&color=002145)
+
+Lemmy Community: 
+- Created June 11 2023
+- Total Subscribers: ![Lemmy](https://img.shields.io/lemmy/ubc%40lemmy.ca?style=flat&logo=lemmy&logoColor=FFFFFF&label=Users&color=002145)
 
 ## Census Results
 - 2021 results - [TBA]
