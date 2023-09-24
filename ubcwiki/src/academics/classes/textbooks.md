@@ -116,7 +116,25 @@ One of the easiest ways that a course can improve is by making the textbook opti
     <td>BIOL 300</td>
     <td>The Analysis of Biological Data</td>
     <td>regular</td>
-    <td>🔴👎🔢 | "Expensive and mandatory textbook written by prof. In class problems could only be submitted using newest edition of textbook. (<a href="https://www.reddit.com/r/UBC/comments/15xmmmz/booklist/jx7wwq6/?context=3">link</a>)"</td>
+    <td>🔴👎🔢 | "Expensive and mandatory textbook written by prof. In class problems could only be submitted using newest edition of textbook." (<a href="https://www.reddit.com/r/UBC/comments/15xmmmz/booklist/jx7wwq6/?context=3">link</a>)</td>
+  </tr>
+  <tr>
+    <td>ECON 101</td>
+    <td>unknown</td>
+    <td>regular</td>
+    <td>🔴🚫 | "Had to buy an expensive [...] textbook for a good chunk of your grade because you had to do the online quizzes that came with it" (<a href="https://www.reddit.com/r/UBC/16oub7s">link</a>)</td>
+  </tr>
+  <tr>
+    <td>PSYC 101</td>
+    <td>unknown</td>
+    <td>regular</td>
+    <td>🔴🚫 | "Had to buy an online textbook to submit homework that was worth 19% of your grade, and that homework was just clicking buttons repeatedly" (<a href="https://www.reddit.com/r/UBC/16oub7s">link</a>)</td>
+  </tr>
+  <tr>
+    <td>CHEM 111</td>
+    <td>unknown</td>
+    <td>regular</td>
+    <td>🔴🚫🔢 | "Could not find that book online anywhere free or paid, nor could I find any used ones for sale". "Practice problems from the textbook are part of your grade and change every year" (<a href="https://www.reddit.com/r/UBC/16oub7s">link</a>)</td>
   </tr>
 </table>
 
