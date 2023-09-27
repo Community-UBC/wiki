@@ -14,7 +14,7 @@
   - [Off-Campus]()
 
 # Course Planning
-- [Course Registration](./course-planning/registration.md)
+- [Registration & Transcripts](./course-planning/registration.md)
 - [GPA Boosters & Recommended Courses]()
 
 # Academics
@@ -48,6 +48,7 @@
 
 # UBCWiki Project
 - [UBCWiki Project](./meta/project.md)
+- [Recent Changes](./meta/changelog.md)
 - [Guidelines](./meta/guidelines.md)
 - [Community](./meta/community.md)
   - [Census 2018](./meta/census/2018.md)

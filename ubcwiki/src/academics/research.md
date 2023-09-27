@@ -30,4 +30,4 @@ If you need a particular citation style or need to manage in-text citations, you
 
 ---
 
-Updated by [/u/cynber_mankei](https://www.reddit.com/user/cynber_mankei)
+Last updated: 2023-09-27

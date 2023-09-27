@@ -170,3 +170,7 @@ One of the easiest ways that a course can improve is by making the textbook opti
 | 👎 | Irrelevant / Not helpful / Barely used |
 | 🚫 | Mandatory Online Component / Unnecessary bundling |
 | 🔢 | Unethical practices (ex. renumbering pages/questions to force new purchases)  |
+
+---
+
+Last updated: 2023-09-27
