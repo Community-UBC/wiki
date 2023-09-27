@@ -7,7 +7,8 @@ However sometimes you may not be able to find what you are looking for, or you m
 ## 🔍 Finding Research Papers
 
 * [Unpaywall](https://unpaywall.org/): An open database of free scholarly articles, run by a non-profit organization. You can install a browser extension to see if a paper is available for free.
-* [Sci-Hub](https://sci-hub.se/): The most commonly recommended place for finding full research papers. You can paste in a DOI or URL to get the paper.
+* [Sci-Hub](https://sci-hub.st/): The most commonly recommended place for finding full research papers. You can paste in a DOI or URL to get the paper.
+  - Alternate Mirrors: [sci-hub.st](https://sci-hub.st/), [sci-hub.se](https://sci-hub.se/)
 
 ## 📚 Organizing your research
 
