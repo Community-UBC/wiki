@@ -57,9 +57,11 @@ While pen and paper work great, here are some tools that can make the schedule p
 ---
 
 **Submitting courses & Transcripts**
+* [UBC Transcript Formatter - Chrome Extension](https://chrome.google.com/webstore/detail/ubc-transcript/kcpilaggggglnjckpcckpngnikfceonn): See GitHub page [for details](https://github.com/mchuahua/ubc-transcript)
 * [Improved UBC Transcripts](#): No longer works
+
 
 
 ---
 
-Updated by [/u/cynber_mankei](https://www.reddit.com/user/cynber_mankei)
+Last updated: 2023-09-27
