@@ -78,6 +78,30 @@ Here are some courses that are a great model for afforable and ethical learning 
     <td>🟡 🖇️</td>
   </tr>
   <tr>
+    <td>PHIL 220</td>
+    <td><a href="https://github.com/jonathanichikawa/for-all-x">forall x: UBC edition</a></td>
+    <td>FOSS</td>
+    <td>🟢 🌐 🖇️ 📚 💻</td>
+  </tr>
+  <tr>
+    <td>PHIL 320</td>
+    <td><a href="https://slc.openlogicproject.org/">Sets, Logic, Computation</a></td>
+    <td>FOSS</td>
+    <td>🟢 🌐 🖇️ 📚 💻</td>
+  </tr>
+  <tr>
+    <td>PHIL 322</td>
+    <td><a href="https://bd.openlogicproject.org/">Boxes and Diamonds</a></td>
+    <td>FOSS</td>
+    <td>🟢 🌐 🖇️ 📚 💻</td>
+  </tr>
+  <tr>
+    <td>PHIL 323</td>
+    <td>An Introduction to Non-Classical Logic: From If to Is</td>
+    <td>Free Text</td>
+    <td>🟢 🖇️ 📚 💻| Free through the UBC library</td>
+  </tr>
+  <tr>
     <td>STAT 201</td>
     <td><a href="https://moderndive.com/">ModernDive</a></td>
     <td>FOSS</td>
@@ -119,6 +143,12 @@ One of the easiest ways that a course can improve is by making the textbook opti
     <td>🔴👎🔢 | "Expensive and mandatory textbook written by prof. In class problems could only be submitted using newest edition of textbook." (<a href="https://www.reddit.com/r/UBC/comments/15xmmmz/booklist/jx7wwq6/?context=3">link</a>)</td>
   </tr>
   <tr>
+    <td>CHEM 111</td>
+    <td>unknown</td>
+    <td>regular</td>
+    <td>🔴🚫🔢 | "Could not find that book online anywhere free or paid, nor could I find any used ones for sale". "Practice problems from the textbook are part of your grade and change every year" (<a href="https://www.reddit.com/r/UBC/16oub7s">link</a>)</td>
+  </tr>
+  <tr>
     <td>ECON 101</td>
     <td>unknown</td>
     <td>regular</td>
@@ -129,12 +159,6 @@ One of the easiest ways that a course can improve is by making the textbook opti
     <td>unknown</td>
     <td>regular</td>
     <td>🔴🚫 | "Had to buy an online textbook to submit homework that was worth 19% of your grade, and that homework was just clicking buttons repeatedly" (<a href="https://www.reddit.com/r/UBC/16oub7s">link</a>)</td>
-  </tr>
-  <tr>
-    <td>CHEM 111</td>
-    <td>unknown</td>
-    <td>regular</td>
-    <td>🔴🚫🔢 | "Could not find that book online anywhere free or paid, nor could I find any used ones for sale". "Practice problems from the textbook are part of your grade and change every year" (<a href="https://www.reddit.com/r/UBC/16oub7s">link</a>)</td>
   </tr>
 </table>
 
