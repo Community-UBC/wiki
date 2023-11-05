@@ -4,14 +4,9 @@
 
 # Admissions
 - [Summary](./admissions/README.md)
-- [BC Domestic]()
-- [International]()
-- [Transfer]()
-
-# Housing
-[Housing]()
-  - [On-Campus]()
-  - [Off-Campus]()
+<!-- - [BC Domestic]()    not yet written -->
+<!-- - [International]()  not yet written -->
+<!-- - [Transfer]()       not yet written -->
 
 # Course Planning
 - [Registration & Transcripts](./course-planning/registration.md)
@@ -21,12 +16,6 @@
 - [Textbooks](./academics/classes/textbooks.md)
 - [Research](./academics/research.md)
 
-# Career Planning
-- [Co-op]()
-- [Programs]()
-  - [Medicine]()
-  - [Computer Science]()
-
 # Campus
 - [Places to visit](./campus/ubc-sights.md)
 - [Food spots](./campus/food.md)
@@ -35,13 +24,13 @@
 - [Where to find...]()
   - [Showers](./campus/find/showers.md)
   - [Sleep/Naps](./campus/find/sleep.md)
-  - [Printers / equipment]()
-  - [Lockers]()
-  - [Health monitoring]()
+<!--   - [Printers / equipment]()   not yet written -->
+<!--   - [Lockers]()                not yet written -->  
 
 # General
 - [Clubs]()
-- [Health]()
+- [Mental Health]()
+- [Physical Health]()
 - [Finances]()
 - [Transportation]()
 - [Buying Laptops]()
@@ -53,3 +42,16 @@
 - [Community](./meta/community.md)
   - [Census 2018](./meta/census/2018.md)
   - [Census 2017](./meta/census/2017.md)
+
+# TO BE WRITTEN
+
+# Housing
+[Housing]()
+  - [On-Campus]()
+  - [Off-Campus]()
+
+# Career Planning
+- [Co-op]()
+- [Programs]()
+  - [Medicine]()
+  - [Computer Science]()
