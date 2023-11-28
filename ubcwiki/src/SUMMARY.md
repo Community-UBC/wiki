@@ -29,7 +29,7 @@
 
 # General
 - [Clubs]()
-- [Mental Health]()
+- [Mental Health](./general/mental-health.md)
 - [Physical Health]()
 - [Finances]()
 - [Transportation]()
@@ -43,9 +43,9 @@
   - [Census 2018](./meta/census/2018.md)
   - [Census 2017](./meta/census/2017.md)
 
-# TO BE WRITTEN
+<!-- # TO BE WRITTEN -->
 
-# Housing
+<!-- # Housing
 [Housing]()
   - [On-Campus]()
   - [Off-Campus]()
@@ -54,4 +54,4 @@
 - [Co-op]()
 - [Programs]()
   - [Medicine]()
-  - [Computer Science]()
+  - [Computer Science]() -->
