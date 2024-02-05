@@ -13,6 +13,11 @@
 
     *Happy exploring!*
 
+Thank you to [/u/aniric](https://www.reddit.com/user/aniric) for putting this together!
+
+---
+
+
 ### Gardens:
 * Rose Garden (go in the summer June-July for roses)
 * Nitobe Memorial ([tea ceremonies](https://botanicalgarden.ubc.ca/visit/nitobe-memorial-garden/the-tea-house-and-roji/) are held within Nitobe at an authentic tea house and roji)
@@ -184,8 +189,5 @@ Note: may or may not still be around - some installations are transient
 - [Pacific Regional Park - where to go in one hour?](https://old.reddit.com/r/UBC/comments/a203zz/pacific_regional_park_where_to_go_in_one_hour/)
 
 ---
-
-Thank you to [/u/aniric](https://www.reddit.com/user/aniric) for putting this together!
-
 
 Last updated: 2023-09-21
