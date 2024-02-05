@@ -34,7 +34,7 @@ As this wiki is developed, these links may be reorganized or moved to other sect
 
 * 📃 [Student Support](https://students.ubc.ca/support): A general index of all UBC support services for students, with support services for academic, financial, health and other issues.
 * ⁉️ [UBC Lost & Found](https://lostandfound.ubc.ca/all-items): Lost something? Check here.
-* 📰 [Ubyssey](ubyssey.ca): Campus newspaper
+* 📰 [Ubyssey](https://ubyssey.ca/): Campus newspaper
 * 📻 [CITR](https://www.citr.ca/): Campus radio
 * Potentially Outdated:
     * 🚰 [Map of water fountains (2013)](https://www.google.com/maps/d/u/0/viewer?ll=49.267665139292845%2C-123.24913480426028&spn=0.014028%2C0.038066&msa=0&iwloc=0004d8b88fe8029eba263&mid=1fmvuTk4654NGRwoIon6yadBx_LY&z=15)

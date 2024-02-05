@@ -49,8 +49,6 @@ nav:
       - Nap / Sleep: campus/find/sleep.md
   - ❤️‍🩹 Wellbeing:
     - Mental Health: wellbeing/mental-health.md
-  
-
 
 markdown_extensions:
   - admonition
