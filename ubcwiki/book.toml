@@ -1,10 +1,24 @@
 [book]
 title = "UBC Wiki"
-authors = ["CommunityUBC"]
+authors = ["CommunityUBC and contributors"]
 language = "en"
 multilingual = false
 src = "src"
 
+[build]
+create-missing = false
+
 [preprocessor.toc]
 command = "mdbook-toc"
 renderer = ["html"]
+
+[output.html]
+preferred-dark-theme = "navy"
+no-section-label = true
+git-repository-url = "https://github.com/CommunityUBC/ubcwiki"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/CommunityUBC/ubcwiki/edit/main/ubcwiki/{path}"
+
+[output.html.fold]
+enable = true
+level = 0

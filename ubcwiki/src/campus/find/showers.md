@@ -1,4 +1,9 @@
-# 🚿 Showers
+<p align="center" style="font-size:60px;">🚿</p>
+<p align="center" style="font-size:48px;">Showers</p>
+
+---
+<!-- toc -->
+---
 
 This page needs a lot more work, but it was made live early to list the links below.
 

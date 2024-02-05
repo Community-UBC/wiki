@@ -1,21 +1,28 @@
 # Summary
-[UBC Wiki Introduction](./README.md)
-- [Helpful Tools](./tools.md)
+[Introduction](./README.md)
 
+- [List of helpful tools & websites](./tools.md)
+
+---
+
+#
 # Admissions
-- [Summary](./admissions/README.md)
-<!-- - [BC Domestic]()    not yet written -->
-<!-- - [International]()  not yet written -->
-<!-- - [Transfer]()       not yet written -->
+- [Guide](./admissions/README.md)
+  - [BC Domestic]()
+  - [International]()
+  - [Transfer]()
 
+#
 # Course Planning
-- [Registration & Transcripts](./course-planning/registration.md)
+- [Registration Info & Tools](./course-planning/registration.md)
 - [GPA Boosters & Recommended Courses]()
 
+# 
 # Academics
 - [Textbooks](./academics/classes/textbooks.md)
 - [Research](./academics/research.md)
 
+# 
 # Campus
 - [Places to visit](./campus/ubc-sights.md)
 - [Food spots](./campus/food.md)
@@ -43,10 +50,10 @@
   - [Census 2018](./meta/census/2018.md)
   - [Census 2017](./meta/census/2017.md)
 
-# TO BE WRITTEN
+<!-- # TO BE WRITTEN
 
 # Housing
-[Housing]()
+- [Housing]()
   - [On-Campus]()
   - [Off-Campus]()
 
@@ -54,4 +61,4 @@
 - [Co-op]()
 - [Programs]()
   - [Medicine]()
-  - [Computer Science]()
+  - [Computer Science]() -->

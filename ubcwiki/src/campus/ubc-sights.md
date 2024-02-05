@@ -1,4 +1,6 @@
-# 👟 Places to visit & Things to do
+<p align="center" style="font-size:60px;">👟</p>
+<p align="center" style="font-size:36px;">Places to visit,  Things to do</p>
+
 ---
 <!-- toc -->
 ---

@@ -16,13 +16,15 @@ Here is the guide for [Automated Deployment of mdBook](https://github.com/rust-l
 
 ### Setup
 
-This guide assumes you know how to use the command line and git.
+This guide assumes you know how to use the command line and git. If you don't, please see the [contributing](https://ubcwiki.ca/index.html#contributing) section on other ways to help or make changes.
 
 1. Clone this repository: https://github.com/CommunityUBC/ubcwiki
 2. Install Rust if you don't have it already: [rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)
+    - for example, if you are using WSL, you can run `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh` and follow the default instructions
+    - TIP: reboot your terminal after installing in order to use the following commands
 3. Build from source using Rust with `cargo install mdbook` (for help [see docs](https://rust-lang.github.io/mdBook/guide/installation.html))
-4. install the `mdbook-toc` tool with `cargo install mdbook-toc`
-5. `cd` into the `./ubcwiki/ubcwiki` directory
+4. install the **mdbook-toc** tool with `cargo install mdbook-toc`
+5. Go into the `./ubcwiki` directory with `cd ubcwiki`
 
 To build the book and start a local webserver to view it: `mdbook serve --open`
 
