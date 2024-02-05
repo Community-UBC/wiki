@@ -15,7 +15,7 @@ extra_css:
 nav:
   - Home: index.md
   - About: 
-    - About Wiki Project: meta/project.md
+    - UBCWiki Project: meta/project.md
     - r/UBC and c/UBC: meta/community.md
     - Community Guidelines: meta/guidelines.md
     - Wiki Changelog: meta/changelog.md
@@ -25,10 +25,12 @@ nav:
       - 2018: meta/census/2018.md
     
   - List of Tools & Websites: tools.md
-  - 📬 Admissions: admissions/guide.md
-    # - BC Domestic: 
-    # - International: 
-    # - Transfer: 
+  - 📬 Admissions & Housing: 
+    - Admissions Guide: admissions/guide.md
+      # - BC Domestic: 
+      # - International: 
+      # - Transfer: 
+    - Housing Guide: housing/guide.md
   - 📅 Course Planning:
     - Registration Info & Tools: course-planning/registration.md
     - GPA Boosters & Recommended Courses: course-planning/recommended-courses.md
@@ -45,10 +47,8 @@ nav:
       - Printers: campus/find/printers.md
       - Showers: campus/find/showers.md
       - Nap / Sleep: campus/find/sleep.md
-  - 📚 General Guides:
-    - Mental Health: general/mental-health.md
-  - 🏠 Housing:
-    - Guide: housing/guide.md
+  - ❤️‍🩹 Wellbeing:
+    - Mental Health: wellbeing/mental-health.md
   
 
 
@@ -56,6 +56,11 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 theme:
   name: material

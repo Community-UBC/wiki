@@ -1,9 +1,8 @@
-# Mental Health
 
----
-To skip to a section, click one of the links below:
-<!-- toc -->
----
+#
+
+<p align="center" style="font-size:60px;">🧠</p>
+<p align="center" style="font-size:48px;">Mental Health</p>
 
 ## Mental Health Resources through UBC
 

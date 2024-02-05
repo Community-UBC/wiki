@@ -1,20 +1,30 @@
-# 🙌 Community Info
+# 
 
-For community guidelines, see [here](./guidelines.md).
+<p align="center" style="font-size:60px;">🙌</p>
+<p align="center" style="font-size:36px;">Community Info</p>
+
+!!! info
+    For community guidelines, see [here](./guidelines.md).
 
 ## History
-Reddit Community: 
-- Created May 06, 2009
-- Total Subscribers: ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/ubc?style=flat&logo=reddit&logoColor=FFFFFF&label=Users&color=002145)
 
-Lemmy Community: 
-- Created June 11 2023
+The r/UBC Reddit community has been around since May 06, 2009, and has since grown to have tens of thousands of users, including students, professors, staff, and other community members. 
+
+In June 11 2023, with the ongoing Reddit protests, a backup community was created on Lemmy (the federated Reddit alternative). This backup community is managed by the same team from r/UBC, and it is available for any users that would like to use it. Should there be any issues with Reddit in the future, this backup community is the place to gather and discuss. 
+
+Later that same year, this wiki website was officially launched 🥳 
+
+
+- Total Subscribers: ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/ubc?style=flat&logo=reddit&logoColor=FFFFFF&label=Users&color=002145)
 - Total Subscribers: ![Lemmy](https://img.shields.io/lemmy/ubc%40lemmy.ca?style=flat&logo=lemmy&logoColor=FFFFFF&label=Users&color=002145)
 
 ## Census Results
-- 2021 results - [TBA]
-- [2018 results](./census/2018.md)
-- [2017 results](./census/2017.md)
+
+2021 results - [TBA]
+
+[2018 results](./census/2018.md)
+
+[2017 results](./census/2017.md)
 
 ## 'Best of' Awards
 

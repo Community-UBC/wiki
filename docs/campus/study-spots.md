@@ -1,14 +1,11 @@
-# 🏫 Study Spots
+#
 
-this page needs work
+<p align="center" style="font-size:60px;">🏫</p>
+<p align="center" style="font-size:48px;">Study Spots</p>
 
-**List**
-- Asian Centre (beautiful in the spring, basement is quiet)
-- Woodward (explore upper floors for quiet spaces)
-- Allard
-- Education
-- Indigenous students library
-- Koerner (dungeon)
+This page is a work in progress. To contribute or make a suggestion, [see the instructions here](../index.md#contributing).
 
-**Links**
+---
+In the meantime, please use the relevant links below:
+
 - [Which library is for you](https://students.ubc.ca/ubclife/which-ubc-library-you)

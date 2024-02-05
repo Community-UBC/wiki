@@ -1,9 +1,7 @@
-<p align="center" style="font-size:60px;">📫</p>
-<p align="center" style="font-size:36px;">Admissions</p>
+#
 
----
-<!-- toc -->
----
+<p align="center" style="font-size:60px;">📬</p>
+<p align="center" style="font-size:36px;">Admissions</p>
 
 ## Admissions Rates (from High School)
 

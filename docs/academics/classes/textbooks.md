@@ -1,3 +1,5 @@
+#
+
 <p align="center" style="font-size:60px;">📕</p>
 <p align="center" style="font-size:36px;">Textbooks</p>
 
@@ -113,14 +115,20 @@ Here are some courses that are a great model for afforable and ethical learning 
 
 <br>
 
-|  | Meaning |
-| --- | --- |
-| 🟢 | Free |
-| 🟡 | Cheap |
-| 🌐 | Open Source |
-| 🖇️ | Closely tied to the course content |
-| 📚 | Long term value / good reference after course |
-| 💻 | Accessible formats (ex. online) |
+**Symbols**
+
+<div class="grid cards" markdown>
+
+- :green_circle: __Free__
+- :yellow_circle: __Cheap__
+- :globe_with_meridians: __Open Source__
+- :paperclips: **Closely tied to the course content**
+- :books: **Long term value** (even after course)
+- :computer: **Accessible formats** (ex. online)
+
+</div>
+
+
 
 
 
@@ -166,12 +174,15 @@ One of the easiest ways that a course can improve is by making the textbook opti
 
 <br>
 
-|  | Meaning |
-| --- | --- |
-| 🔴 | Expensive |
-| 👎 | Irrelevant / Not helpful / Barely used |
-| 🚫 | Mandatory Online Component / Unnecessary bundling |
-| 🔢 | Unethical practices (ex. renumbering pages/questions to force new purchases)  |
+<div class="grid cards" markdown>
+
+- :red_circle: __Expensive__
+- :thumbsdown: **Irrelevant / Not helpful / Barely used**
+- :no_entry: **Mandatory Online Component** / **Unnecessary bundling**
+- :1234: **Unethical practices** (ex. small edits to force new purchases)
+
+
+</div>
 
 ---
 

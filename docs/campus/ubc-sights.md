@@ -1,16 +1,17 @@
+#
+
 <p align="center" style="font-size:60px;">👟</p>
 <p align="center" style="font-size:36px;">Places to visit,  Things to do</p>
 
----
-<!-- toc -->
----
 
-> *The ages old, traditional questions of what to do/where to go/must-see sights/hidden gems/bucket list items haunts the UBC community every year, asked by every person new to UBC, from incoming freshman/transfer/exchange students to visitors, and even old seasoned students who just never took/had the time to look around. Here's your answer to those questions.*
-> 
-> *I created this a couple of years ago and have sporadically updated it since, so it's by no means a comprehensive list, but hopefully serves some people well. If anyone has additions, I'll try to keep this updated and this will also be one of the resources in the r/UBC wiki. I also wanted to note that this is not my work alone. Along with my own suggestions, I've compiled ideas from friends and other people that I've seen from other r/UBC threads, so thank you everyone.*
-> *Happy exploring!*
-> 
->    \- /u/AniriC
+
+!!! quote "/u/Aniric"
+
+    *The ages old, traditional questions of what to do/where to go/must-see sights/hidden gems/bucket list items haunts the UBC community every year, asked by every person new to UBC, from incoming freshman/transfer/exchange students to visitors, and even old seasoned students who just never took/had the time to look around. Here's your answer to those questions.*
+
+    *I created this a couple of years ago and have sporadically updated it since, so it's by no means a comprehensive list, but hopefully serves some people well. If anyone has additions, I'll try to keep this updated and this will also be one of the resources in the r/UBC wiki. I also wanted to note that this is not my work alone. Along with my own suggestions, I've compiled ideas from friends and other people that I've seen from other r/UBC threads, so thank you everyone.*
+
+    *Happy exploring!*
 
 ### Gardens:
 * Rose Garden (go in the summer June-July for roses)
@@ -89,22 +90,23 @@ Note: may or may not still be around - some installations are transient
 #### [Bird friendly window art](https://sustain.ubc.ca/stories/bird-friendly-art-saves-feathered-lives)
 - can be found on CIRS building and UBC Botanical garden
 
-<div style="text-align: center; padding: 20px; ">
-  <img src="img-ubc-sights/bird-strike-closeup.webp" alt="bird-strike-closeup" width="400">
-</div>
+<figure markdown>
+  ![bird-strike-closeup](../assets/img/campus/ubc-sights/bird-strike-closeup.webp){ width="400" }
+</figure>
 
-<div style="text-align: center; padding: 20px; ">
-  <img src="img-ubc-sights/bird-strike-cirs.jpg" alt="bird-strike-cirs" width="600">
-</div>
+<figure markdown>
+  ![bird-strike-cirs](../assets/img/campus/ubc-sights/bird-strike-cirs.jpg){ width="600" }
+</figure>
 
 #### [LGBTQ rainbow Pride wall ](https://news.ubc.ca/2018/10/15/ubc-officially-unveils-pride-installation-at-heart-of-campus-today/)
 
 #### [Pressure washer art](https://imgur.com/7j7UCSf) 
 - I don't have a name for this and could never find it online - I found it in first year, but it's now covered up by shrubbery
 
-<div style="text-align: center; padding: 20px; ">
-  <img src="img-ubc-sights/sights-art-pressure.png" alt="sights-art-pressure" width="600">
-</div>
+
+<figure markdown>
+  ![sights-art-pressure](../assets/img/campus/ubc-sights/sights-art-pressure.png){ width="600" }
+</figure>
 
 
 #### [Millennial Time Machine](https://ahva.ubc.ca/events/event/rodney-grahams-millennial-time-machine/) 
@@ -130,24 +132,24 @@ Note: may or may not still be around - some installations are transient
 
 - Cherry blossoms during the spring (can be found by the nest, along main mall, various other spots across campus)
 
-<div style="text-align: center; padding: 20px; ">
-  <img src="img-ubc-sights/blossoms.jpg" alt="blossoms" width="600">
-</div>
+<figure markdown>
+  ![blossoms](../assets/img/campus/ubc-sights/blossoms.jpg){ width="600" }
+</figure>
 
 - Autumn at UBC
 - Fairy lights on main mall
 
-<div style="text-align: center; padding: 20px; ">
-  <img src="https://i.imgur.com/T6Y1eKE.jpg" alt="fairy-lights" width="600">
-</div>
+<figure markdown>
+  ![fairy-lights](https://i.imgur.com/T6Y1eKE.jpg){ width="600" }
+</figure>
   
 * Top floor of OC (or Buchanan Tower or Ponderosa) (if you can get somebody to give you access the view is lovely)
 * labyrinth a little northwest of Great Dane Coffee
 - Waterfall and garden area between the Health Sciences Parkade and the hospital
 
-<div style="text-align: center; padding: 20px; ">
-  <img src="img-ubc-sights/hospital-garden.jpg" alt="hospital-garden" width="600">
-</div>
+<figure markdown>
+  ![hospital-garden](../assets/img/campus/ubc-sights/hospital-garden.jpg){ width="600" }
+</figure>
 
 * Buchanan swing
 * UBC Farm
