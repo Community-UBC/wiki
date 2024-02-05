@@ -4,6 +4,8 @@
 <p align="center" style="font-size:60px;">🧠</p>
 <p align="center" style="font-size:48px;">Mental Health</p>
 
+Thank you to [/u/blacknwhitelife02](https://www.reddit.com/user/blacknwhitelife02) for putting this together!
+
 ## Mental Health Resources through UBC
 
 <br/>
@@ -142,6 +144,7 @@ Fees
 <br/>
 
 Offered by the program: 
+
 * Free and confidential drop-in and brief counselling services
 * Planning sessions to help you meet difficult challenges while attending UBC, including how to locate a doctor or find community resources like a daycare
 * Mentoring from professional staff
@@ -151,6 +154,7 @@ Offered by the program:
 <br/>
 
 Locations:
+
 * Brock Hall Counselling Services 
 * First Nations Longhouse
 
@@ -166,6 +170,7 @@ Locations:
 <br/>
 
 Programs for both UBC Vancouver and UBC Okanagan Students 
+
 * [Happy Together: Relationship Skills Group](https://students.ubc.ca/health/counselling-services/group-counselling-programs/happy-together-relationship-skills-group)
 * [Mindful Stress Management](https://students.ubc.ca/health/counselling-services/group-counselling-programs/mindful-stress-management)
 * [(Re)Claim and Connect: A guided storytelling group for Asian Canadians](https://students.ubc.ca/health/counselling-services/group-counselling-programs/reclaim-connect-guided-storytelling-group-asian-canadians)
@@ -175,6 +180,7 @@ Programs for both UBC Vancouver and UBC Okanagan Students
 <br/>
 
 Programs for only UBC Vancouver students 
+
 * [Balancing Emotions Program](https://students.ubc.ca/health/counselling-services/group-counselling-programs/balancing-emotions-program)
 * [Thriving in Grad School](https://students.ubc.ca/health/counselling-services/group-counselling-programs/thriving-grad-school)
 * [Global Connections](https://students.ubc.ca/health/counselling-services/group-counselling-programs/global-connections)
@@ -188,16 +194,23 @@ Programs for only UBC Vancouver students
 
 ### Support Groups and meetings
 
-* Kaleidoscope 
-  * **Link:** [About Kaleidoscope](https://the-kaleidoscope.com/about/)
-  * The Kaleidoscope offers weekly peer led support groups for undergraduate and graduate students living with the experience of mental health concerns.
-* UBC Student Recovery Community 
-  * **Link:** [students.ubc.ca/health/ubc-student-recovery-community](https://students.ubc.ca/health/ubc-student-recovery-community)
-  * For students who are in recovery, or curious to explore their relationship with alcohol, drugs, and/or addictive behaviours such as disordered eating, the SRC offers peer led support meetings.
-* UBC Sexual Assault Support Centre 
+Kaleidoscope 
+
+  - **Link:** [About Kaleidoscope](https://the-kaleidoscope.com/about/)
+  - The Kaleidoscope offers weekly peer led support groups for undergraduate and graduate students living with the experience of mental health concerns.
+    
+UBC Student Recovery Community 
+
+  - **Link:** [students.ubc.ca/health/ubc-student-recovery-community](https://students.ubc.ca/health/ubc-student-recovery-community)
+  - For students who are in recovery, or curious to explore their relationship with alcohol, drugs, and/or addictive behaviours such as disordered eating, the SRC offers peer led support meetings.
+
+UBC Sexual Assault Support Centre 
+
   * **Link:** [amssasc.ca/support/support-services-available](https://www.amssasc.ca/support/support-services-available/)
   * ASC Support & Advocacy staff facilitate peer support groups for prospective, current and recent UBC students of all genders who have experienced any form of sexualized violence, harassment and/or abuse.
-* UBC Peer Grief Support Group
+
+UBC Peer Grief Support Group
+
   * **Link:** [Sign up (google forms)](https://docs.google.com/forms/d/e/1FAIpQLScY1gOw9YbLVvUQVQCHAWENRuT3_0jANvh3luFV8zFkFv_hrw/viewform?usp=sf_link)
   * **Link:** [Discord](https://discord.gg/fgz8uaSs)
 
