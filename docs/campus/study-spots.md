@@ -20,7 +20,7 @@ There’re often many spots in a building, I just picked wherever was free, so t
 A bit farther out, with quite a few study spots on the first floor. Gets busy around noon in between classes, but mostly quiet-Ish. However, there aren’t a lot of spots with plugs.
 
 <figure markdown>
-  ![study-space](../assets/img/campus/study-spots/1-pharmaceutical.webp){ }
+  ![study-space](../assets/img/campus/study-spots/1-pharmaceutical.webp){ align=left width="200" }
 </figure>
 
 ## 2) AMS NEST

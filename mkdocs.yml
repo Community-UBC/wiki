@@ -4,10 +4,12 @@ site_description: |
   This is the wiki project by CommunityUBC
 repo_url: https://github.com/CommunityUBC/ubcwiki
 repo_name: CommunityUBC/ubcwiki
+site_url: https://communityubc.github.io/ubcwiki
 
 plugins:
   - search
-  # - social
+  - social
+  - glightbox
 
 extra_css:
   - stylesheets/extra.css
