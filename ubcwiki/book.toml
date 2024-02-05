@@ -14,7 +14,7 @@ renderer = ["html"]
 
 [output.html]
 preferred-dark-theme = "navy"
-no-section-label = true
+no-section-label = false
 git-repository-url = "https://github.com/CommunityUBC/ubcwiki"
 git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/CommunityUBC/ubcwiki/edit/main/ubcwiki/{path}"

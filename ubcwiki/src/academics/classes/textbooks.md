@@ -1,4 +1,6 @@
-# 📕 Textbooks
+<p align="center" style="font-size:60px;">📕</p>
+<p align="center" style="font-size:36px;">Textbooks</p>
+
 
 Textbook companies often have business practices that force students to pay large amounts while already on a tight budget. While some courses have switched to more equitable and affordable models, such as open learning materials, some of your classes may still have expensive and/or unethical practices.
 
