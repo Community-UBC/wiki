@@ -8,7 +8,7 @@ This is the repository for: https://ubcwiki.ca
 
 ## Technical Details
 
-This wiki is powered by mdBook, a free and open source project written in Rust. You can find more information on the [⚙️UBCWiki Project](https://communityubc.github.io/ubcwiki/meta/project.html) page.
+~~This wiki is powered by mdBook, a free and open source project written in Rust. You can find more information on the [⚙️UBCWiki Project](https://communityubc.github.io/ubcwiki/meta/project.html) page.~~
 
 ## Contributing
 
