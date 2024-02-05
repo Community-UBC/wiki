@@ -1,4 +1,5 @@
-# 📜 Research
+<p align="center" style="font-size:60px;">📜</p>
+<p align="center" style="font-size:36px;">Research</p>
 
 As a UBC student, you already have access to a lot of research resources through the UBC Library.
 

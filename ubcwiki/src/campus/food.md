@@ -1,4 +1,7 @@
-# 🍴 Food Spots
+<p align="center" style="font-size:60px;">🍴</p>
+<p align="center" style="font-size:48px;">Food Spots</p>
+
+This page is a work in progress. In the meantime, please use the relevant links below:
 
 > This page is a work in progress. If you have any suggestions, please [let us know](https://communityubc.github.io/ubcwiki/meta/project.html#contributing).
 

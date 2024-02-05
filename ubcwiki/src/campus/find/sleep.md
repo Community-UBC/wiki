@@ -1,9 +1,7 @@
-# 🛏️ Sleeping / Napping Spots
+<p align="center" style="font-size:60px;">🛏️</p>
+<p align="center" style="font-size:48px;">Sleeping / Napping Spots</p>
 
-This page needs a lot more work, but it was made live early to list the links below.
-
-## Places to Nap
-- TODO
+This page is a work in progress. In the meantime, please use the relevant links below:
 
 
 ## Places to sleep overnight

@@ -1,0 +1,98 @@
+site_name: UBC Wiki
+site_author: CommunityUBC and contributors
+site_description: |
+  This is the wiki project by CommunityUBC
+repo_url: https://github.com/CommunityUBC/ubcwiki
+repo_name: CommunityUBC/ubcwiki
+
+plugins:
+  - search
+  # - social
+
+extra_css:
+  - stylesheets/extra.css
+  
+nav:
+  - Home: index.md
+  - About: 
+    - UBCWiki Project: meta/project.md
+    - r/UBC and c/UBC: meta/community.md
+    - Community Guidelines: meta/guidelines.md
+    - Wiki Changelog: meta/changelog.md
+    - Outdated Setup & Config: meta/mdBook-config.md
+    - Census:
+      - 2017: meta/census/2017.md
+      - 2018: meta/census/2018.md
+    
+  - List of Tools & Websites: tools.md
+  - 📬 Admissions & Housing: 
+    - Admissions Guide: admissions/guide.md
+      # - BC Domestic: 
+      # - International: 
+      # - Transfer: 
+    - Housing Guide: housing/guide.md
+  - 📅 Course Planning:
+    - Registration Info & Tools: course-planning/registration.md
+    - GPA Boosters & Recommended Courses: course-planning/recommended-courses.md
+  - 📕 Academics:
+    - Textbooks: academics/classes/textbooks.md
+    - Research: academics/research.md
+  - 📌 Campus:
+    - Places to Visit: campus/ubc-sights.md
+    - Food Spots: campus/food.md
+    - Study Spots: campus/study-spots.md
+    - Lost & Found: campus/lost-and-found.md
+    - 🔎 Where to find...:
+      - Lockers: campus/find/lockers.md
+      - Printers: campus/find/printers.md
+      - Showers: campus/find/showers.md
+      - Nap / Sleep: campus/find/sleep.md
+  - ❤️‍🩹 Wellbeing:
+    - Mental Health: wellbeing/mental-health.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+theme:
+  name: material
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+  icon:
+    repo: simple/github
+
+extra:
+  social:
+    - icon: simple/lemmy
+      link: https://www.lemmy.ca/c/ubc
+    - icon: simple/reddit
+      link: https://www.reddit.com/r/ubc/
+  generator: false
