@@ -15,8 +15,7 @@ In June 11 2023, with the ongoing Reddit protests, a backup community was create
 Later that same year, this wiki website was officially launched 🥳 
 
 
-- Total Subscribers: ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/ubc?style=flat&logo=reddit&logoColor=FFFFFF&label=Users&color=002145)
-- Total Subscribers: ![Lemmy](https://img.shields.io/lemmy/ubc%40lemmy.ca?style=flat&logo=lemmy&logoColor=FFFFFF&label=Users&color=002145)
+> Live subscriber counts are currently unavailable because of [a bug with shields.io](https://github.com/badges/shields/issues/9817). Please check the sidebars of each community in the meantime.
 
 ## Census Results
 

@@ -9,11 +9,6 @@ If you are ever unsure about a post or comment, please [contact the moderation t
 
 At the discretion of the moderation team, users who violate these guidelines may have their content removed and/or receive a ban. In addition, we strongly frown upon reposts and LQ posts, and such posts may be removed. If you have a concern regarding a removal or ban, please [contact us directly](http://www.reddit.com/message/compose?to=%2Fr%2FUBC). 
 
----
-To read more about a particular rule, you can jump to the appropriate section below:
-<!-- toc -->
----
-
 ## 1. Be Polite
 
 Please treat all other users with respect. Respect looks different to different people; always air on the side of caution. Please do not make discriminatory comments or slurs. This includes but is not limited to:
@@ -115,7 +110,7 @@ Unless there are clear and direct implications for the UBC community (ex. FAFSA,
 
 <!--  Short form for sidebars:
 
-**[Full Guidelines](https://communityubc.github.io/ubcwiki/meta/guidelines.html)**
+**[Full Guidelines](https://communityubc.github.io/ubcwiki/meta/guidelines)**
 
 Summarized Guidelines:
 
@@ -127,15 +122,15 @@ Summarized Guidelines:
 
 4. **Keep content relevant**: Posts must be related to UBC or its community. All memes must be OC and/or explicitly related to UBC.
 
-5. **Follow community rules**: This includes illegal activities, linking to unauthorized copyrighted materials, doxxing, and violations of UBC academic conduct policy ([read more](https://communityubc.github.io/ubcwiki/meta/guidelines.html#5-follow-sitewide--university-rules)).
+5. **Follow community rules**: This includes illegal activities, linking to unauthorized copyrighted materials, doxxing, and violations of UBC academic conduct policy ([read more](https://communityubc.github.io/ubcwiki/meta/guidelines#5-follow-sitewide--university-rules)).
 
-6. **Advertisements**: UBC affiliated non-profit organizations may advertise within reasonable limits. Everyone else must [contact us](http://www.reddit.com/message/compose?to=%2Fr%2FUBC) before posting. No private advertisement of any sale or purchase. ([read more](https://communityubc.github.io/ubcwiki/meta/guidelines.html#6-no-advertisements)).
+6. **Advertisements**: UBC affiliated non-profit organizations may advertise within reasonable limits. Everyone else must [contact us](http://www.reddit.com/message/compose?to=%2Fr%2FUBC) before posting. No private advertisement of any sale or purchase. ([read more](https://communityubc.github.io/ubcwiki/meta/guidelines#6-no-advertisements)).
 
-7. **Surveys**: Surveys should be posted only if they are related to UBC or are of unique interest to the UBC community. Only some survey types are allowed ([read more](https://communityubc.github.io/ubcwiki/meta/guidelines.html#7-surveys)).
+7. **Surveys**: Surveys should be posted only if they are related to UBC or are of unique interest to the UBC community. Only some survey types are allowed ([read more](https://communityubc.github.io/ubcwiki/meta/guidelines#7-surveys)).
 
-8. **No discussion of foreign politics** unless it has clear and direct implications for the UBC community ([read more](https://communityubc.github.io/ubcwiki/meta/guidelines.html#8-no-foreign-politics)).
+8. **No discussion of foreign politics** unless it has clear and direct implications for the UBC community ([read more](https://communityubc.github.io/ubcwiki/meta/guidelines#8-no-foreign-politics)).
 
-9. **Lost & Found Posts** are only allowed for some items ([read more](https://communityubc.github.io/ubcwiki/meta/guidelines.html#9-lost--found-posts)). Found posts SHOULD NOT include images or descriptors (color, location) of the item. Pictures with personal information are also prohibited.
+9. **Lost & Found Posts** are only allowed for some items ([read more](https://communityubc.github.io/ubcwiki/meta/guidelines#9-lost--found-posts)). Found posts SHOULD NOT include images or descriptors (color, location) of the item. Pictures with personal information are also prohibited.
 
 In addition, we strongly frown upon reposts and LQ posts, and such posts may be removed.
 

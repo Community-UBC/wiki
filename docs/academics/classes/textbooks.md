@@ -10,7 +10,7 @@ Here are some tips on how to handle textbooks in university.
 
 ### ☑️ TIP 1: NEVER buy books ahead of time
 
-In some classes, the book actually is an invaluable resource. You can see the **[Hall of Fame](https://communityubc.github.io/ubcwiki/academics/classes/textbooks.html#-hall-of-fame)** section below for some examples. However, with most classes you will find that you don't actually use the textbook. In some cases, the professor will TELL you that you don't need it sometime in the first week.
+In some classes, the book actually is an invaluable resource. You can see the **[Hall of Fame](./textbooks.md#-hall-of-fame)** section below for some examples. However, with most classes you will find that you don't actually use the textbook. In some cases, the professor will TELL you that you don't need it sometime in the first week.
 
 Sometimes you will need to buy a specific version of the book, you will need some special online access, or it might be cheaper buying from a particular source. When in doubt, it's always best to wait for the first week of classes.
 

@@ -8,14 +8,14 @@ This is the repository for: https://ubcwiki.ca
 
 ## Technical Details
 
-This wiki is powered by mdBook, a free and open source project written in Rust. You can find more information on the [⚙️UBCWiki Project](https://communityubc.github.io/ubcwiki/meta/project.html) page.
+This wiki is powered by mkDocs-Material, a free and open source project. You can find more information on the [⚙️UBCWiki Project](https://communityubc.github.io/ubcwiki/meta/project/) page.
 
 ## Contributing
 
 See an error? Want to add something? This wiki is an open source community project, and we welcome contributions. If you would like to change something, you can:
 
 - Submit your suggestions or corrections using [this Google form](https://forms.gle/8L7GPodjp2SNRM2w9)
-- Send us a [modmail on Reddit](https://www.reddit.com/message/compose?to=%2Fr%2FUBC) or [message Otter on Lemmy](https://lemmy.ca/u/Otter)
+- Send us a [modmail on Reddit](https://www.reddit.com/message/compose?to=%2Fr%2FUBC) or [message the user u/Otter on Lemmy](https://lemmy.ca/u/Otter)
 - Discuss in the UBC [Reddit](https://reddit.com/r/ubc) and [Lemmy](https://lemmy.ca/c/ubc) communities
 - Share the wiki with your friends and classmates
 
