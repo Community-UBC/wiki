@@ -5,7 +5,8 @@ This guide is an unofficial community driven project that aims to provide a cent
 For help navigating this website, [see here (external link)](https://rust-lang.github.io/mdBook/guide/reading.html).
 
 ## Official Community Links
-* UBC Reddit Community: [reddit.com/r/ubc](https://reddit.com/r/ubc)  ( ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/ubc?style=flat&logo=reddit&logoColor=FFFFFF&label=Users&color=002145) )
+* UBC Reddit Community: [reddit.com/r/ubc](https://reddit.com/r/ubc)
+<!-- ( ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/ubc?style=flat&logo=reddit&logoColor=FFFFFF&label=Users&color=002145) ) -->
 * UBC Lemmy Community: [lemmy.ca/c/ubc](https://lemmy.ca/c/ubc) ( ![Lemmy](https://img.shields.io/lemmy/ubc%40lemmy.ca?style=flat&logo=lemmy&logoColor=FFFFFF&label=Users&color=002145) )
 
 

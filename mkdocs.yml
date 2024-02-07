@@ -1,7 +1,7 @@
 site_name: UBC Wiki
 site_author: CommunityUBC and contributors
 site_description: |
-  This is the wiki project by CommunityUBC
+  Tools, tips, and resources compiled by the UBC community on Reddit & Lemmy
 repo_url: https://github.com/CommunityUBC/ubcwiki
 repo_name: CommunityUBC/ubcwiki
 site_url: https://communityubc.github.io/ubcwiki
