@@ -16,7 +16,7 @@ extra_css:
   
 nav:
   - Home: index.md
-  - About: 
+  - About Wiki Project: 
     - UBCWiki Project: meta/project.md
     - r/UBC and c/UBC: meta/community.md
     - Community Guidelines: meta/guidelines.md
@@ -90,6 +90,7 @@ theme:
     - search.highlight
   icon:
     repo: simple/github
+  custom_dir: overrides
 
 extra:
   social:
