@@ -1,23 +1,47 @@
 # UBC Wiki Project
 
-This guide is an unofficial community driven project that aims to provide a central location for information about UBC.
+---
 
-Please use the links above to navigate through the different sections. You can also the search bar to quickly find content.
+## A central location for guides, tools, and information about UBC.
 
-## Official Community Links
-* UBC Reddit Community: [reddit.com/r/ubc](https://reddit.com/r/ubc)
-<!-- ( ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/ubc?style=flat&logo=reddit&logoColor=FFFFFF&label=Users&color=002145) ) -->
-* UBC Lemmy Community: [lemmy.ca/c/ubc](https://lemmy.ca/c/ubc)
- <!-- ( ![Lemmy](https://img.shields.io/lemmy/ubc%40lemmy.ca?style=flat&logo=lemmy&logoColor=FFFFFF&label=Users&color=002145) ) -->
+This is an unofficial, community driven project made possible by many cool people in the UBC community.
 
+---
 
-For stats, census results, and 'Best of' winners: [🙌 Community Info](./meta/community.md)
-
-## Technical Details
-
-This wiki is powered by mkdocs-material, a free and open source project. You can find more information on the [⚙️UBCWiki Project](./meta/project.md) page.
+<br>
+<br>
 
 
+
+## Our Online Communities
+
+<div class="grid cards" markdown>
+
+- :simple-reddit: __Reddit Community (r/UBC)__
+
+    ---
+
+    Link to community: [reddit.com/r/ubc](https://reddit.com/r/ubc)
+
+    Created on May 06, 2009, it supports over 90k users (as of 2024-02), including students, professors, staff, and other community members.
+
+ <!-- The subreddit is not private, there is a bug with shields.io badges. -->
+
+- :simple-lemmy: __Lemmy Community (c/UBC)__
+
+    ---
+
+    Link to community: [lemmy.ca/c/ubc](https://lemmy.ca/c/ubc)
+
+    Created on June 11, 2023 as a backup platform for the users on r/UBC. This decentralized and open-source alternative ensures that we will continue to have an accessible community to connect, share, and discuss.
+    
+</div>
+
+
+For stats, census results, and 'Best of' winners: [🙌 History of r/UBC & c/UBC](./meta/community.md)
+
+<br>
+<br>
 
 ## Contributing
 
