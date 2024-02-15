@@ -1,18 +1,6 @@
 # ⭐ Helpful Tools
 
-See tools in their relevant sections:
-
-#### [📕 Textbooks](./academics/classes/textbooks.md)
-
-#### [📜 Research](./academics/research.md)
-
-#### [📅 Course Registration](./course-planning/registration.md)
-
----
-
-# Other tools
-
-As this wiki is developed, these links may be reorganized or moved to other sections.
+This page contains links that aren't found elsewhere on this wiki. As the site is developed, these links may be reorganized or moved to other sections.
 
 ### 🏘️ Housing
 
