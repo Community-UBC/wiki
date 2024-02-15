@@ -29,14 +29,14 @@
 
 * Update scihub mirrors
 * Add UBC Grades chrome extension
-* Add textbooks to https://ubcwiki.ca/academics/classes/textbooks.html
+* Add textbooks to https://ubcwiki.ca/academics/classes/textbooks
 * Add changelog and add 'Last updated' date to pages
 
 ---
 
 **2023-09-24**
 
-* Add textbooks to https://ubcwiki.ca/academics/classes/textbooks.html
+* Add textbooks to https://ubcwiki.ca/academics/classes/textbooks
 * Update site meta information
 
 ---

@@ -18,9 +18,20 @@ You can use [this Documentation](https://squidfunk.github.io/mkdocs-material/get
 
 This guide assumes you know how to use the command line and git. If you don't, please see the [contributing](../index.md#contributing) section on other ways to help or make changes.
 
-1. Clone this repository: https://github.com/CommunityUBC/ubcwiki
-2. Install with pip with `pip install mkdocs-material`, or refer to the [official instructions](https://squidfunk.github.io/mkdocs-material/getting-started/) here
-3. Install the other plugins with `pip install mkdocs-glightbox` and `pip install "mkdocs-material[imaging]"`. We use these plugins for things like zooming on images.
+1. Clone this repository: [https://github.com/CommunityUBC/ubcwiki](https://github.com/CommunityUBC/ubcwiki)
+2. Install with pip with the command below, or refer to the [official instructions](https://squidfunk.github.io/mkdocs-material/getting-started/).
+
+
+    ``` bash
+    pip install mkdocs-material
+    ```
+
+3. Install the other plugins with the following commands. We use these plugins for things like zooming on images.
+
+    ``` bash
+    pip install mkdocs-glightbox
+    pip install "mkdocs-material[imaging]"
+    ```
 
 ### Run the site locally
 

@@ -8,38 +8,46 @@ site_url: https://communityubc.github.io/ubcwiki
 
 plugins:
   - search
-  - social
+  - social:
+      cards_layout_options:
+        font_family: Noto Sans
+      enabled: !ENV [CI, false]
   - glightbox
 
 extra_css:
   - stylesheets/extra.css
   
 nav:
-  - Home: index.md
-  - About: 
-    - UBCWiki Project: meta/project.md
-    - r/UBC and c/UBC: meta/community.md
-    - Community Guidelines: meta/guidelines.md
-    - Wiki Changelog: meta/changelog.md
-    - Outdated Setup & Config: meta/mdBook-config.md
-    - Census:
-      - 2017: meta/census/2017.md
-      - 2018: meta/census/2018.md
+  - Home: 
+    - Home: index.md
+    - About Wiki Project: 
+      - Technical Details: meta/project.md
+      - Old Setup Guide: meta/mdBook-config.md
+      - Changelog: meta/changelog.md
+    # - Outdated Setup & Config: meta/mdBook-config.md
+    - Our online communities:
+        - History of r/UBC & c/UBC: meta/community.md
+        - Community Guidelines: meta/guidelines.md
+        - Census Results:
+          - 2017: meta/census/2017.md
+          - 2018: meta/census/2018.md
     
-  - List of Tools & Websites: tools.md
-  - 📬 Admissions & Housing: 
-    - Admissions Guide: admissions/guide.md
+  - ✨ Essential Tools & Guides: 
+    - ⭐ Helpful Tools: tools.md
+    - 📬 Admissions Guide: admissions/guide.md
       # - BC Domestic: 
       # - International: 
       # - Transfer: 
-    - Housing Guide: housing/guide.md
-  - 📅 Course Planning:
-    - Registration Info & Tools: course-planning/registration.md
-    - GPA Boosters & Recommended Courses: course-planning/recommended-courses.md
-  - 📕 Academics:
-    - Textbooks: academics/classes/textbooks.md
-    - Research: academics/research.md
-  - 📌 Campus:
+    - 🏠 Housing Guide: housing/guide.md
+    - 📅 Course Registraion & Tools: course-planning/registration.md
+    - Academic Support:
+      - 📕 Textbooks Guide: academics/classes/textbooks.md
+      - 📜 Research Guide: academics/research.md
+      - 🤫 GPA Boosters & Recommended Courses: course-planning/recommended-courses.md
+    - Student Wellbeing:
+      - 🧠 Mental Health Resources: wellbeing/mental-health.md    
+  
+  - 📌 Get around Campus:
     - Places to Visit: campus/ubc-sights.md
     - Study Spots: campus/study-spots.md
     - Food Spots: campus/food.md
@@ -49,12 +57,17 @@ nav:
       - Printers: campus/find/printers.md
       - Showers: campus/find/showers.md
       - Nap / Sleep: campus/find/sleep.md
-  - ❤️‍🩹 Wellbeing:
-    - Mental Health: wellbeing/mental-health.md
+  
 
 markdown_extensions:
   - admonition
   - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
   - pymdownx.superfences
   - attr_list
   - md_in_html
@@ -88,8 +101,11 @@ theme:
     - navigation.indexes
     - search.suggest
     - search.highlight
+    - content.code.copy
+    - content.code.select
   icon:
     repo: simple/github
+  custom_dir: overrides
 
 extra:
   social:
