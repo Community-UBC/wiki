@@ -26,7 +26,7 @@ nav:
       - Changelog: meta/changelog.md
     # - Outdated Setup & Config: meta/mdBook-config.md
     - Our online communities:
-        - History of r/UBC & c/UBC: meta/community.md
+        - History & Best Posts: meta/community.md
         - Community Guidelines: meta/guidelines.md
         - Census Results:
           - 2017: meta/census/2017.md

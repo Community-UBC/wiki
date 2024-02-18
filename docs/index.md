@@ -38,7 +38,7 @@ This is a community driven project made possible by many cool people in the UBC 
 </div>
 
 
-For stats, census results, and the winners of the annual 'Best of' : [🙌 History of r/UBC & c/UBC](./meta/community.md)
+For stats, census results, and the winners of the annual 'Best of' : [🙌 History & Best Posts](./meta/community.md)
 
 <br>
 <br>
