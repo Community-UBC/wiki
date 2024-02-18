@@ -10,7 +10,7 @@
 
 The r/UBC Reddit community has been around since May 06, 2009, and has since grown to have tens of thousands of users, including students, professors, staff, and other community members. 
 
-In June 11 2023, with the ongoing Reddit protests, a backup community was created on Lemmy (the federated Reddit alternative). This backup community is managed by the same team from r/UBC, and it is available for any users that would like to use it. Should there be any issues with Reddit in the future, this backup community is the place to gather and discuss. 
+In June 11 2023, after Reddit made changes to their API which limited access to the site and limited tools used for moderation and accesibility, we created a backup community on a local instance of Lemmy (the federated Reddit alternative). This backup community is managed by the same team from r/UBC, and it is available for any users that would like to use it. Should there be any issues with Reddit in the future, this backup community is the place to regroup and discuss. 
 
 Later that same year, this wiki website was officially launched 🥳 
 
