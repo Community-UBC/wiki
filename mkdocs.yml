@@ -4,7 +4,7 @@ site_description: |
   Tools, tips, and resources compiled by the UBC community on Reddit & Lemmy
 repo_url: https://github.com/CommunityUBC/ubcwiki
 repo_name: CommunityUBC/ubcwiki
-site_url: https://communityubc.github.io/ubcwiki
+site_url: https://communityubc.github.io/ubcwiki/
 
 plugins:
   - search
@@ -26,7 +26,7 @@ nav:
       - Changelog: meta/changelog.md
     # - Outdated Setup & Config: meta/mdBook-config.md
     - Our online communities:
-        - History of r/UBC & c/UBC: meta/community.md
+        - History & Best Posts: meta/community.md
         - Community Guidelines: meta/guidelines.md
         - Census Results:
           - 2017: meta/census/2017.md
@@ -48,6 +48,7 @@ nav:
       - 🧠 Mental Health Resources: wellbeing/mental-health.md    
   
   - 📌 Get around Campus:
+    - General Guide: campus/general.md 
     - Places to Visit: campus/ubc-sights.md
     - Study Spots: campus/study-spots.md
     - Food Spots: campus/food.md

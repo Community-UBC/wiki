@@ -1,0 +1,53 @@
+    <div class="grid cards" markdown>
+
+    - :material-comment:{ .lg .middle } __Best comment__
+
+        ---
+
+        > CONTENT
+
+        [:octicons-arrow-right-24: Link to the comment](LINK)
+
+        Congratulations [u/USERNAME](LINK)
+
+    - :material-post-outline:{ .lg .middle } __Best text post__
+
+        ---
+
+        > CONTENT
+
+        [:octicons-arrow-right-24: Link to the post](LINK)
+
+        Congratulations [u/USERNAME](LINK)
+
+    - :material-image-frame:{ .lg .middle } __Best image or video post__
+
+        ---
+
+        > CONTENT
+
+        [:octicons-arrow-right-24: Link to the post](LINK)
+
+        Congratulations [u/USERNAME](LINK)
+
+    - :material-heart-box:{ .lg .middle } __Most wholesome post/comment__
+
+        ---
+
+        > CONTENT
+
+        [:octicons-arrow-right-24: Link to the post](LINK)
+
+        Congratulations [u/USERNAME](LINK)
+
+    - :fontawesome-solid-face-laugh-squint:{ .lg .middle } __Best meme__
+
+        ---
+
+        > CONTENT
+
+        [:octicons-arrow-right-24: Link to the post](LINK)
+
+        Congratulations [u/USERNAME](LINK)
+
+    </div>

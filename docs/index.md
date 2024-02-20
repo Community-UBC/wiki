@@ -2,9 +2,9 @@
 
 ---
 
-## A central location for guides, tools, and information about UBC.
+## A central location for guides, tools, and information about UBC
 
-This is an unofficial, community driven project made possible by many cool people in the UBC community.
+This is a community driven project made possible by many cool people in the UBC community.
 
 ---
 
@@ -21,9 +21,9 @@ This is an unofficial, community driven project made possible by many cool peopl
 
     ---
 
-    Link to community: [reddit.com/r/ubc](https://reddit.com/r/ubc)
-
-    Created on May 06, 2009, it supports over 90k users (as of 2024-02), including students, professors, staff, and other community members.
+    **Link:** [https://reddit.com/r/UBC/](https://reddit.com/r/ubc)
+    
+    This community on Reddit has grown to support over 90,000 users (as of 2024). These users include students, professors, staff, and other community members.
 
  <!-- The subreddit is not private, there is a bug with shields.io badges. -->
 
@@ -31,14 +31,14 @@ This is an unofficial, community driven project made possible by many cool peopl
 
     ---
 
-    Link to community: [lemmy.ca/c/ubc](https://lemmy.ca/c/ubc)
+    **Link:** [https://lemmy.ca/c/ubc](https://lemmy.ca/c/ubc)
 
-    Created on June 11, 2023 as a backup platform for the users on r/UBC. This decentralized and open-source alternative ensures that we will continue to have an accessible community to connect, share, and discuss.
+    After Reddit made harmful changes in 2023, a backup community was created. This decentralized and open-source alternative, managed by a non-profit, will guarantee that the UBC community has a space to connect, share, and discuss.
     
 </div>
 
 
-For stats, census results, and 'Best of' winners: [🙌 History of r/UBC & c/UBC](./meta/community.md)
+For stats, census results, and the winners of the annual 'Best of' : [🙌 History & Best Posts](./meta/community.md)
 
 <br>
 <br>

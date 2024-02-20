@@ -1,22 +1,14 @@
-# ⭐ Helpful Tools
+
+#
+
+<p align="center" style="font-size:60px;">⭐</p>
+<p align="center" style="font-size:48px;">Helpful Tools</p>
 
 This page contains links that aren't found elsewhere on this wiki. As the site is developed, these links may be reorganized or moved to other sections.
 
-### 🏘️ Housing
+We also have more detailed guides on a number of topics. You can find them on the sidebar to the left. You can also click on `📌 Get around Campus` in the top bar to see guides on places to visit, study spots, food, lost and found, and more.
 
-* [UBC Housing Chances (/u/gprez)](https://old.reddit.com/r/UBC/comments/abbv0h/wanna_know_your_likelihood_for_getting_a_yrh/): Reddit post discussing the chances of getting into a specific residence.
-
-
-### 🗺️ Wayfinding
-
-* [maps.ubc.ca](https://maps.ubc.ca/): Official UBC wayfinding tool
-* [Learning Spaces](https://learningspaces.ubc.ca/find-space): Find information about rooms on campus (ex. outlets, seating, etc.)
-* [UBC Online Timetable](https://sws-van.as.it.ubc.ca/sws_2023/): Find class and room schedules (and empty rooms to study in!)
-
-#### 🚏 Transit
-* [Renew your U-Pass](https://upassbc.translink.ca/)
-* [U-Pass Exemption & Subsidy](https://www.ams.ubc.ca/support-services/u-pass/)
-
+---
 
 ### ℹ️ Ammenities & Services
 
@@ -51,7 +43,7 @@ This page contains links that aren't found elsewhere on this wiki. As the site i
 
 ### 💬 Other communities
 
-In addition to the [UBC subreddit](https://www.reddit.com/r/UBC/) and [UBC Lemmy community](https://lemmy.ca/c/ubc), there are other communities that may be of interest to UBC students:
+In addition to our communities on [Reddit](https://www.reddit.com/r/UBC/) and [Lemmy](https://lemmy.ca/c/ubc), there are other communities that may be of interest:
 
 * [/r/UBCSocial](https://www.reddit.com/r/UBCSocial)
 * [/r/UBCEngineering](https://www.reddit.com/r/UBCEngineering)
