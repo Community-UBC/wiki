@@ -4,7 +4,7 @@ site_description: |
   Tools, tips, and resources compiled by the UBC community on Reddit & Lemmy
 repo_url: https://github.com/CommunityUBC/ubcwiki
 repo_name: CommunityUBC/ubcwiki
-site_url: https://communityubc.github.io/ubcwiki/
+site_url: https://ubcwiki.ca/
 
 plugins:
   - search
