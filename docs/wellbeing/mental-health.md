@@ -2,7 +2,7 @@
 #
 
 <p align="center" style="font-size:60px;">🧠</p>
-<p align="center" style="font-size:48px;">Mental Health</p>
+<p align="center" style="font-size:36px;">Mental Health</p>
 
 Thank you to [/u/blacknwhitelife02](https://www.reddit.com/user/blacknwhitelife02) for putting this together!
 

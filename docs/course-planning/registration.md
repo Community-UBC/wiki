@@ -1,7 +1,7 @@
 # 
 
 <p align="center" style="font-size:60px;">📅</p>
-<p align="center" style="font-size:48px;">Registration Info & Tools</p>
+<p align="center" style="font-size:36px;">Registration Info & Tools</p>
 
 Course scheduling is a nightmare and the SSC loves to ruin your day. Here are some tips and tools to make it better.
 
