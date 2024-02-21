@@ -6,7 +6,7 @@
 
 !!! tip
 
-    To find the other guides in this section, see the sidebar on the left
+    To find the other guides in this section, see the sidebar on the left. Some users don't notice the links when on mobile.
 
 ---
 

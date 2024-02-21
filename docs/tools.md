@@ -6,7 +6,9 @@
 
 This page contains links that aren't found elsewhere on this wiki. As the site is developed, these links may be reorganized or moved to other sections.
 
-We also have more detailed guides on a number of topics. You can find them on the sidebar to the left. You can also click on `📌 Get around Campus` in the top bar to see guides on places to visit, study spots, food, lost and found, and more.
+!!! tip
+
+    To find the other guides in this section, see the sidebar on the left. Some users don't notice the links when on mobile.
 
 ---
 

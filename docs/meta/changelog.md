@@ -5,11 +5,26 @@
 
 ---
 
+**2024-02-21**
+- Finish migration / upgrades for mkDocs-Material
+    - New site format with lots of built in plugins and visuals (cards, admonitions, buttons, icons)
+    - Images can be opened in full
+    - Sharing a page generates a social media card
+    - Fixed bug with 404 pages
+    - Automatic revision dates
+- Added:
+    - Updated setup / config guides
+    - Best of results 2023
+    - Best of results 2022
+    - Study spots by [u/chilylugia](https://www.reddit.com/user/chilylugia)
+    - Lost & Found guide
+- Lots of reorganizing pages to be more intuitive, as well as changes to wording, visuals, and icons
+
+---
+
 **2024-02-05**
 
 - Started large migration to mkDocs-Material
-- Added best-of-2023 results
-- Added study spots by [u/chilylugia](https://www.reddit.com/user/chilylugia)
 
 ---
 
