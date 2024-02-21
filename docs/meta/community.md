@@ -1,7 +1,7 @@
 # 
 
 <p align="center" style="font-size:60px;">🙌</p>
-<p align="center" style="font-size:48px;">Community Info</p>
+<p align="center" style="font-size:36px;">Community Info</p>
 
 !!! info
     For community guidelines, see [here](./guidelines.md).

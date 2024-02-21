@@ -1,7 +1,7 @@
 # 
 
 <p align="center" style="font-size:60px;">⚖️</p>
-<p align="center" style="font-size:48px;">Guidelines</p>
+<p align="center" style="font-size:36px;">Guidelines</p>
 
 This is a more descriptive version of the guidelines shown in the sidebar of our communities on [Reddit](https://reddit.com/r/ubc) and [Lemmy](https://lemmy.ca/c/ubc). We expect everyone to abide by the guidelines listed below. 
 

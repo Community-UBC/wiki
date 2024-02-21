@@ -1,7 +1,7 @@
 #
 
 <p align="center" style="font-size:60px;">🍴</p>
-<p align="center" style="font-size:48px;">Food Spots</p>
+<p align="center" style="font-size:36px;">Food Spots</p>
 
 This page is a work in progress. To contribute or make a suggestion, [see the instructions here](../index.md#contributing).
 

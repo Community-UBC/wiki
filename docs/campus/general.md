@@ -2,7 +2,7 @@
 #
 
 <p align="center" style="font-size:60px;">📌</p>
-<p align="center" style="font-size:48px;">General Guide</p>
+<p align="center" style="font-size:36px;">General Guide</p>
 
 !!! tip
 

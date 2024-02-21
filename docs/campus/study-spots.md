@@ -1,7 +1,7 @@
 #
 
 <p align="center" style="font-size:60px;">🏫</p>
-<p align="center" style="font-size:48px;">Study Spots</p>
+<p align="center" style="font-size:36px;">Study Spots</p>
 
 !!! quote "/u/chilylugia"
 

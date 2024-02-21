@@ -1,17 +1,19 @@
 # 
 
 <p align="center" style="font-size:60px;">📝</p>
-<p align="center" style="font-size:48px;">Wiki Changelog</p>
+<p align="center" style="font-size:36px;">Wiki Changelog</p>
 
 ---
 
 **2024-02-21**
-- Finish migration / upgrades for mkDocs-Material
+
+- Finish migration / upgrades for mkDocs-Material, including:
     - New site format with lots of built in plugins and visuals (cards, admonitions, buttons, icons)
     - Images can be opened in full
     - Sharing a page generates a social media card
     - Fixed bug with 404 pages
     - Automatic revision dates
+    - Custom icon/favicon
 - Added:
     - Updated setup / config guides
     - Best of results 2023

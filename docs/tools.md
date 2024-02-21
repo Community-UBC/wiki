@@ -2,7 +2,7 @@
 #
 
 <p align="center" style="font-size:60px;">⭐</p>
-<p align="center" style="font-size:48px;">Helpful Tools</p>
+<p align="center" style="font-size:36px;">Helpful Tools</p>
 
 This page contains links that aren't found elsewhere on this wiki. As the site is developed, these links may be reorganized or moved to other sections.
 
