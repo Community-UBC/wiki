@@ -1,21 +1,27 @@
 # 
 
 <p align="center" style="font-size:60px;">📅</p>
-<p align="center" style="font-size:36px;">Registration Info & Tools</p>
+<p align="center" style="font-size:48px;">Registration Info & Tools</p>
 
 Course scheduling is a nightmare and the SSC loves to ruin your day. Here are some tips and tools to make it better.
 
-##  Registration FAQ	
+##  	
 
-!!! question "When will I know my registration time?"
+!!! question "Registration FAQ"
+
+    __When will I know my registration time?__
 
     You will know around 2 weeks before the registration. Your time will be within a range according to your year level, and you can find that [range here](https://students.ubc.ca/enrolment/registration/registration-dates). This time can change in some cases so check the SSC again in the days before registration opens.
 
-!!! question "How is registration time calculated exactly?"
+    <br>
+
+    __How is registration time calculated exactly?__
 
     *TODO: Work in progress*
 
-!!! question "I didn’t get a seat in the course I wanted. What should I do?"
+    <br>
+
+    __I didn’t get a seat in the course I wanted. What should I do?__
 
     1. You should first sign up for the waitlist and register for your backup course. 
 
@@ -33,72 +39,91 @@ Course scheduling is a nightmare and the SSC loves to ruin your day. Here are so
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-chart-simple: [UBCGrades.com](https://ubcgrades.com)
+- :fontawesome-solid-chart-simple: __UBCGrades.com__ 
 
     ---
 
     See past grade distributions for courses. This is a great tool to see how hard a course is / how grades vary between sections.
 
-- :fontawesome-solid-people-group: [UBC Profs](https://ubc-profs-reborn.herokuapp.com/)
+    __Link:__ [https://ubcgrades.com](https://ubcgrades.com)
+
+- :fontawesome-solid-people-group: __UBC Profs__
 
     ---
 
     Offers information on grading variance between profs.
 
-- :fontawesome-solid-people-group: [RateMyProf](http://www.ratemyprofessors.com/campusRatings.jsp?sid=1413)
+    __Link:__ [https://ubc-profs-reborn.herokuapp.com/](https://ubc-profs-reborn.herokuapp.com/)
+
+- :fontawesome-solid-people-group: __RateMyProf__
 
     ---
 
     See what profs are like for classes that release who's teaching. Most people know what this is so I won't add more.
 
-- :fontawesome-solid-chart-simple: [UBC Pair](https://pair.ubc.ca/student-data-analytics/performance/grades-distribution/)
+    __Link:__ [http://www.ratemyprofessors.com/...](http://www.ratemyprofessors.com/campusRatings.jsp?sid=1413)
+
+- :fontawesome-solid-chart-simple: __UBC Pair__
 
     ---
 
     Official UBC grade distribution tool, which is more accurate but harder to use. You will need ot access using your UBC VPN, or use it on campus.
 
-- :material-map-marker-path: [UBCExplorer.io](https://ubcexplorer.io/)
+    __Link:__ [https://pair.ubc.ca/...](https://pair.ubc.ca/student-data-analytics/performance/grades-distribution/)
+
+- :material-map-marker-path: __UBCExplorer.io__
 
     ---
 
-    UBC Course Explorer, which allows users to see all course prereqs/coreqs and dependencies - Untested
+    UBC Course Explorer, which allows users to see all course prereqs/coreqs and dependencies (unverified)
+
+    __Link:__ [https://ubcexplorer.io/](https://ubcexplorer.io/)
 
 - **Pre-Req Tree**
 
     ---
     
-    No longer works
+    > No longer available
 
 - **Slacknotes**
 
     ---
     
-    No longer works
+    > No longer available
 
 </div>
 
+---
 
 ### Getting into Full Courses
 
 <div class="grid cards" markdown>
 
-- :material-bell-plus: __[UBC Course Notify](https://www.ubccoursenotify.com/)__
+- :material-bell-plus: __UBC Course Notify__
 
     ---
+
+    __Link:__ [https://www.ubccoursenotify.com/](https://www.ubccoursenotify.com/)
 
     🟢FREE
 
-- :material-bell-plus: **[MyUBCCourseIsFull](http://www.myubccourseisfull.com/)**
+- :material-bell-plus: __MyUBCCourseIsFull__
 
     ---
+
+    __Link:__ http://www.myubccourseisfull.com/
+
+    > No longer available
 
     
 
-- :material-bell-plus: **[UBC Notify](https://ubcnotify.com/)**
+- :material-bell-plus: __UBC Notify__
 
     ---
 
-    Unverified
+    __Link:__ [https://ubcnotify.com/](https://ubcnotify.com/)
+
+    🔴 Paid
 
 </div>
 
@@ -115,37 +140,47 @@ While pen and paper work great, here are some tools that can make the schedule p
 
 <div class="grid cards" markdown>
 
-- :material-calendar-today-outline: **[UBCScheduler](https://ubcscheduler.ca)**
+- :material-calendar-today-outline: __UBCScheduler__
 
     ---
 
     A tool developed by UBC students to help you plan out a course schedule. You can input your courses and it will generate a schedule for you. It also has a feature to help you find a schedule that fits your courses and your preferences.
 
-- :material-calendar-today-outline: **[yichen's tool](https://yichen.dev/UBCScheduler/)**
+    __Link:__ [https://ubcscheduler.ca](https://ubcscheduler.ca)
+
+- :material-calendar-today-outline: __yichen's tool__
 
     ---
 
-    Unverified
+    __Link:__ [https://yichen.dev/UBCScheduler/](https://yichen.dev/UBCScheduler/)
+
+    > Unverified
 
     
 
-- :material-calendar-today-outline: **[HFaran's tool](https://github.com/hfaran/ubc-timetabler)**
+- :material-calendar-today-outline: **HFaran's tool**
 
     ---
 
-    Unverified
+    __Link:__ [:simple-github: hfaran/ubc-timetabler](https://github.com/hfaran/ubc-timetabler)
 
-- :material-calendar-today-outline: **[ChenVictor's tool](https://github.com/chenvictor/CourseScheduler/releases)**
+    > Unverified
 
-    ---
-
-    Unverified
-
-- :material-calendar-today-outline: ubcscheduler.github.io
+- :material-calendar-today-outline: **ChenVictor's tool**
 
     ---
 
-    No longer works
+    __Link:__ [:simple-github: chenvictor/CourseScheduler](https://github.com/chenvictor/CourseScheduler/releases)
+
+    > Unverified
+
+- :material-calendar-today-outline: __UBC Scheduler__
+
+    ---
+
+    __Link:__ https://ubcscheduler.github.io/
+
+    > No longer works
 
 </div>
 
@@ -155,20 +190,20 @@ While pen and paper work great, here are some tools that can make the schedule p
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-wand-magic-sparkles: **[UBC Transcript Formatter - Extension](https://chrome.google.com/webstore/detail/ubc-transcript/kcpilaggggglnjckpcckpngnikfceonn)**
+- :fontawesome-solid-wand-magic-sparkles: __UBC Transcript Formatter - Extension__
 
     ---
 
-    See GitHub page [for details](https://github.com/mchuahua/ubc-transcript)
+    __Link:__ [https://chrome.google.com/webstore/detail/ubc-transcript/...](https://chrome.google.com/webstore/detail/ubc-transcript/kcpilaggggglnjckpcckpngnikfceonn)
 
-- :fontawesome-solid-wand-magic-sparkles: Improved UBC Transcripts
+    __Source:__ [:simple-github: mchuahua/ubc-transcript](https://github.com/mchuahua/ubc-transcript)
+
+- :fontawesome-solid-wand-magic-sparkles: __Improved UBC Transcripts__
 
     ---
 
-    Unverified
+    __Link:__ https://arashout.site/posts/improved-ubc-transcript
+
+    > No longer available
 
 </div>
-
----
-
-Last updated: 2023-09-27

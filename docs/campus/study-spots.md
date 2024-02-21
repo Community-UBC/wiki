@@ -7,11 +7,13 @@
 
     *This might be my last year at UBC, so my partner encouraged me to study at every single building on campus! (since I’ve only pretty much studied at the biology building for the past few years LOOOL)*
 
-    *I hope that this will also encourage y’all to check out different buildings for study spots as well! (Pls don’t come at me for revealing your “secret study spot” 😅 just hoping this will be helpful to some people ☺️)*
+    *I hope that this will also encourage y’all to check out different buildings for study spots as well!*
 
 Thank you to [/u/chilylugia](https://www.reddit.com/user/chilylugia) for putting this together!
 
-!!! info "You can click on the photos to view them in full size"
+!!! tip 
+
+    You can click on the photos to view them in full size
 
 
 ---

@@ -8,6 +8,13 @@ site_url: https://ubcwiki.ca/
 
 plugins:
   - search
+  - privacy
+  - git-revision-date-localized:
+      type: custom
+      custom_format: "Last updated: %B %d, %Y"
+      fallback_to_build_date: true
+      exclude:
+        - index.md
   - social:
       cards_layout_options:
         font_family: Noto Sans

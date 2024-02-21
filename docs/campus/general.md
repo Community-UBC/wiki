@@ -4,9 +4,9 @@
 <p align="center" style="font-size:60px;">📌</p>
 <p align="center" style="font-size:48px;">General Guide</p>
 
-This page is a work in progress. To contribute or make a suggestion, [see the instructions here](../index.md#contributing).
+!!! tip
 
-:material-arrow-left: In the meantime, check out these other guides in the sidebar
+    To find the other guides in this section, see the sidebar on the left
 
 ---
 
@@ -17,5 +17,6 @@ Helpful Links:
 * [UBC Online Timetable](https://sws-van.as.it.ubc.ca/sws_2023/): Find class and room schedules (and empty rooms to study in!)
 
 Transit Specific:
+
 * [Renew your U-Pass](https://upassbc.translink.ca/)
 * [U-Pass Exemption & Subsidy](https://www.ams.ubc.ca/support-services/u-pass/)

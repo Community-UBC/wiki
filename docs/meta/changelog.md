@@ -1,13 +1,13 @@
 # 
 
 <p align="center" style="font-size:60px;">📝</p>
-<p align="center" style="font-size:36px;">Wiki Changelog</p>
+<p align="center" style="font-size:48px;">Wiki Changelog</p>
 
 ---
 
 **2024-02-05**
 
-- Large migration to mkDocs-Material
+- Started large migration to mkDocs-Material
 - Added best-of-2023 results
 - Added study spots by [u/chilylugia](https://www.reddit.com/user/chilylugia)
 

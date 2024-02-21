@@ -1,7 +1,7 @@
 #
 
 <p align="center" style="font-size:60px;">⚙️</p>
-<p align="center" style="font-size:36px;">UBCWiki Project</p>
+<p align="center" style="font-size:48px;">UBCWiki Project</p>
 
 The UBCWiki was initially started by moderators of the /r/UBC subreddit. It has since been moved to GitHub to allow for easier collaboration and contribution.
 
@@ -31,7 +31,10 @@ This guide assumes you know how to use the command line and git. If you don't, p
     ``` bash
     pip install mkdocs-glightbox
     pip install "mkdocs-material[imaging]"
+    pip install mkdocs-git-revision-date-localized-plugin
     ```
+
+    <!-- NOTE:  mkdocs-git-revision-date-localized-plugin is a third party plugin from https://github.com/timvink/mkdocs-git-revision-date-localized-plugin -->
 
 ### Run the site locally
 
@@ -51,7 +54,7 @@ You can copy this boilerplate into your file:
 # 
 
 <p align="center" style="font-size:60px;">😃</p>
-<p align="center" style="font-size:36px;">Title goes here</p>
+<p align="center" style="font-size:48px;">Title goes here</p>
 
 
 Content goes here
