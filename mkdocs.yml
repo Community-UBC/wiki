@@ -114,7 +114,7 @@ theme:
   icon:
     logo: material/bookshelf
     repo: simple/github
-  favicon: assets/bookshelf1.svg
+  favicon: assets/bookshelf.svg
   custom_dir: overrides
 
 extra:
