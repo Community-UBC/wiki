@@ -2,13 +2,58 @@
 
 ---
 
-## A central location for guides, tools, and information about UBC
+<p style="font-size:24px;">A central location for guides, tools, and information about UBC</p>
 
-This is a community driven project made possible by many cool people in the UBC community.
+This is a community driven project made possible by many cool contributors. Thank you ❤️
 
 ---
 
 <br>
+
+## Overview
+
+<div class="grid cards" markdown>
+
+- __✨ Essential Tools & Guides__
+
+    ---
+
+    Includes guides and tools for:
+
+    * admissions
+    * course registration
+    * finding textbooks
+    * mental health resources
+    
+    Other pages being built include housing and recommended courses (ex. GPA boosters).
+
+    <br>
+
+    [Jump to section :material-arrow-right:](./tools.md){ .md-button }
+
+- __📌 Get around Campus__
+
+    ---
+
+    Includes guides and tools for:
+
+    * Places to visit on campus
+    * Study Spots
+    * Food Spots
+    * Lost & Found tips
+
+    We are also collecting information on where to find lockers, printers, showers, and nap/sleep spots.
+
+    <br>
+
+    [Jump to section :material-arrow-right:](./campus/general.md){ .md-button }
+
+</div>
+
+!!! tip
+    
+    Open the sidebar in each section to see all pages for that section
+
 <br>
 
 

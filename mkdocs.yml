@@ -8,6 +8,13 @@ site_url: https://ubcwiki.ca/
 
 plugins:
   - search
+  - privacy
+  - git-revision-date-localized:
+      type: custom
+      custom_format: "Last updated: %B %d, %Y"
+      fallback_to_build_date: true
+      exclude:
+        - index.md
   - social:
       cards_layout_options:
         font_family: Noto Sans
@@ -18,7 +25,7 @@ extra_css:
   - stylesheets/extra.css
   
 nav:
-  - Home: 
+  - UBC Wiki: 
     - Home: index.md
     - About Wiki Project: 
       - Technical Details: meta/project.md
@@ -105,7 +112,9 @@ theme:
     - content.code.copy
     - content.code.select
   icon:
+    logo: material/bookshelf
     repo: simple/github
+  favicon: assets/bookshelf1.svg
   custom_dir: overrides
 
 extra:

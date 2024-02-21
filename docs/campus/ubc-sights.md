@@ -1,7 +1,7 @@
 #
 
 <p align="center" style="font-size:60px;">👟</p>
-<p align="center" style="font-size:36px;">Places to visit,  Things to do</p>
+<p align="center" style="font-size:48px;">Places to visit,  Things to do</p>
 
 
 
@@ -187,7 +187,3 @@ Note: may or may not still be around - some installations are transient
 - [What are some fun things to do during the winter break?](https://old.reddit.com/r/UBC/comments/3wmlim/what_are_some_fun_things_to_do_during_the_winter/)
 - [Things to do in UBC and area](https://old.reddit.com/r/UBC/comments/34r9cg/things_to_do_in_ubc_and_area/)
 - [Pacific Regional Park - where to go in one hour?](https://old.reddit.com/r/UBC/comments/a203zz/pacific_regional_park_where_to_go_in_one_hour/)
-
----
-
-Last updated: 2023-09-21

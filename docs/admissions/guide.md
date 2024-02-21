@@ -1,7 +1,7 @@
 #
 
 <p align="center" style="font-size:60px;">📬</p>
-<p align="center" style="font-size:36px;">Admissions</p>
+<p align="center" style="font-size:48px;">Admissions</p>
 
 ## Admissions Rates (from High School)
 
