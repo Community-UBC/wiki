@@ -93,7 +93,12 @@ We’d like to place special emphasis on these rules:
 **If you are a UBC organization making money:** Please [contact the moderation team](http://www.reddit.com/message/compose?to=%2Fr%2FUBC) before posting an advertisement.
 
 ## 7. Surveys
-Surveys should only be posted if they related to UBC or of unique interest to the UBC community. Please modmail with your ethics approval number (for market research survey, a clear explanation of how your product/service is relevant to UBC would suffice). Do not post surveys for an undergrad class.
+Surveys should only be posted if they related to UBC or of unique interest to the UBC community. 
+
+- For studies, please modmail with your ethics approval number
+- For other surveys (ex.market research), a clear explanation of how your product/service is relevant to UBC would suffice)
+
+Do not post surveys for an undergrad class.
 
 ## 8. No foreign politics
 
