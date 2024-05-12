@@ -69,7 +69,15 @@ Course scheduling is a nightmare and the SSC loves to ruin your day. Here are so
 
     Official UBC grade distribution tool, which is more accurate but harder to use. You will need ot access using your UBC VPN, or use it on campus.
 
-    __Link:__ [https://pair.ubc.ca/...](https://pair.ubc.ca/student-data-analytics/performance/grades-distribution/)
+    <!-- __Link:__ [https://pair.ubc.ca/](https://reports.im.it.ubc.ca/t/Learner/views/GradeDistributionReport/GradeDistributionReport) -->
+
+    !!! info "Pair is currently down"
+
+        > Please note: The Grades Distribution Report has moved to Enterprise Data Governance.
+
+        This page will be updated if the new page becomes accessible.
+        
+        [Source](https://pair.ubc.ca/student-data-analytics/performance/)
 
 - :material-map-marker-path: __UBCExplorer.io__
 

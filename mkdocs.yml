@@ -20,6 +20,14 @@ plugins:
         font_family: Noto Sans
       enabled: !ENV [CI, false]
   - glightbox
+  - redirects:
+      redirect_maps:
+        # 'index.html': 'index.md' # DO NOT do this, death loop
+        'meta/guidelines.html': 'meta/guidelines.md'
+        'tools.html': 'tools.md'
+        'general/mental-health.html': 'wellbeing/mental-health.md'
+        'campus/ubc-sights.html': 'campus/ubc-sights.md'
+        'academics/classes/textbooks.html': 'academics/classes/textbooks.md'
 
 extra_css:
   - stylesheets/extra.css
@@ -28,7 +36,7 @@ nav:
   - UBC Wiki: 
     - Home: index.md
     - About Wiki Project: 
-      - Technical Details: meta/project.md
+      - Installation Guide: meta/project.md
       - Old Setup Guide: meta/mdBook-config.md
       - Changelog: meta/changelog.md
     # - Outdated Setup & Config: meta/mdBook-config.md
@@ -64,7 +72,7 @@ nav:
       - Lockers: campus/find/lockers.md
       - Printers: campus/find/printers.md
       - Showers: campus/find/showers.md
-      - Nap / Sleep: campus/find/sleep.md
+      - Sleep-spots: campus/find/sleep.md
   
 
 markdown_extensions:
@@ -124,3 +132,7 @@ extra:
     - icon: simple/reddit
       link: https://www.reddit.com/r/ubc/
   generator: false
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
