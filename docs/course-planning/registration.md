@@ -87,6 +87,14 @@ Course scheduling is a nightmare and the SSC loves to ruin your day. Here are so
 
     __Link:__ [https://ubcexplorer.io/](https://ubcexplorer.io/)
 
+- :fontawesome-solid-people-group: __UBC Profs Search__
+
+    ---
+    
+    Shows what courses (and UBCGrades links to those courses) that a prof has taught in the past. Useful for finding the past grade distributions or research interests of a certain prof.
+
+    __Link:__ [https://profsearch.randyzhu.com](https://profsearch.randyzhu.com)
+
 - **Pre-Req Tree**
 
     ---
