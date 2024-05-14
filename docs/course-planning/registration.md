@@ -43,25 +43,34 @@ Course scheduling is a nightmare and the SSC loves to ruin your day. Here are so
 
     ---
 
-    See past grade distributions for courses. This is a great tool to see how hard a course is / how grades vary between sections.
+    [ubcgrades.com :octicons-link-external-16:](https://ubcgrades.com){ .md-button .md-button--stretch-center }
 
-    __Link:__ [https://ubcgrades.com](https://ubcgrades.com)
-
-- :fontawesome-solid-people-group: __UBC Profs__
-
-    ---
-
-    Offers information on grading variance between profs.
-
-    __Link:__ [https://ubc-profs-reborn.herokuapp.com/](https://ubc-profs-reborn.herokuapp.com/)
+    This site lets you see past grade distributions for courses. You can use it to judge difficulty, or see how grades changed between each sections or year.
 
 - :fontawesome-solid-people-group: __RateMyProf__
 
     ---
 
-    See what profs are like for classes that release who's teaching. Most people know what this is so I won't add more.
+    [ratemyprofessors.com/... :octicons-link-external-16:](http://www.ratemyprofessors.com/campusRatings.jsp?sid=1413){ .md-button .md-button--stretch-center }
 
-    __Link:__ [http://www.ratemyprofessors.com/...](http://www.ratemyprofessors.com/campusRatings.jsp?sid=1413)
+    Some courses will specify who is teaching, and this tool lets you read past reviews.    
+
+- :fontawesome-solid-people-group: __UBC Profs Search__
+
+    ---
+
+    [profsearch.randyzhu.com :octicons-link-external-16:](https://profsearch.randyzhu.com){ .md-button .md-button--stretch-center }
+
+    
+    Shows what courses (and UBCGrades links to those courses) that a prof has taught in the past. Useful for finding the past grade distributions or research interests of a certain prof.
+
+- :material-map-marker-path: __UBCExplorer.io__
+
+    ---
+
+    [ubcexplorer.io :octicons-link-external-16:](https://ubcexplorer.io/){ .md-button .md-button--stretch-center }
+
+    This tool should let you see all course prereqs/coreqs and dependencies (unverified)
 
 - :fontawesome-solid-chart-simple: __UBC Pair__
 
@@ -71,41 +80,21 @@ Course scheduling is a nightmare and the SSC loves to ruin your day. Here are so
 
     <!-- __Link:__ [https://pair.ubc.ca/](https://reports.im.it.ubc.ca/t/Learner/views/GradeDistributionReport/GradeDistributionReport) -->
 
-    !!! info "Pair is currently down"
+    ??? info "Pair is currently down"
+
+        The Pair tool is likely being migrated, and the link on the website is currently broken. This page will be updated when/if the new page becomes accessible.
 
         > Please note: The Grades Distribution Report has moved to Enterprise Data Governance.
 
-        This page will be updated if the new page becomes accessible.
-        
-        [Source](https://pair.ubc.ca/student-data-analytics/performance/)
+        [source](https://pair.ubc.ca/student-data-analytics/performance/)
 
-- :material-map-marker-path: __UBCExplorer.io__
+- Outdated tools
 
     ---
 
-    UBC Course Explorer, which allows users to see all course prereqs/coreqs and dependencies (unverified)
-
-    __Link:__ [https://ubcexplorer.io/](https://ubcexplorer.io/)
-
-- :fontawesome-solid-people-group: __UBC Profs Search__
-
-    ---
-    
-    Shows what courses (and UBCGrades links to those courses) that a prof has taught in the past. Useful for finding the past grade distributions or research interests of a certain prof.
-
-    __Link:__ [https://profsearch.randyzhu.com](https://profsearch.randyzhu.com)
-
-- **Pre-Req Tree**
-
-    ---
-    
-    > No longer available
-
-- **Slacknotes**
-
-    ---
-    
-    > No longer available
+    > - Pre-Req Tree
+    > - Slacknotes
+    > - UBC Profs: Offered information on grading variance between profs. (ubc-profs-reborn.herokuapp.com)
 
 </div>
 
@@ -119,27 +108,23 @@ Course scheduling is a nightmare and the SSC loves to ruin your day. Here are so
 
     ---
 
-    __Link:__ [https://www.ubccoursenotify.com/](https://www.ubccoursenotify.com/)
-
     🟢FREE
 
-- :material-bell-plus: __MyUBCCourseIsFull__
-
-    ---
-
-    __Link:__ http://www.myubccourseisfull.com/
-
-    > No longer available
-
-    
+    [ubccoursenotify.com :octicons-link-external-16:](https://www.ubccoursenotify.com/){ .md-button .md-button--stretch-center }  
 
 - :material-bell-plus: __UBC Notify__
 
     ---
 
-    __Link:__ [https://ubcnotify.com/](https://ubcnotify.com/)
-
     🔴 Paid
+
+    [ubcnotify.com :octicons-link-external-16:](https://ubcnotify.com/){ .md-button .md-button--stretch-center }
+
+- Outdated tools
+
+    ---
+
+    > - MyUBCCourseIsFull (myubccourseisfull.com)
 
 </div>
 
@@ -160,15 +145,15 @@ While pen and paper work great, here are some tools that can make the schedule p
 
     ---
 
-    A tool developed by UBC students to help you plan out a course schedule. You can input your courses and it will generate a schedule for you. It also has a feature to help you find a schedule that fits your courses and your preferences.
+    [ubcscheduler.ca :octicons-link-external-16:](https://ubcscheduler.ca/){ .md-button .md-button--stretch-center }
 
-    __Link:__ [https://ubcscheduler.ca](https://ubcscheduler.ca)
+    A tool developed by UBC students to help you plan out a course schedule. You can input your courses and it will generate a schedule for you. It also has a feature to help you find a schedule that fits your courses and your preferences.
 
 - :material-calendar-today-outline: __yichen's tool__
 
     ---
 
-    __Link:__ [https://yichen.dev/UBCScheduler/](https://yichen.dev/UBCScheduler/)
+    [yichen.dev/UBCScheduler :octicons-link-external-16:](https://yichen.dev/UBCScheduler/){ .md-button .md-button--stretch-center }
 
     > Unverified
 
@@ -178,7 +163,7 @@ While pen and paper work great, here are some tools that can make the schedule p
 
     ---
 
-    __Link:__ [:simple-github: hfaran/ubc-timetabler](https://github.com/hfaran/ubc-timetabler)
+    [:simple-github: hfaran/ubc-timetabler :octicons-link-external-16:](https://github.com/hfaran/ubc-timetabler){ .md-button .md-button--stretch-center }
 
     > Unverified
 
@@ -186,17 +171,15 @@ While pen and paper work great, here are some tools that can make the schedule p
 
     ---
 
-    __Link:__ [:simple-github: chenvictor/CourseScheduler](https://github.com/chenvictor/CourseScheduler/releases)
+    [:simple-github: chenvictor/CourseSched... :octicons-link-external-16:](https://github.com/chenvictor/CourseScheduler/releases){ .md-button .md-button--stretch-center }
 
     > Unverified
 
-- :material-calendar-today-outline: __UBC Scheduler__
+- Outdated tools
 
     ---
 
-    __Link:__ https://ubcscheduler.github.io/
-
-    > No longer works
+    > - ubcscheduler.github.io
 
 </div>
 
@@ -210,16 +193,23 @@ While pen and paper work great, here are some tools that can make the schedule p
 
     ---
 
-    __Link:__ [https://chrome.google.com/webstore/detail/ubc-transcript/...](https://chrome.google.com/webstore/detail/ubc-transcript/kcpilaggggglnjckpcckpngnikfceonn)
+    [:fontawesome-brands-chrome: ubc-transcript :octicons-link-external-16:](https://chrome.google.com/webstore/detail/ubc-transcript/kcpilaggggglnjckpcckpngnikfceonn){ .md-button .md-button--stretch-center }
 
-    __Source:__ [:simple-github: mchuahua/ubc-transcript](https://github.com/mchuahua/ubc-transcript)
+    Convert the "Grades Summary" page in SSC to a more useful transcript for print
 
-- :fontawesome-solid-wand-magic-sparkles: __Improved UBC Transcripts__
+    __Source code:__ [:simple-github: mchuahua/ubc-transcript](https://github.com/mchuahua/ubc-transcript)
+
+- Outdated tools
 
     ---
 
-    __Link:__ https://arashout.site/posts/improved-ubc-transcript
-
-    > No longer available
+    > - Improved UBC Transcripts (arashout.site/posts/improved-ubc-transcript)
 
 </div>
+
+---
+
+## Is something out of date?
+
+Let us know so that we can update it! See the link in the footer below.
+
