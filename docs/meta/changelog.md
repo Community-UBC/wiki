@@ -9,12 +9,14 @@
 
 - Update links to [Pair](../course-planning/registration.md) (thank you [@owenHochwald](https://github.com/CommunityUBC/ubcwiki/issues/32))
 - Update dates for [Microwave & Water Fountain guides](../tools.md) (thank you [@owenHochwald](https://github.com/CommunityUBC/ubcwiki/issues/31))
+- Added 'UBC Profs Search' to Registration Tools (thank you [@RandoNandoz](https://github.com/RandoNandoz))
 - Added [sortable tables](https://squidfunk.github.io/mkdocs-material/reference/data-tables/#sortable-tables)
 - Added [redirects plugin](https://github.com/squidfunk/mkdocs-material/discussions/3758)
     - Updated broken links to community guidelines pages
     - Updated installation steps
     - Created [ubcwiki.ca/find/____](../campus/general.md) format
 - Fix various links
+- Add custom footer
 
 
 ---

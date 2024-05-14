@@ -126,11 +126,6 @@ theme:
   custom_dir: overrides
 
 extra:
-  social:
-    - icon: simple/lemmy
-      link: https://www.lemmy.ca/c/ubc
-    - icon: simple/reddit
-      link: https://www.reddit.com/r/ubc/
   generator: false
 
 extra_javascript:

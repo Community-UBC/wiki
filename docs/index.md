@@ -29,7 +29,7 @@ This is a community driven project made possible by many cool contributors. Than
 
     <br>
 
-    [Jump to section :material-arrow-right:](./tools.md){ .md-button }
+    [Jump to section :material-arrow-right:](./tools.md){ .md-button .md-button--stretch-center }
 
 - __📌 Get around Campus__
 
@@ -46,7 +46,7 @@ This is a community driven project made possible by many cool contributors. Than
 
     <br>
 
-    [Jump to section :material-arrow-right:](./campus/general.md){ .md-button }
+    [Jump to section :material-arrow-right:](./campus/general.md){ .md-button .md-button--stretch-center }
 
 </div>
 
@@ -94,12 +94,12 @@ This wiki is an open source community project, and it is being built through the
 
 If you would like to work on a longer section, we recommend that you send us a [modmail on Reddit](https://www.reddit.com/message/compose?to=%2Fr%2FUBC) or [message Otter on Lemmy](https://lemmy.ca/u/Otter) before getting started. We can provide guidance, or let you know if someone else is already working on it.
 
-Did you spot an error? Did you want to add something small? See these other options below:
+See an error? Want to add something? See below:
 
 - Submit your suggestions or corrections using [this Google form](https://forms.gle/8L7GPodjp2SNRM2w9)
 - Send us a [modmail on Reddit](https://www.reddit.com/message/compose?to=%2Fr%2FUBC) or [message Otter on Lemmy](https://lemmy.ca/u/Otter)
 - Discuss in the UBC [Reddit](https://reddit.com/r/ubc) and [Lemmy](https://lemmy.ca/c/ubc) communities
-- Share the wiki with your friends and classmates
+- Share the wiki with others
 
 !!! info
 
