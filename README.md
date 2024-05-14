@@ -17,7 +17,7 @@ See an error? Want to add something? This wiki is an open source community proje
 - Submit your suggestions or corrections using [this Google form](https://forms.gle/8L7GPodjp2SNRM2w9)
 - Send us a [modmail on Reddit](https://www.reddit.com/message/compose?to=%2Fr%2FUBC) or [message the user u/Otter on Lemmy](https://lemmy.ca/u/Otter)
 - Discuss in the UBC [Reddit](https://reddit.com/r/ubc) and [Lemmy](https://lemmy.ca/c/ubc) communities
-- Share the wiki with your friends and classmates
+- Share the wiki with others
 
 If you are familiar with GitHub, you can also [create an issue](https://github.com/CommunityUBC/ubcwiki/issues), or implement the changes yourself and submit a pull request into the `STAGING` branch. New ideas submitted by other means will be added as issues.
 

@@ -4,9 +4,23 @@
 <p align="center" style="font-size:60px;">📌</p>
 <p align="center" style="font-size:36px;">General Guide</p>
 
-!!! tip
+To find the other guides in this section, see the sidebar on the left. Some users don't notice the links when on mobile.
 
-    To find the other guides in this section, see the sidebar on the left. Some users don't notice the links when on mobile.
+!!! tip "Memorable Links"
+
+    Need to find something on campus, but didn't bookmark the wiki page? Use this common format: 
+    
+    ```
+    ubcwiki.ca/campus/find/____
+    ```
+
+    For example: [ubcwiki.ca/campus/find/**showers**/](../campus/find/showers.md)
+
+    We currently have pages for:
+
+    - [/**lockers**/](../campus/find/lockers.md)
+
+    Remember, you can always use the search bar to find everything else!
 
 ---
 

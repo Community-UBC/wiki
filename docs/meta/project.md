@@ -5,6 +5,8 @@
 
 The UBCWiki was initially started by moderators of the /r/UBC subreddit. It has since been moved to GitHub to allow for easier collaboration and contribution.
 
+This page is for those who want to contribute to the website directly, and it requires some technical background. You can also [contribute](../index.md#contributing) in other ways!
+
 ## Technical Details
 
 This wiki is powered by mkDocs-Material, a free and open source project. The wiki is hosted on GitHub Pages, and is automatically built and deployed using GitHub Actions.
@@ -32,6 +34,7 @@ This guide assumes you know how to use the command line and git. If you don't, p
     pip install mkdocs-glightbox
     pip install "mkdocs-material[imaging]"
     pip install mkdocs-git-revision-date-localized-plugin
+    pip install mkdocs-redirects
     ```
 
     <!-- NOTE:  mkdocs-git-revision-date-localized-plugin is a third party plugin from https://github.com/timvink/mkdocs-git-revision-date-localized-plugin -->
