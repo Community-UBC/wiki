@@ -14,7 +14,7 @@
 - Added [redirects plugin](https://github.com/squidfunk/mkdocs-material/discussions/3758)
     - Updated broken links to community guidelines pages
     - Updated installation steps
-    - Created [ubcwiki.ca/find/____](../campus/general.md) format
+    - Created [ubcwiki.ca/find/____](../campus/general-guide.md) format
 - Fix various links
 - Add custom footer
 

@@ -42,11 +42,11 @@ This is a community driven project made possible by many cool contributors. Than
     * Food Spots
     * Lost & Found tips
 
-    We are also collecting information on where to find lockers, printers, showers, and nap/sleep spots.
+    We are also collecting information on where to find lockers, printers, showers, nap/sleep spots, etc.
 
     <br>
 
-    [Jump to section :material-arrow-right:](./campus/general.md){ .md-button .md-button--stretch-center }
+    [Jump to section :material-arrow-right:](./campus/general-guide.md){ .md-button .md-button--stretch-center }
 
 </div>
 
