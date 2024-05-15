@@ -18,9 +18,6 @@ This page contains links that aren't found elsewhere on this wiki. As the site i
 * ⁉️ [UBC Lost & Found](https://lostandfound.ubc.ca/all-items): Lost something? Check here.
 * 📰 [Ubyssey](https://ubyssey.ca/): Campus newspaper
 * 📻 [CITR](https://www.citr.ca/): Campus radio
-* Potentially Outdated:
-    * 🚰 [Map of water fountains (Last updated 2023)](https://www.google.com/maps/d/u/0/viewer?ll=49.267665139292845%2C-123.24913480426028&spn=0.014028%2C0.038066&msa=0&iwloc=0004d8b88fe8029eba263&mid=1fmvuTk4654NGRwoIon6yadBx_LY&z=15)
-    * ♨️ [List of Microwaves (Last updated 2017)](https://sustain.ubc.ca/sites/sustain.ubc.ca/files/seedslibrary/LunchHubs_Reportv5%20SEEDS_0.pdf) - PDF
 
 
 ### 🏥 Physical & Mental Health

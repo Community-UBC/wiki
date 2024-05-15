@@ -6,46 +6,24 @@ repo_url: https://github.com/CommunityUBC/ubcwiki
 repo_name: CommunityUBC/ubcwiki
 site_url: https://ubcwiki.ca/
 
-plugins:
-  - search
-  - privacy
-  - git-revision-date-localized:
-      type: custom
-      custom_format: "Last updated: %B %d, %Y"
-      fallback_to_build_date: true
-      exclude:
-        - index.md
-  - social:
-      cards_layout_options:
-        font_family: Noto Sans
-      enabled: !ENV [CI, false]
-  - glightbox
-  - redirects:
-      redirect_maps:
-        # 'index.html': 'index.md' # DO NOT do this, death loop
-        'meta/guidelines.html': 'meta/guidelines.md'
-        'tools.html': 'tools.md'
-        'general/mental-health.html': 'wellbeing/mental-health.md'
-        'campus/ubc-sights.html': 'campus/ubc-sights.md'
-        'academics/classes/textbooks.html': 'academics/classes/textbooks.md'
-
 extra_css:
   - stylesheets/extra.css
   
 nav:
   - UBC Wiki: 
     - Home: index.md
-    - About Wiki Project: 
-      - Installation Guide: meta/project.md
-      - Old Setup Guide: meta/mdBook-config.md
-      - Changelog: meta/changelog.md
-    # - Outdated Setup & Config: meta/mdBook-config.md
     - Our online communities:
         - History & Best Posts: meta/community.md
         - Community Guidelines: meta/guidelines.md
         - Census Results:
-          - 2017: meta/census/2017.md
           - 2018: meta/census/2018.md
+          - 2017: meta/census/2017.md
+    - Technical Details: 
+      - Installation Guide: meta/project.md
+      - Old Setup Guide: meta/mdBook-config.md
+      - Changelog: meta/changelog.md
+    # - Outdated Setup & Config: meta/mdBook-config.md
+    
     
   - ✨ Essential Tools & Guides: 
     - ⭐ Helpful Tools: tools.md
@@ -63,17 +41,22 @@ nav:
       - 🧠 Mental Health Resources: wellbeing/mental-health.md    
   
   - 📌 Get around Campus:
-    - General Guide: campus/general.md 
+    - General Guide: campus/general-guide.md 
     - Places to Visit: campus/ubc-sights.md
-    - Study Spots: campus/study-spots.md
-    - Food Spots: campus/food.md
+    
+    
     - Lost & Found: campus/lost-and-found.md
-    - 🔎 Where to find...:
-      - Lockers: campus/find/lockers.md
-      - Printers: campus/find/printers.md
-      - Showers: campus/find/showers.md
-      - Sleep-spots: campus/find/sleep.md
-  
+    - Locations:
+      - 📖 Study spots: campus/study-spots.md
+      - 🍴 Food spots: campus/food.md
+    - Amenities:
+      - 🛅 Lockers: campus/lockers.md
+      - 🍿 Microwaves: campus/microwaves.md
+      - 🛏️ Naps / Sleeping: campus/sleep.md
+      - 🖨️ Printers/Scanners/etc.: campus/printers.md
+      - 🚿 Showers: campus/showers.md
+      - 🚰 Water Fountains: campus/water-fountains.md
+      
 
 markdown_extensions:
   - admonition
@@ -131,3 +114,60 @@ extra:
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
+
+plugins:
+  - search
+  - privacy
+  - git-revision-date-localized:
+      type: custom
+      custom_format: "Last updated: %B %d, %Y"
+      fallback_to_build_date: false
+      exclude:
+        - index.md
+  - social:
+      cards_layout_options:
+        font_family: Noto Sans
+      enabled: !ENV [CI, false]
+  - glightbox
+  - redirects:
+      redirect_maps:
+        # 'index.html': 'index.md' # DO NOT do this, causes death loop
+
+        # migration from mdbook
+        'meta/guidelines.html': 'meta/guidelines.md'
+        'tools.html': 'tools.md'
+        'general/mental-health.html': 'wellbeing/mental-health.md'
+        'campus/ubc-sights.html': 'campus/ubc-sights.md'
+        'academics/classes/textbooks.html': 'academics/classes/textbooks.md'
+
+        # pages that were moved from original location
+        'campus/general.md': 'campus/general-guide.md'
+        'campus/find/lockers.md': 'campus/lockers.md'
+        'campus/find/printers.md': 'campus/printers.md'
+        'campus/find/showers.md': 'campus/showers.md'
+        'campus/find/sleep.md': 'campus/sleep.md'
+
+        # Memorable 'find' links
+        'find/study-spots.md': 'campus/study-spots.md'
+        'find/study.md': 'campus/study-spots.md'
+        'find/food.md': 'campus/food.md'
+        'find/food-spots.md': 'campus/food.md'
+        'find/food-places.md': 'campus/food.md'
+        'find/lockers.md': 'campus/lockers.md'
+        'find/lockers.md': 'campus/lockers.md'
+        'find/microwaves.md': 'campus/microwaves.md'
+        'find/microwave.md': 'campus/microwaves.md'
+        'find/nap.md': 'campus/sleep.md'
+        'find/naps.md': 'campus/sleep.md'
+        'find/nap-spots.md': 'campus/sleep.md'
+        'find/napping-spots.md': 'campus/sleep.md'
+        'find/napping-places.md': 'campus/sleep.md'
+        'find/sleep.md': 'campus/sleep.md'
+        'find/sleep-spots.md': 'campus/sleep.md'
+        'find/printer.md': 'campus/printers.md'
+        'find/printers.md': 'campus/printers.md'
+        'find/scanners.md': 'campus/printers.md'
+        'find/water.md': 'campus/water-fountains.md'
+        'find/fountain.md': 'campus/water-fountains.md'
+        'find/water-fountain.md': 'campus/water-fountains.md'
+        'find/water-fountains.md': 'campus/water-fountains.md'
