@@ -13,9 +13,7 @@ As you might expect, this section will change rapidly and often over the next fe
 
 ??? question "Registration Times: When will I know, how is this calculated, and where can I find it?"
 
-    You will know around **1-2 week(s)** before the registration date.
-
-    Your registration date will be with other people in your year group, usually in this order:
+    You will know around **1-2 week(s)** before the registration date. Your registration date will be with other people in your year group, usually in this order:
 
     1. Graduate students
     2. Fourth and fifth-year students and diploma programs
@@ -24,16 +22,14 @@ As you might expect, this section will change rapidly and often over the next fe
     5. Second-year students
     6. Visiting, Unclassified, and Access Studies students
 
-    The method for how UBC calculates your registration day and time has changed very recently. It now likely uses your overall GPA, among over factors.
-
-    You will get an email with your registration time, and you can confirm the details on Workday. 
+    The method for how UBC calculates your registration day and time has changed very recently. It now likely uses your overall GPA, among over factors. You will get an email with your registration time, and you can confirm the details on Workday. 
 
     See the following links:
 
-    - https://students.ubc.ca/enrolment/registration/registration-dates
-    - https://students.ok.ubc.ca/ws-tutorial/viewing-your-registration-appointment/
+    - [students.ubc.ca/enrolment/registration/registration-dates](https://students.ubc.ca/enrolment/registration/registration-dates)
+    - [students.ok.ubc.ca/ws-tutorial/viewing-your-registration-appointment](https://students.ok.ubc.ca/ws-tutorial/viewing-your-registration-appointment/)
 
-??? question "⚠️NEW CHANGES⚠️ How does Workday handle prerequisites?"
+??? question "⚠️NEW CHANGES - Prerequisites⚠️ How does Workday handle prereqs?"
 
     In the past, some courses were set up with 'soft' prerequisites, where students could register for a course but would receive an email from the department once they check the list. 
 
@@ -51,7 +47,7 @@ As you might expect, this section will change rapidly and often over the next fe
 
 
 
-??? question "⚠️NEW CHANGES⚠️ Waitlists: If the course section is full, what should I do?"
+??? question "⚠️NEW CHANGES - Waitlists⚠️ If the course section is full, what should I do?"
 
     In the past, it was possible to 'jump the waitlist' and register for a course, if you noticed that there was a spot open. Students could use monitoring services to do this more easily. This is no longer the case.
 
@@ -160,9 +156,9 @@ As you might expect, this section will change rapidly and often over the next fe
 
 These are tools to help you plan out your course schedule for future terms, once you know what courses you want to take.
 
-!!! Warning
+<!-- !!! Warning
 
-    These tools may not be up to date! You should ALWAYS double check with the SSC for the correct date/time/location.
+    These tools may not be up to date! You should ALWAYS double check with the SSC for the correct date/time/location. -->
 
 <div class="grid cards" markdown>
 
