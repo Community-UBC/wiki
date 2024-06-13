@@ -3,39 +3,94 @@
 <p align="center" style="font-size:60px;">📅</p>
 <p align="center" style="font-size:36px;">Registration Info & Tools</p>
 
-Course scheduling is a nightmare and the SSC loves to ruin your day. Here are some tips and tools to make it better.
+We used to have a message here about how the SSC can make course registration difficult. Sorry SSC.
 
-##  	
+The workday transition has been rough. Here are some tips and tools that might make things easier! A large number of older tools will no longer work after the transition, and they have been moved accordingly.
 
-!!! question "Registration FAQ"
+As you might expect, this section will change rapidly and often over the next few weeks (or months). Please verify information with the linked pages, and suggest improvements or changes!
 
-    __When will I know my registration time?__
+## FAQ
 
-    You will know around 2 weeks before the registration. Your time will be within a range according to your year level, and you can find that [range here](https://students.ubc.ca/enrolment/registration/registration-dates). This time can change in some cases so check the SSC again in the days before registration opens.
+??? question "Registration Times: When will I know, how is this calculated, and where can I find it?"
 
-    <br>
+    You will know around **1-2 week(s)** before the registration date.
 
-    __How is registration time calculated exactly?__
+    Your registration date will be with other people in your year group, usually in this order:
 
-    *TODO: Work in progress*
+    1. Graduate students
+    2. Fourth and fifth-year students and diploma programs
+    3. First-year students
+    4. Third-year students
+    5. Second-year students
+    6. Visiting, Unclassified, and Access Studies students
 
-    <br>
+    The method for how UBC calculates your registration day and time has changed very recently. It now likely uses your overall GPA, among over factors.
 
-    __I didn’t get a seat in the course I wanted. What should I do?__
+    You will get an email with your registration time, and you can confirm the details on Workday. 
 
-    1. You should first sign up for the waitlist and register for your backup course. 
+    See the following links:
 
-    2. Many students will also sign up for notification services linked below, which will notify you when a seat opens up. If you do use this method, try to log in as soon as you get a notification or else someone else may grab the seat. Please also note that these methods only work if your course is open for registration as some courses will block off registration so only the course coordinator can move people in from the waitlist manually. If this is the case, DO NOT leave your waitlist as you will lose your spot in the list. 
+    - https://students.ubc.ca/enrolment/registration/registration-dates
+    - https://students.ok.ubc.ca/ws-tutorial/viewing-your-registration-appointment/
 
-    3. If you still have not gotten into your course when classes start, show up to the class anyways and speak to the prof. They will often be able to find you a spot, or they will let you know if it will not be possible. This is a tried and true method that has worked for many students.
+??? question "⚠️NEW CHANGES⚠️ How does Workday handle prerequisites?"
+
+    In the past, some courses were set up with 'soft' prerequisites, where students could register for a course but would receive an email from the department once they check the list. 
+
+    This is no longer the case for most courses, and so Workday will NOT let you register if it thinks you do not meet the prerequisites. This can happen if:
+
+    - You took the course at another school (INCLUDING UBC Okanagan)
+    - You have a pre-arranged exemption with the department
+
+    **What you should do:** 
+    
+    Contact your department's advising office as soon as you notice the problem, and send all relevant details about your issue (ex. what course, what prerequisite is being met, and how). If successful, the department may do some (or none!) of the following:
+
+    - **before your registration date:** add an override to your account so you can register
+    - **after your date:** register you, or backdate your waitlist position to an earlier date
+
+
+
+??? question "⚠️NEW CHANGES⚠️ Waitlists: If the course section is full, what should I do?"
+
+    In the past, it was possible to 'jump the waitlist' and register for a course, if you noticed that there was a spot open. Students could use monitoring services to do this more easily. This is no longer the case.
+
+    ??? info "Why was this possible?"
+
+        In the SSC, "waitlist" sections were actually just regular sections that were titled "waitlist". Someone would need to periodically go in and move students from the waitlist into the actual section.
+
+    Workday has an actual waitlist system:
+
+    - You will automatically be put in the waitlist if the registration fails.
+    - When a spot opens up, it will offer it to the first waitlisted student that meets the seat's requirements. Seats that are restricted to a specific group (ex. a certain specialization) will be offered to the next student that meets that requirement.
+    - After the offer, the student has 24 hours to respond, before it is offered to the next student.
+
+    Other important changes:
+
+    - You can register for multiple waitlists for the same course or section type
+    - You can register for a waitlist even if it conflicts with something else
+    - If a course requires a secondary section (ex. lab, discussion, etc.), you MUST register for one when you register for the lecture section.
+
+    Things that are still true:
+
+    - If you are near graduation and need a course to graduate, reach out to your department. They may be able to help.
+    - If you are unable to register and classes are starting, show up to the first few lectures. Sometimes the instructor will have special policies for students on the waitlist, and students that show up generally get priority.
+
+
+## Important Reminders
+
+1. Update your email address in Workday! Some of the imported email addresses were outdated (ex. from the student's original application), and so students were not receiving Workday emails.
+2. You will need to register for term 1 and term 2 separately. Register for term 1 first in order to avoid issues (ex. workday blocking term 1 courses, workday thinking you don't meet prerequisites for term 2, etc.)
+3. If your course requires a lab/tutorial/discussion (secondary section), you MUST register for both lecture and secondary section at the same time.
+
+
 
 
 ##  Registration Tools
 
 ---
 
-### Picking Courses
-
+### 1. Pick your courses
 
 <div class="grid cards" markdown>
 
@@ -98,46 +153,16 @@ Course scheduling is a nightmare and the SSC loves to ruin your day. Here are so
 
 </div>
 
----
-
-### Getting into Full Courses
-
-<div class="grid cards" markdown>
-
-- :material-bell-plus: __UBC Course Notify__
-
-    ---
-
-    🟢FREE
-
-    [ubccoursenotify.com :octicons-link-external-16:](https://www.ubccoursenotify.com/){ .md-button .md-button--stretch-center }  
-
-- :material-bell-plus: __UBC Notify__
-
-    ---
-
-    🔴 Paid
-
-    [ubcnotify.com :octicons-link-external-16:](https://ubcnotify.com/){ .md-button .md-button--stretch-center }
-
-- Outdated tools
-
-    ---
-
-    > - MyUBCCourseIsFull (myubccourseisfull.com)
-
-</div>
-
 
 ---
 
-### Organizing your Courses
+### 2. Plan your course timetable
 
-While pen and paper work great, here are some tools that can make the schedule planning process easier. 
+These are tools to help you plan out your course schedule for future terms, once you know what courses you want to take.
 
-!!! Note
+!!! Warning
 
-    These tools may not be up to date with the SSC. You should ALWAYS double check with the SSC for the correct date/time/location.
+    These tools may not be up to date! You should ALWAYS double check with the SSC for the correct date/time/location.
 
 <div class="grid cards" markdown>
 
@@ -147,33 +172,9 @@ While pen and paper work great, here are some tools that can make the schedule p
 
     [ubcscheduler.ca :octicons-link-external-16:](https://ubcscheduler.ca/){ .md-button .md-button--stretch-center }
 
-    A tool developed by UBC students to help you plan out a course schedule. You can input your courses and it will generate a schedule for you. It also has a feature to help you find a schedule that fits your courses and your preferences.
+    This is the "only student-developed app that has permission to access the UBC course database, ensuring the information is accurate and up-to-date". It includes a schedule generator, drag and drop calendar, schedule type (late start, days off, etc), etc. 
 
-- :material-calendar-today-outline: __yichen's tool__
-
-    ---
-
-    [yichen.dev/UBCScheduler :octicons-link-external-16:](https://yichen.dev/UBCScheduler/){ .md-button .md-button--stretch-center }
-
-    > Unverified
-
-    
-
-- :material-calendar-today-outline: **HFaran's tool**
-
-    ---
-
-    [:simple-github: hfaran/ubc-timetabler :octicons-link-external-16:](https://github.com/hfaran/ubc-timetabler){ .md-button .md-button--stretch-center }
-
-    > Unverified
-
-- :material-calendar-today-outline: **ChenVictor's tool**
-
-    ---
-
-    [:simple-github: chenvictor/CourseSched... :octicons-link-external-16:](https://github.com/chenvictor/CourseScheduler/releases){ .md-button .md-button--stretch-center }
-
-    > Unverified
+    It was funded by the "AMS Student Initiatives Fund and UBC eHub".
 
 - Outdated tools
 
@@ -181,35 +182,77 @@ While pen and paper work great, here are some tools that can make the schedule p
 
     > - ubcscheduler.github.io
 
+    > - yichen's tool (yichen.dev/UBCScheduler)
+
+    > - HFaran's tool (github.com/hfaran/ubc-timetabler)
+
+    > - ChenVictor's tool (github.com/chenvictor/CourseScheduler/releases)
+
 </div>
 
 ---
 
-## Tools for Transcripts
+### 3. Survive Workday
+
+These tools make it easier to use Workday.
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-wand-magic-sparkles: __UBC Transcript Formatter - Extension__
+- :material-ninja: __Workday-Hide-Average__
 
     ---
 
-    [:fontawesome-brands-chrome: ubc-transcript :octicons-link-external-16:](https://chrome.google.com/webstore/detail/ubc-transcript/kcpilaggggglnjckpcckpngnikfceonn){ .md-button .md-button--stretch-center }
+    [:simple-github: tobyL05/Workday-Hide-A...](https://github.com/tobyL05/Workday-Hide-Average){ .md-button .md-button--stretch-center }
 
-    Convert the "Grades Summary" page in SSC to a more useful transcript for print
+    This browser extension will hide your average until you hover over it, so taht you feel more comfortable opening Workday around other people.
 
-    __Source code:__ [:simple-github: mchuahua/ubc-transcript](https://github.com/mchuahua/ubc-transcript)
-
-- Outdated tools
+- :material-list-box: __Workday Calendar Tool__
 
     ---
 
-    > - Improved UBC Transcripts (arashout.site/posts/improved-ubc-transcript)
+    [:simple-github: mlool/workday-calendar-extension...](https://github.com/mlool/workday-calendar-extension?tab=readme-ov-file#download){ .md-button .md-button--stretch-center }
+
+    This browser extension will let you view how courses fit into your schedule as you browse the course list. It does not create a worklist for you, so be sure to create that separately.
+
+- :material-calendar: __Import your schedule to your calendar__
+
+    ---
+
+    [workday2ics.pedram.tech :octicons-link-external-16:](https://workday2ics.pedram.tech){ .md-button .md-button--stretch-center }
+
+    This tool will let you import your worklists from Workday into your calendar software.
+
+    [:simple-github: Its-pedram/workday2ics](https://github.com/Its-pedram/workday2ics)
 
 </div>
 
+
 ---
 
-## Is something out of date?
+## Outdated Sections
 
-Let us know so that we can update it! See the link in the footer below.
+<div class="grid cards" markdown>
 
+- __Transcript Related Tools__
+
+    ---
+
+    These are tools to help you format, print, and export transcript data. There are currently no working tools for this section.
+
+    > - Improved UBC Transcripts (arashout.site/posts/improved-ubc-transcript)
+
+    > - UBC Transcript Formatter - Extension (github.com/mchuahua/ubc-transcript)
+
+- __Get into a full course__
+
+    ---
+
+    Workday has managed waitlists, and as such these tools will no longer help you. Please see the FAQ section above.
+
+    > - UBCCourseNotify (FREE - ubcnotify.com)
+
+    > - UBCNotify (paid - ubcnotify.com)
+
+    > - MyUBCCourseIsFull (paid - myubccourseisfull.com)
+
+</div>

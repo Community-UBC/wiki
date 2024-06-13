@@ -3,7 +3,7 @@
 <p align="center" style="font-size:60px;">🍿</p>
 <p align="center" style="font-size:36px;">Microwaves</p>
 
-In 2024, user [u/woodentoucan](reddit.com/u/woodentoucan) created this microwave location map and open source data set!
+In 2024, user [u/woodentoucan](https://reddit.com/u/woodentoucan) created this microwave location map and open source data set!
 
 **Source Code:** [:simple-github: summer-h-s/summer-h-s-web](https://github.com/summer-h-s/summer-h-s-web/tree/main/Lab2)
 
