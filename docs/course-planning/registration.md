@@ -170,7 +170,17 @@ These are tools to help you plan out your course schedule for future terms, once
 
     This is the "only student-developed app that has permission to access the UBC course database, ensuring the information is accurate and up-to-date". It includes a schedule generator, drag and drop calendar, schedule type (late start, days off, etc), etc. 
 
-    It was funded by the "AMS Student Initiatives Fund and UBC eHub".
+    Funded by the "AMS Student Initiatives Fund and UBC eHub".
+
+- :material-calendar-today-outline: __UBC Schedule Optimizer__
+
+    ---
+
+    [ubc-schedule-optimiz... :octicons-link-external-16:](https://ubc-schedule-optimizer.herokuapp.com/){ .md-button .md-button--stretch-center }
+
+    A website for creating schedules based on walking times, gaps between classes, prof-ratings, and more. After inputting the courses you want to take, the tool will build you a few schedules.
+    
+    See [this post](https://www.reddit.com/r/UBC/comments/1d9rj7k) for more information.
 
 - Outdated tools
 
@@ -198,7 +208,7 @@ These tools make it easier to use Workday.
 
     ---
 
-    [:simple-github: tobyL05/Workday-Hide-A...](https://github.com/tobyL05/Workday-Hide-Average){ .md-button .md-button--stretch-center }
+    [:simple-github: tobyL05/Workday-Hide...](https://github.com/tobyL05/Workday-Hide-Average){ .md-button .md-button--stretch-center }
 
     This browser extension will hide your average until you hover over it, so taht you feel more comfortable opening Workday around other people.
 
@@ -206,7 +216,7 @@ These tools make it easier to use Workday.
 
     ---
 
-    [:simple-github: mlool/workday-calendar-extension...](https://github.com/mlool/workday-calendar-extension?tab=readme-ov-file#download){ .md-button .md-button--stretch-center }
+    [:simple-github: mlool/workday-calend...](https://github.com/mlool/workday-calendar-extension?tab=readme-ov-file#download){ .md-button .md-button--stretch-center }
 
     This browser extension will let you view how courses fit into your schedule as you browse the course list. It does not create a worklist for you, so be sure to create that separately.
 
