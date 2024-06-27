@@ -1,4 +1,4 @@
-#  
+# 
 
 <p align="center" style="font-size:60px;">📅</p>
 <p align="center" style="font-size:36px;">Registration Info & Tools</p>
@@ -219,6 +219,14 @@ These tools make it easier to use Workday.
     [:simple-github: mlool/workday-calend...](https://github.com/mlool/workday-calendar-extension?tab=readme-ov-file#download){ .md-button .md-button--stretch-center }
 
     This browser extension will let you view how courses fit into your schedule as you browse the course list. It does not create a worklist for you, so be sure to create that separately.
+
+- :material-list-box: __Custom Workday Courselist__
+
+    ---
+
+    [:simple-github: JustintyC/Custom-Wor...](https://github.com/JustintyC/Custom-Workday-Courselist-Extension){ .md-button .md-button--stretch-center }
+
+    This extension compacts Workday's course browsing layout, allowing you to quickly find sections without scrolling forever.
 
 - :material-calendar: __Import your schedule to your calendar__
 
