@@ -114,15 +114,6 @@ Fees
 * Virtual and in-person appointments
 
 
-<br/><br/>
-
-### UBC Student Assistance Program
-
-* You can ask to get connected with a counsellor who also has a private practice. Your first few sessions will be free then you can use your extended health benefits to cover additional sessions.
-* The UBC Student Assistance Program (SAP) is a free, 24/7 wellness resource for students. Services include personal counselling, life coaching, group programs and more based on your needs.
-
-* **Link:** [students.ubc.ca/health/ubc-student-assistance-program-sap](https://students.ubc.ca/health/ubc-student-assistance-program-sap)
-* **Phone:** [+1 833-590-1328](tel:18335901328)
 
 <br/><br/>
 
