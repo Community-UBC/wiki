@@ -226,7 +226,7 @@ These tools make it easier to use Workday.
 
     [:simple-github: JustintyC/Custom-Wor...](https://github.com/JustintyC/Custom-Workday-Courselist-Extension){ .md-button .md-button--stretch-center }
 
-    This extension compacts Workday's course browsing layout, allowing you to quickly find sections without scrolling forever.
+    This extension enhances Workday's messy course search list by compacting and categorizing courses, as well as displaying course descriptions, averages, instructors, and more through an intuitive layout on the same page.
 
 - :material-calendar: __Import your schedule to your calendar__
 
