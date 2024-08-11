@@ -24,30 +24,47 @@ hero:
     iconColor="#f9c23c"
     title="Essential Tools & Guides"
     body="Includes guides and community built tools for admissions, course registration, finding textbooks, mental health resources. and more."
+    link="https://example.com/tools"
+    linkText="Jump to section"
   />
   <VitepressCard
     icon="ph:push-pin-fill"
     iconColor="#CA0B4A"
-    title="Get around Campus"
+    title="Navigate Campus"
     body="Includes guides and navigation tools for places to visit, lost & found, lockers, printers, showers, study/food/nap spots, etc."
+    link="https://example.com/tools"
+    linkText="Jump to section"
   />
 </VitepressCardContainer>
+<!-- TODO: update links -->
+
+## Contributing
+
+We welcome and encourage contributions! This wiki is an open source community project, and it is being built through the collaborative effort of many cool people in the UBC community. 
+
+If you want to work on a large change, we recommend that you send us a [modmail on Reddit](https://www.reddit.com/message/compose?to=%2Fr%2FUBC) or check out our other contact options.
+
+<!-- TODO: Contact options -->
+
+**See an error? Want to add something?**
+
+- Submit your suggestions or corrections using [this Google form](https://forms.gle/8L7GPodjp2SNRM2w9)
+- Send us a [modmail on Reddit](https://www.reddit.com/message/compose?to=%2Fr%2FUBC) or contact us by other means
+<!-- TODO: contact options -->
+
+**Other ways to contribute:**
+
+- Discuss in the UBC [Reddit](https://reddit.com/r/ubc) and [Lemmy](https://lemmy.ca/c/ubc) communities
+- Share the wiki with others
 
 <br>
 
-<h2 class="text-with-icon">
-    <Icon icon="ci:folders" width="1.2em" height="1.2em" />
-    Title
-</h2>
+::: info Implement changes yourself
 
-<CardContainer>
-<Card 
-    title="UBC Community Wiki"
-    description="Wiki website for UBC community guides & tools."
-    link="https://github.com/Community-UBC/wiki"
-    :tags="['Vue', 'Components', 'Coordination']"
-/>
-</CardContainer>
+If you are familiar with GitHub, you can also [create an issue](https://github.com/community-ubc/wiki/issues), or implement the changes yourself and submit a pull request. New ideas submitted by other means will be added as issues.
 
+<!-- TODO: For instructions on how to edit things on the site, see the [instructions here](./meta/project.md).  -->
+
+Want to learn how to use Github? See the [Hello-World guide (guides.github.com)](https://guides.github.com/activities/hello-world/) by Github.
 
 

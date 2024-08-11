@@ -1,19 +1,41 @@
 <template>
-  <a :href="link" target="_blank" class="card" @click="handleClick">
+  <a
+    :href="disabled ? '#' : link"
+    target="_blank"
+    class="card"
+    :class="{ disabled: disabled }"
+    @click="handleClick"
+  >
     <div class="card-image-wrapper">
       <img :src="image" alt="Card image" class="card-image" />
     </div>
     <div class="card-content">
-      <h3 class="card-title">{{ title }}</h3>
-      <p class="card-description" v-if="description">{{ description }}</p>
+      <h3 :class="{ 'disabled-text': disabled }" class="card-title">{{ title }}</h3>
+      <p
+        :class="{ 'disabled-text': disabled }"
+        class="card-description"
+        v-if="description"
+      >
+        {{ description }}
+      </p>
       <div class="card-tags" v-if="tags.length">
-        <span class="tag" v-for="tag in tags" :key="tag">{{ tag }}</span>
+        <span
+          class="tag"
+          :class="{ 'disabled-tag': disabled }"
+          v-for="tag in tags"
+          :key="tag"
+          >{{ tag }}</span
+        >
       </div>
     </div>
-    <div class="card-footer">
+    <div :class="{ 'disabled-footer': disabled }" class="card-footer">
       <span class="card-link-summary">
-        {{ domain }}
-        <Icon icon="gridicons:external" class="external-icon" />
+        <span v-if="disabled">Link Unavailable</span>
+        <span v-else>{{ domain }}</span>
+        <Icon
+          :icon="disabled ? 'gg:unavailable' : 'gridicons:external'"
+          class="external-icon"
+        />
       </span>
     </div>
   </a>
@@ -49,6 +71,10 @@ export default {
       type: Array,
       default: () => [],
     },
+    disabled: {
+      type: Boolean,
+      default: false,
+    },
   },
   computed: {
     domain() {
@@ -61,7 +87,7 @@ export default {
   },
   methods: {
     handleClick(event) {
-      if (this.link === "#") {
+      if (this.disabled || this.link === "#") {
         event.preventDefault();
       }
     },
@@ -93,6 +119,21 @@ export default {
 .card:active {
   transform: translateY(2px);
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.card.disabled {
+  background-color: var(--card-disabled-bg-1);
+  cursor: not-allowed;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.card.disabled:hover {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transform: translateY(-1px);
+}
+
+.card.disabled:active {
+  transform: translateY(-1px);
 }
 
 .card-image-wrapper {
@@ -128,6 +169,10 @@ export default {
   line-height: 1.6;
 }
 
+.disabled-text {
+  color: var(--card-disabled-text-1);
+}
+
 .card-tags {
   margin-top: 8px;
 }
@@ -142,6 +187,11 @@ export default {
   font-size: 0.75rem;
 }
 
+.disabled-tag {
+  background-color: var(--card-disabled-bg-2);
+  color: var(--card-disabled-text-1);
+}
+
 .card-footer {
   margin-top: auto;
   background-color: var(--vp-c-bg);
@@ -150,6 +200,11 @@ export default {
   font-size: 0.75rem;
   color: var(--vp-c-text-2);
   border-top: 1px solid var(--vp-c-gray-1);
+}
+
+.disabled-footer {
+  background-color: var(--card-disabled-bg-1);
+  color: var(--card-disabled-text-1);
 }
 
 .card-link-summary {

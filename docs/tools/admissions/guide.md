@@ -1,7 +1,8 @@
-#
+---
+layout: doc
+---
 
-<p align="center" style="font-size:60px;">📬</p>
-<p align="center" style="font-size:36px;">Admissions</p>
+# Admissions
 
 ## Admissions Rates (from High School)
 

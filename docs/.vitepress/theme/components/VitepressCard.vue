@@ -3,14 +3,18 @@
     <p class="text-with-icon">
       <Icon
         :icon="icon"
-        width="1.5em"
-        height="1.5em"
+        width="1.2em"
+        height="1.2em"
         v-if="icon"
         :style="{ color: iconColor }"
       />
       <span :class="['title', { 'no-icon': !icon }]">{{ title }}</span>
     </p>
     <div v-html="renderedBody" class="card-body"></div>
+    <a v-if="link" :href="link" class="card-link">
+      {{ actualLinkText }}
+      <Icon icon="mdi:arrow-right" class="arrow-icon" />
+    </a>
   </div>
 </template>
 
@@ -40,11 +44,22 @@ export default {
       type: String,
       default: "",
     },
+    link: {
+      type: String,
+      default: "",
+    },
+    linkText: {
+      type: String,
+      default: "Check it out",
+    },
   },
   computed: {
     renderedBody() {
       const md = new MarkdownIt();
       return md.render(this.body);
+    },
+    actualLinkText() {
+      return this.linkText || "Check it out";
     },
   },
 };
@@ -83,5 +98,26 @@ export default {
 
 .card-body {
   margin-top: 0.5rem;
+}
+
+.card-link {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.card-link:hover {
+  color: var(--vp-c-brand-2);
+}
+
+.arrow-icon {
+  margin-left: 0.5em;
+  width: 1em;
+  height: 1em;
 }
 </style>
