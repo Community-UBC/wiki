@@ -137,3 +137,25 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+
+
+
+
+
+/**
+ * Custom styles
+ * ========================================================================== */
+
+/* 
+ * Iconify
+ * ========================================================================== */
+
+.text-with-icon {
+  display: flex;
+  align-items: center;
+}
+
+.iconify {
+  margin-right: 0.5em;
+}
+

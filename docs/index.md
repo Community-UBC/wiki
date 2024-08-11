@@ -26,7 +26,10 @@ features:
 
 <br>
 
-# Title
+<h2 class="text-with-icon">
+    <Icon icon="ci:folders" width="1.2em" height="1.2em" />
+    Title
+</h2>
 
 Text
 
