@@ -4,6 +4,8 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
 import { Icon } from '@iconify/vue';
+import Card from './components/Card.vue';
+import CardContainer from './components/CardContainer.vue';
 
 export default {
   extends: DefaultTheme,
@@ -14,5 +16,7 @@ export default {
   },
   enhanceApp({ app, router, siteData }) {
     app.component('Icon', Icon);
+    app.component('Card', Card);
+    app.component('CardContainer', CardContainer);
   }
 } satisfies Theme

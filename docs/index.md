@@ -31,5 +31,12 @@ features:
     Title
 </h2>
 
-Text
+<CardContainer>
+<Card 
+    title="UBC Community Wiki"
+    description="Wiki website for UBC community guides & tools."
+    link="https://github.com/Community-UBC/wiki"
+    :tags="['Vue', 'Components', 'Coordination']"
+/>
+</CardContainer>
 
