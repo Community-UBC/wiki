@@ -16,13 +16,22 @@ hero:
     - theme: alt
       text: Fediverse (UBC@lemmy.ca)
       link: https://lemmy.ca/c/UBC
-
-features:
-  - title: ✨ Essential Tools & Guides
-    details: Includes guides and community built tools for admissions, course registration, finding textbooks, mental health resources. and more.
-  - title: 📌 Get around Campus
-    details: Includes guides and tools for places to visit, study spots, food spots, lost & found, as well as lockers, printers, showers, nap/sleep spots, etc.
 ---
+
+<VitepressCardContainer :cols="2">
+  <VitepressCard
+    icon="ph:sparkle-fill"
+    iconColor="#f9c23c"
+    title="Essential Tools & Guides"
+    body="Includes guides and community built tools for admissions, course registration, finding textbooks, mental health resources. and more."
+  />
+  <VitepressCard
+    icon="ph:push-pin-fill"
+    iconColor="#CA0B4A"
+    title="Get around Campus"
+    body="Includes guides and navigation tools for places to visit, lost & found, lockers, printers, showers, study/food/nap spots, etc."
+  />
+</VitepressCardContainer>
 
 <br>
 
@@ -39,4 +48,6 @@ features:
     :tags="['Vue', 'Components', 'Coordination']"
 />
 </CardContainer>
+
+
 
