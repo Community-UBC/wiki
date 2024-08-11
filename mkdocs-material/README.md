@@ -2,9 +2,13 @@
 
 This is the repository for: https://ubcwiki.ca
 
+## Official Community Links
+* [UBC Reddit Community](https://reddit.com/r/ubc)
+* [UBC Lemmy Community](https://lemmy.ca/c/ubc)
+
 ## Technical Details
 
-This wiki is powered by vitepress. You can find more information on the [⚙️UBCWiki Project](https://community-ubc.github.io/wiki/meta/project/) page.
+This wiki is powered by mkDocs-Material, a free and open source project. You can find more information on the [⚙️UBCWiki Project](https://communityubc.github.io/ubcwiki/meta/project/) page.
 
 ## Contributing
 
