@@ -24,12 +24,12 @@ export default {
   background-color: var(--vp-c-bg-alt);
   border-radius: 10px;
   box-shadow: inset 0 4px 8px rgba(0, 0, 0, 0.1);
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
 }
 
 @media (max-width: 1024px) {
   .card-container {
-    grid-template-columns: repeat(2, minmax(250px, 1fr));
+    grid-template-columns: repeat(2, minmax(200px, 1fr));
   }
 }
 

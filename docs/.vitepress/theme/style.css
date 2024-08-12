@@ -155,7 +155,21 @@
   align-items: center;
 }
 
-.iconify {
+.text-with-icon .iconify {
+  margin-right: 0.5em;
+}
+
+.icon-left .iconify {   /* default */
+  margin-right: 0.5em;
+}
+
+.icon-right .iconify {
+  margin-right: 0;
+  margin-left: 0.5em;
+}
+
+.icon-middle .iconify {
+  margin-left: 0.5em;
   margin-right: 0.5em;
 }
 

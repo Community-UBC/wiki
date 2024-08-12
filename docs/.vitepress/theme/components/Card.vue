@@ -15,9 +15,8 @@
         :class="{ 'disabled-text': disabled }"
         class="card-description"
         v-if="description"
-      >
-        {{ description }}
-      </p>
+        v-html="renderedDescription"
+      ></p>
       <div class="card-tags" v-if="tags.length">
         <span
           class="tag"
@@ -43,6 +42,7 @@
 
 <script>
 import { Icon } from "@iconify/vue";
+import MarkdownIt from "markdown-it";
 
 export default {
   components: {
@@ -59,8 +59,7 @@ export default {
     },
     image: {
       type: String,
-      default: "https://via.placeholder.com/300x150",
-      validator: (value) => /^https?:\/\/.+\.(jpg|jpeg|png|webp|svg|gif)$/.test(value),
+      default: "/img/card-tools.jpg",
     },
     link: {
       type: String,
@@ -84,6 +83,10 @@ export default {
         return "";
       }
     },
+    renderedDescription() {
+      const md = new MarkdownIt();
+      return md.render(this.description);
+    },
   },
   methods: {
     handleClick(event) {
@@ -104,7 +107,7 @@ export default {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   width: 100%;
-  max-width: 350px;
+  max-width: 300px;
   text-decoration: none;
   color: inherit;
   transition: transform 0.1s ease-in-out, box-shadow 0.1s ease-in-out,
