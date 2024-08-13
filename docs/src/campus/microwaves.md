@@ -14,7 +14,7 @@ In 2024, user [u/woodentoucan](https://reddit.com/u/woodentoucan) created this m
 
 **Screenshot of the map:**
 
-![screenshot of map](/img/campus/microwaves/map.png){ width="700" }
+![screenshot of map](/img/campus/microwaves/map.png){ width="700" data-zoomable }
 
 ::: info /u/woodentoucan
 

@@ -43,7 +43,7 @@
  *   in custom container, badges, etc.
  * -------------------------------------------------------------------------- */
 
- :root {
+:root {
   --vp-c-default-1: var(--vp-c-gray-1);
   --vp-c-default-2: var(--vp-c-gray-2);
   --vp-c-default-3: var(--vp-c-gray-3);
@@ -90,19 +90,15 @@
  * Component: Home
  * -------------------------------------------------------------------------- */
 
- :root {
+:root {
   --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(
-    120deg,
-    #00A7E1 30%,
-    #0055B7
-  );
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg,
+      #00A7E1 30%,
+      #0055B7);
 
-  --vp-home-hero-image-background-image: linear-gradient(
-    -45deg,
-    #00A7E1 50%,
-    #0055B7 50%
-  );
+  --vp-home-hero-image-background-image: linear-gradient(-45deg,
+      #00A7E1 50%,
+      #0055B7 50%);
   --vp-home-hero-image-filter: blur(44px);
 }
 
@@ -159,7 +155,8 @@
   margin-right: 0.5em;
 }
 
-.icon-left .iconify {   /* default */
+.icon-left .iconify {
+  /* default */
   margin-right: 0.5em;
 }
 
@@ -194,5 +191,16 @@
   --card-disabled-text-1: #656569;
   --card-disabled-text-2: #5a5a5e;
   --card-disabled-text-3: #4f4f53;
+}
 
+/* 
+ * Medium Zoom
+ * ========================================================================== */
+
+.medium-zoom-overlay {
+  z-index: 30;
+}
+
+.medium-zoom-image--opened {
+  z-index: 31;
 }

@@ -8,4 +8,4 @@ Please see this [interactive map of water outlets](https://www.google.com/maps/d
 
 **Screenshot of the map:**
 
-![screenshot of map](/img/campus/water-fountains/map.png){ width="700" }
+![screenshot of map](/img/campus/water-fountains/map.png){ width="700" data-zoomable }

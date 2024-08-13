@@ -92,9 +92,9 @@ Note: may or may not still be around - some installations are transient
 #### [Bird friendly window art](https://sustain.ubc.ca/stories/bird-friendly-art-saves-feathered-lives)
 - can be found on CIRS building and UBC Botanical garden
 
-![bird-strike-closeup](/img/campus/ubc-sights/bird-strike-closeup.webp){ width="400" }
+![bird-strike-closeup](/img/campus/ubc-sights/bird-strike-closeup.webp){ width="400" data-zoomable }
 
-![bird-strike-cirs](/img/campus/ubc-sights/bird-strike-cirs.jpg){ width="600" }
+![bird-strike-cirs](/img/campus/ubc-sights/bird-strike-cirs.jpg){ width="600" data-zoomable }
 
 #### [LGBTQ rainbow Pride wall ](https://news.ubc.ca/2018/10/15/ubc-officially-unveils-pride-installation-at-heart-of-campus-today/)
 
@@ -102,7 +102,7 @@ Note: may or may not still be around - some installations are transient
 - I don't have a name for this and could never find it online - I found it in first year, but it's now covered up by shrubbery
 
 
-![sights-art-pressure](/img/campus/ubc-sights/sights-art-pressure.png){ width="600" }
+![sights-art-pressure](/img/campus/ubc-sights/sights-art-pressure.png){ width="600" data-zoomable }
 
 
 #### [Millennial Time Machine](https://ahva.ubc.ca/events/event/rodney-grahams-millennial-time-machine/) 
@@ -128,18 +128,18 @@ Note: may or may not still be around - some installations are transient
 
 - Cherry blossoms during the spring (can be found by the nest, along main mall, various other spots across campus)
 
-![blossoms](/img/campus/ubc-sights/blossoms.jpg){ width="600" }
+![blossoms](/img/campus/ubc-sights/blossoms.jpg){ width="600" data-zoomable }
 
 - Autumn at UBC
 - Fairy lights on main mall
 
-![fairy-lights](https://i.imgur.com/T6Y1eKE.jpg){ width="600" }
+![fairy-lights](https://i.imgur.com/T6Y1eKE.jpg){ width="600" data-zoomable }
   
 * Top floor of OC (or Buchanan Tower or Ponderosa) (if you can get somebody to give you access the view is lovely)
 * labyrinth a little northwest of Great Dane Coffee
 - Waterfall and garden area between the Health Sciences Parkade and the hospital
 
-![hospital-garden](/img/campus/ubc-sights/hospital-garden.jpg){ width="600" }
+![hospital-garden](/img/campus/ubc-sights/hospital-garden.jpg){ width="600" data-zoomable }
 
 * Buchanan swing
 * UBC Farm
