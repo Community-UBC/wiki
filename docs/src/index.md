@@ -24,7 +24,7 @@ hero:
     iconColor="#f9c23c"
     title="Essential Tools & Guides"
     body="Includes guides and community built tools for admissions, course registration, finding textbooks, mental health resources. and more."
-    link="https://example.com/tools"
+    link="./tools"
     linkText="Jump to section"
   />
   <VitepressCard
@@ -32,7 +32,7 @@ hero:
     iconColor="#CA0B4A"
     title="Navigate Campus"
     body="Includes guides and navigation tools for places to visit, lost & found, lockers, printers, showers, study/food/nap spots, etc."
-    link="https://example.com/tools"
+    link="./campus/overview"
     linkText="Jump to section"
   />
 </VitepressCardContainer>

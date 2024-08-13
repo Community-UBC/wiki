@@ -1,5 +1,5 @@
 <template>
-  <div :class="getColsClass">
+  <div :class="['grid-container', getColsClass]">
     <slot></slot>
   </div>
 </template>
@@ -11,12 +11,12 @@ export default {
     cols: {
       type: Number,
       default: 1,
-      validator: (value) => value >= 1 && value <= 5,
+      validator: (value) => value >= 1 && value <= 3,
     },
   },
   computed: {
     getColsClass() {
-      return `grid-container grid-cols-${this.cols}`;
+      return `grid-cols-${this.cols}`;
     },
   },
 };
@@ -26,25 +26,29 @@ export default {
 .grid-container {
   display: grid;
   gap: 0.3rem;
+  justify-items: center;
 }
 
-.grid-cols-1 {
-  grid-template-columns: 1fr;
-}
-
-.grid-cols-2 {
-  grid-template-columns: repeat(2, 1fr);
-}
-
+.grid-cols-1, 
+.grid-cols-2,
 .grid-cols-3 {
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 }
 
-.grid-cols-4 {
-  grid-template-columns: repeat(4, 1fr);
+@media (max-width: 1024px) {
+  .grid-cols-1,
+  .grid-cols-2,
+  .grid-cols-3 {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
 }
 
-.grid-cols-5 {
-  grid-template-columns: repeat(5, 1fr);
+@media (max-width: 768px) {
+  .grid-cols-1,
+  .grid-cols-2,
+  .grid-cols-3 {
+    grid-template-columns: repeat(1, minmax(100%, 1fr));
+  }
 }
 </style>
+

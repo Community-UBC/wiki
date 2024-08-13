@@ -33,6 +33,7 @@ export default defineConfig({
     ['link', { rel: 'icon', href: '/bookshelf.svg' }]
   ],
   cleanUrls: true,
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
@@ -40,7 +41,7 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About', link: '/meta/project.md' },
+      { text: 'About', link: '/meta/index.md' },
       { text: '✨ Guides & Tools', link: '/tools' },
       { text: '📌 Navigate campus', link: 'campus/overview' }
     ],
@@ -59,6 +60,7 @@ export default defineConfig({
             { text: 'General Guide', link: '/campus/overview.md' },
             { text: 'Places to Visit', link: '/campus/ubc-sights.md' },
             { text: 'Lost & Found', link: '/campus/lost-and-found.md' },
+            { text: 'Transit & U-Pass', link: '/campus/transit.md' },
           ]
         },
         { text: 'Locations', 
@@ -77,6 +79,29 @@ export default defineConfig({
             { text: 'Water Fountains', link: '/campus/water-fountains.md' }
           ]
         }
+      ],
+      '/meta/': [
+        { text: 'Overview', link: '/meta/index.md' },
+        { text: 'About Us',
+          items: [
+            { text: 'History & Best Of Posts', link: '/meta/community.md' },
+            { text: 'Community Guidelines', link: '/meta/guidelines.md' },
+            { text: 'Census Results',
+              collapsed: true,
+              items: [
+                { text: '2018', link: '/meta/census/2018.md' },
+                { text: '2017', link: '/meta/census/2017.md' },
+              ]
+            },
+          ]
+        },
+        { text: 'Technical Details', 
+          items: [
+            { text: 'Installation Guide', link: '/meta/project.md' },
+            { text: 'Old Installation Guides', link: '/meta/project-old.md' },
+            { text: 'Changelog', link: '/meta/changelog.md' },
+          ]
+        },
       ],
     },
 

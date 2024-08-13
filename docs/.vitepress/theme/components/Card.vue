@@ -51,7 +51,7 @@ export default {
   props: {
     title: {
       type: String,
-      default: "Project Title",
+      required: true,
     },
     description: {
       type: String,
