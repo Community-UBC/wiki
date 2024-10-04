@@ -22,7 +22,3 @@ Test Map 1:
     { id: 3, name: 'Birb Fountain', lat: 49.264835, lng: -123.252720 }
   ]" 
 />
-
-Test Map 2:
-
-<MapLibreMap :center="[-123.2460, 49.2606]" :zoom="13" />
