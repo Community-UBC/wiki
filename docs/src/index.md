@@ -66,5 +66,4 @@ If you are familiar with GitHub, you can also [create an issue](https://github.c
 <!-- TODO: For instructions on how to edit things on the site, see the [instructions here](./meta/project.md).  -->
 
 Want to learn how to use Github? See the [Hello-World guide (guides.github.com)](https://guides.github.com/activities/hello-world/) by Github.
-
-
+:::

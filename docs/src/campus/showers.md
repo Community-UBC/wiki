@@ -10,3 +10,8 @@ In the meantime, please use the relevant links below:
 - [Where can I shower on Campus (preferably with some privacy)?](https://www.reddit.com/r/UBC/comments/8am7vk/where_can_i_shower_on_campus_preferably_with_some/)
 - ["public" showers on campus?](https://www.reddit.com/r/UBC/comments/3lrp5w/public_showers_on_campus/)
 - [Where are the best shower facilities on campus?](https://www.reddit.com/r/UBC/comments/2a9l75/where_are_the_best_shower_facilities_on_campus/)
+
+
+Test Map:
+
+<MapLibreMap :center="[-123.2460, 49.2606]" :zoom="13" />

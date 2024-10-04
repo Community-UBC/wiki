@@ -3,6 +3,7 @@ import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
+import 'maplibre-gl/dist/maplibre-gl.css';
 import { Icon } from '@iconify/vue';              // Iconify
 import { onMounted, watch, nextTick } from 'vue'; // Medium Zoom
 import { useRoute } from 'vitepress';
@@ -12,6 +13,7 @@ import CardContainer from './components/CardContainer.vue';
 import ImageText from './components/ImageText.vue';
 import VitepressCard from './components/VitepressCard.vue';
 import VitepressCardContainer from './components/VitepressCardContainer.vue';
+import MapLibreMap from './components/MapLibreMap.vue';
 
 export default {
   extends: DefaultTheme,
@@ -27,6 +29,7 @@ export default {
     app.component('ImageText', ImageText);
     app.component('VitepressCard', VitepressCard);
     app.component('VitepressCardContainer', VitepressCardContainer);
+    app.component('MapLibreMap', MapLibreMap);
   },
   setup() {
     // ...
