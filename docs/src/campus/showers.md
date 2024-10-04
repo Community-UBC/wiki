@@ -12,6 +12,17 @@ In the meantime, please use the relevant links below:
 - [Where are the best shower facilities on campus?](https://www.reddit.com/r/UBC/comments/2a9l75/where_are_the_best_shower_facilities_on_campus/)
 
 
-Test Map:
+Test Map 1:
+
+<MapLibreMapLocator 
+  :sidebarTitle="'Showers'"
+  :locations="[
+    { id: 1, name: 'ARC (Life Building)', lat: 49.2675, lng: -123.2500 },
+    { id: 2, name: 'Aquatic Centre', lat: 49.267541, lng: -123.249074 },
+    { id: 3, name: 'Birb Fountain', lat: 49.264835, lng: -123.252720 }
+  ]" 
+/>
+
+Test Map 2:
 
 <MapLibreMap :center="[-123.2460, 49.2606]" :zoom="13" />

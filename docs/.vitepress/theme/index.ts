@@ -14,6 +14,7 @@ import ImageText from './components/ImageText.vue';
 import VitepressCard from './components/VitepressCard.vue';
 import VitepressCardContainer from './components/VitepressCardContainer.vue';
 import MapLibreMap from './components/MapLibreMap.vue';
+import MapLibreMapLocator from './components/MapLibreMapLocator.vue';
 
 export default {
   extends: DefaultTheme,
@@ -30,6 +31,7 @@ export default {
     app.component('VitepressCard', VitepressCard);
     app.component('VitepressCardContainer', VitepressCardContainer);
     app.component('MapLibreMap', MapLibreMap);
+    app.component('MapLibreMapLocator', MapLibreMapLocator);
   },
   setup() {
     // ...
