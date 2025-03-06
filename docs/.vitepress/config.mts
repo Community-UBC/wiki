@@ -44,7 +44,7 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About', link: '/meta/index.md' },
+      { text: 'About', link: '/meta/community.md' },
       { text: '✨ Guides & Tools', link: '/tools' },
       { text: '📌 Navigate campus', link: 'campus/overview' }
     ],
@@ -84,7 +84,6 @@ export default defineConfig({
         }
       ],
       '/meta/': [
-        { text: 'Overview', link: '/meta/index.md' },
         { text: 'Technical Details', 
           items: [
             { text: 'Installation Guide', link: '/meta/project.md' },
