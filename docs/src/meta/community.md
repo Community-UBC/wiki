@@ -1,22 +1,26 @@
-```
-# 
+# 🙌 Community Info
 
-<p align="center" style="font-size:60px;">🙌</p>
-<p align="center" style="font-size:36px;">Community Info</p>
-
-!!! info
-    For community guidelines, see [here](./guidelines.md).
+For community guidelines, see [here](./guidelines.md).
 
 ## History
 
-The r/UBC Reddit community has been around since May 06, 2009, and has since grown to have tens of thousands of users, including students, professors, staff, and other community members. 
+::: tip r/UBC Subreddit
 
-In June 11 2023, after Reddit made changes to their API which limited access to the site and limited tools used for moderation and accesibility, we created a backup community on a local instance of Lemmy (the federated Reddit alternative). This backup community is managed by the same team from r/UBC, and it is available for any users that would like to use it. Should there be any issues with Reddit in the future, this backup community is the place to regroup and discuss. 
+The r/UBC Reddit community has been around since May 06, 2009, and has since grown to have tens of thousands of users, including students, professors, staff, and other community members.
+:::
 
-Later that same year, this wiki website was officially launched 🥳 
+::: tip c/UBC Lemmy Community
 
+In June 11 2023, after Reddit made changes to their API which limited access to the site and limited tools used for moderation and accesibility, we created a backup community on a lemmy.ca, which is one Reddit style instance of the Fediverse (the federated network of social media sites). Lemmy.ca has since incorporated into a non-profit, and the platform exists as an ethical alternative to Reddit.
 
-> Live subscriber counts are currently unavailable because of [a bug with shields.io](https://github.com/badges/shields/issues/9817). Please check the sidebars of each community in the meantime.
+This backup community is managed by the same team from r/UBC, and it is available for any users that would like to use it. Should there be any issues with Reddit in the future, this backup community is the place to regroup and discuss.
+:::
+
+::: tip This wiki
+
+The UBCWiki was initially started by moderators of the /r/UBC subreddit, and individual articles were written over the years on topics that were frequently asked about. In 2023, it was turned into an open source project and this wiki website was officially launched 🥳. It allows for easier collaboration and a much nicer platform to work with.
+
+:::
 
 ## Census Results
 
@@ -27,7 +31,7 @@ Later that same year, this wiki website was officially launched 🥳
 [Open 2017 Census Results :octicons-arrow-right-24:](./census/2017.md){ .md-button }
 
 ## 'Best of' Awards
-
+```
 !!! best-of "Best of 2023"
 
     <div class="grid cards" markdown>

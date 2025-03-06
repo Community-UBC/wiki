@@ -10,7 +10,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "@studiometa/vue-mapbox-gl": "^2.7.0",
+    "@studiometa/vue-mapbox-gl": "^2.7.2",
     "maplibre-gl": "^4.7.1",
     "markdown-it": "^14.1.0",
     "medium-zoom": "^1.1.0"

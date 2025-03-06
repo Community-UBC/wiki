@@ -98,7 +98,6 @@ export default defineConfig({
         { text: 'Technical Details', 
           items: [
             { text: 'Installation Guide', link: '/meta/project.md' },
-            { text: 'Old Installation Guides', link: '/meta/project-old.md' },
             { text: 'Changelog', link: '/meta/changelog.md' },
           ]
         },
