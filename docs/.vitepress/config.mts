@@ -85,25 +85,36 @@ export default defineConfig({
       ],
       '/meta/': [
         { text: 'Overview', link: '/meta/index.md' },
-        { text: 'About Us',
-          items: [
-            { text: 'History & Best Of Posts', link: '/meta/community.md' },
-            { text: 'Community Guidelines', link: '/meta/guidelines.md' },
-            { text: 'Census Results',
-              collapsed: true,
-              items: [
-                { text: '2018', link: '/meta/census/2018.md' },
-                { text: '2017', link: '/meta/census/2017.md' },
-              ]
-            },
-          ]
-        },
         { text: 'Technical Details', 
           items: [
             { text: 'Installation Guide', link: '/meta/project.md' },
             { text: 'Changelog', link: '/meta/changelog.md' },
           ]
         },
+        { text: 'About Us', link: '/meta/community.md',
+          items: [
+            { text: 'Community Guidelines', link: '/meta/guidelines.md' },
+            { text: 'Census Results',
+              items: [
+                { text: '2018', link: '/meta/census/2018.md' },
+                { text: '2017', link: '/meta/census/2017.md' },
+              ]
+            },
+            { text: 'Best Of Contests',
+              items: [
+                { text: '2023 Results', link: '/meta/best-of/2023.md' },
+                { text: '2022 Results', link: '/meta/best-of/2022.md' },
+                { text: '2021 Results', link: '/meta/best-of/2021.md' },
+                { text: '2020 Results', link: '/meta/best-of/2020.md' },
+                { text: '2019 Results', link: '/meta/best-of/2019.md' },
+                { text: '2018 Results', link: '/meta/best-of/2018.md' },
+                { text: '2017 Results', link: '/meta/best-of/2017.md' },
+                { text: '2016 Results', link: '/meta/best-of/2016.md' }
+              ]
+            },
+            
+          ]
+        }
       ],
     },
 

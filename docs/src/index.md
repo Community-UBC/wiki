@@ -17,8 +17,13 @@ hero:
       text: Lemmy Page
       link: https://lemmy.ca/c/UBC
 features:
+- icon: 📚
+  title: About the Community
+  details: Read about our history, check past census results, and view the best of threads over the years.
+  link: ./meta/community
+  linkText: Jump to section
 - icon: ✨
-  title: Essential Tools & Guides
+  title: Essential Guides & Tools
   details: Includes guides and community built tools for admissions, course registration, finding textbooks, mental health resources. and more.
   link: ./tools
   linkText: Jump to section
@@ -53,7 +58,7 @@ If you want to work on a large change, we recommend that you send us a [modmail 
 
 ::: info 💻 Implement the changes yourself
 
-If you are familiar with GitHub, you can also [create an issue](https://github.com/community-ubc/wiki/issues), or implement the changes yourself and submit a pull request. New ideas submitted by other means will be added as issues.
+- If you are familiar with GitHub, you can also [create an issue](https://github.com/community-ubc/wiki/issues), or implement the changes yourself and submit a pull request. New ideas submitted by other means will be added as issues.
 
-Want to learn how to use Github? See the [Hello-World guide (guides.github.com)](https://guides.github.com/activities/hello-world/) by Github.
+- Want to learn how to use Github? See the [Hello-World guide (guides.github.com)](https://guides.github.com/activities/hello-world/) by Github.
 :::
