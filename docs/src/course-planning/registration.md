@@ -88,6 +88,13 @@ Tools that help you pick your courses, find grade distributions, etc.
 
 <CardContainer>
 <Card 
+    title="UBCFinder.com"
+    image="/img/course-planning/ubcfinder.png"
+    description=" A resource that effectively allows you to filter and sort through a list of UBC courses by several parameters such as average and faculties. Also includes a list of profs with similar sort functionality as well as course details pages that show detailed grade distributions. Each course details section includes a list of prerequisites and professors that have taught the selected course along with the average of each prof."
+    link="https://UBCFinder.com"
+    :tags="['Courses', 'Average', 'Professors', 'Planning','Prerequisites']"
+/>
+<Card 
     title="UBCGrades.com"
     image="/img/card-tools.jpg"
     description="This site lets you see past grade distributions for courses. You can use it to judge difficulty, or see how grades changed between each sections or year."
