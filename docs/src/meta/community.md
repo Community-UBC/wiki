@@ -31,47 +31,57 @@ The UBCWiki was initially started by moderators of the /r/UBC subreddit, and ind
 [Open 2017 Census Results :octicons-arrow-right-24:](./census/2017.md){ .md-button }
 
 ## 'Best of' Awards
+
+### Best of 2023
+
+<HorizontalContainer>
+    <HorizontalCard
+      title="Use your own advice man that you gave me man"
+      excerpt="Use your own advice man that you gave me man. Don't [harass](https://www.reddit.com/r/UBC/comments/10jwcza/comment/j5ndjji/?utm_source=share&utm_medium=web2x&context=3) a TA by emailing them. Like you said, you don't [determine](https://www.reddit.com/r/UBC/comments/10jwcza/comment/j5ng8u3/?utm_source=share&utm_medium=web2x&context=3) your grade, your TA does. Don't go [begging](https://www.reddit.com/r/UBC/comments/10jwcza/comment/j5ng8u3/?utm_source=share&utm_medium=web2x&context=3) around for marks like you said. Sounds like you've forgotten your own definition of how uni works."
+      category="Best Comment"
+      author="u/AdAppropriate7838"
+      image="https://picsum.photos/800/1200"
+      url="https://www.reddit.com/r/UBC/comments/10s7m2w/what_should_i_do/j70ch56/"
+      :hideAuthor="false"
+      :hideDate="true"
+      :hideImage="true"
+      :isExternal="true"
+      titleLines="1"
+      excerptLines="3"
+    />
+    <HorizontalCard
+      title="roommate having loud sex like 24/7"
+      excerpt="So my new roommate has seemingly brought his gf to move into his dorm with him and I swear to god these mfs do not do ANYTHING besides have sex and blast music to the point where I straight up think they barely even sleep. Like I tried not ..."
+      category="Best Text Post"
+      author="u/whatisfoolycooly"
+      image="https://picsum.photos/800/1200"
+      url="https://www.reddit.com/r/UBC/comments/15aoyn2/roommate_having_loud_sex_like_247/"
+      :hideAuthor="false"
+      :hideDate="true"
+      :hideImage="true"
+      :isExternal="true"
+      titleLines="1"
+      excerptLines="3"
+    />
+    <HorizontalCard
+      title="I'm building UBC in Minecraft"
+      excerpt=""
+      category="Best image or video post"
+      author="u/oui_oui-baguette"
+      image="https://preview.redd.it/7hrtc5kdet7b1.png?width=960&crop=smart&auto=webp&s=c4c86f6985312536256603b38f4411acb656cc5d"
+      url="https://www.reddit.com/r/UBC/comments/14h76gc/im_building_ubc_in_minecraft/"
+      :hideAuthor="false"
+      :hideDate="true"
+      :hideImage="false"
+      :hideCategory="true"
+      :disableLinks="false"
+      :isExternal="true"
+      titleLines="3"
+      excerptLines="3"
+    />
+</HorizontalContainer>
+
 ```
-!!! best-of "Best of 2023"
-
-    <div class="grid cards" markdown>
-
-    - :material-comment:{ .lg .middle } __Best comment__
-
-        ---
-
-        > Use your own advice man that you gave me man. Don't [harass](https://www.reddit.com/r/UBC/comments/10jwcza/comment/j5ndjji/?utm_source=share&utm_medium=web2x&context=3) a TA by emailing them. Like you said, you don't [determine](https://www.reddit.com/r/UBC/comments/10jwcza/comment/j5ng8u3/?utm_source=share&utm_medium=web2x&context=3) your grade, your TA does. Don't go [begging](https://www.reddit.com/r/UBC/comments/10jwcza/comment/j5ng8u3/?utm_source=share&utm_medium=web2x&context=3) around for marks like you said. Sounds like you've forgotten your own definition of how uni works.
-
-        [:octicons-arrow-right-24: Link to the comment](https://www.reddit.com/r/UBC/comments/10s7m2w/what_should_i_do/j70ch56/)
-
-        Congratulations [u/AdAppropriate7838](https://www.reddit.com/user/AdAppropriate7838)
-
-    - :material-post-outline:{ .lg .middle } __Best text post__
-
-        ---
-
-        > **roommate having loud sex like 24/7**
-
-        > So my new roommate has seemingly brought his gf to move into his dorm with him and I swear to god these mfs do not do ANYTHING besides have sex and blast music to the point where I straight up think they barely even sleep. Like I tried not ...
-
-        [:octicons-arrow-right-24: Link to the post](https://www.reddit.com/r/UBC/comments/15aoyn2/roommate_having_loud_sex_like_247/)
-
-        Congratulations [u/whatisfoolycooly](https://www.reddit.com/user/whatisfoolycooly)
-
-    - :material-image-frame:{ .lg .middle } __Best image or video post__
-
-        ---
-
-        > **I'm building UBC in Minecraft**
-
-        <figure markdown>
-            ![best-of-2023](https://preview.redd.it/7hrtc5kdet7b1.png?width=960&crop=smart&auto=webp&s=c4c86f6985312536256603b38f4411acb656cc5d){ width="400" }
-        </figure>
-
-        [:octicons-arrow-right-24: Link to the post](https://www.reddit.com/r/UBC/comments/14h76gc/im_building_ubc_in_minecraft/)
-
-        Congratulations [u/oui_oui-baguette](https://www.reddit.com/user/oui_oui-baguette)
-
     - :material-heart-box:{ .lg .middle } __Most wholesome post/comment__
 
         ---

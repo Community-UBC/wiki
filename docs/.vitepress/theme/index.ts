@@ -16,6 +16,16 @@ import VitepressCardContainer from './components/VitepressCardContainer.vue';
 import MapLibreMap from './components/MapLibreMap.vue';
 import MapLibreMapLocator from './components/MapLibreMapLocator.vue';
 
+import '@cynber/vitepress-valence/style.css'
+import {
+  HorizontalContainer,
+  VerticalContainer,
+  HorizontalCard,
+  VerticalCard
+} from '@cynber/vitepress-valence'
+
+
+
 export default {
   extends: DefaultTheme,
   Layout: () => {
@@ -32,6 +42,11 @@ export default {
     app.component('VitepressCardContainer', VitepressCardContainer);
     app.component('MapLibreMap', MapLibreMap);
     app.component('MapLibreMapLocator', MapLibreMapLocator);
+
+    app.component('HorizontalContainer', HorizontalContainer);
+    app.component('VerticalContainer', VerticalContainer);
+    app.component('HorizontalCard', HorizontalCard);
+    app.component('VerticalCard', VerticalCard);
   },
   setup() {
     // ...

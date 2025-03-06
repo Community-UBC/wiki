@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@cynber/vitepress-valence':
+        specifier: ^0.1.13
+        version: 0.1.13(@iconify/vue@4.3.0(vue@3.5.13))(vitepress@1.6.3(@algolia/client-search@5.20.3)(@types/node@22.13.5)(postcss@8.5.3)(search-insights@2.17.3))(vue@3.5.13)
       '@studiometa/vue-mapbox-gl':
         specifier: ^2.7.2
         version: 2.7.2(@mapbox/mapbox-gl-geocoder@5.0.3)(mapbox-gl@3.9.3)(vue@3.5.13)
@@ -125,6 +128,13 @@ packages:
   '@babel/types@7.26.9':
     resolution: {integrity: sha512-Y3IR1cRnOxOCDvMmNiym7XpXQ93iGDDPHx+Zj+NM+rg0fBaShfQLkg+hKPaZCEvg5N/LeCo4+Rj/i3FuJsIQaw==}
     engines: {node: '>=6.9.0'}
+
+  '@cynber/vitepress-valence@0.1.13':
+    resolution: {integrity: sha512-xooNoyZwcBR7+p+g8iz7vr80cBcFbMHOF0I4FIieBvt4eNh1ttvgPNHTO5UjMjfdSnzelj1cd+x3eWQNiza5xQ==}
+    peerDependencies:
+      '@iconify/vue': ^4.1.2
+      vitepress: ^1.0.0
+      vue: ^3.3.0
 
   '@docsearch/css@3.8.2':
     resolution: {integrity: sha512-y05ayQFyUmCXze79+56v/4HpycYF3uFqB78pLPrSV5ZKAlDuIAAJNhaRi8tTdRNXh05yxX/TyNnzD6LwSM89vQ==}
@@ -1119,6 +1129,10 @@ packages:
   perfect-debounce@1.0.0:
     resolution: {integrity: sha512-xCy9V055GLEqoFaHoC1SoLIaLmWctgCUaBaWxDZ7/Zx4CTyX7cJQLJOok/orfjZAh9kEYpjJa4d0KcJmCbctZA==}
 
+  photoswipe@5.4.4:
+    resolution: {integrity: sha512-WNFHoKrkZNnvFFhbHL93WDkW3ifwVOXSW3w1UuZZelSmgXpIGiZSNlZJq37rR8YejqME2rHs9EhH9ZvlvFH2NA==}
+    engines: {node: '>= 0.12.0'}
+
   picocolors@1.1.1:
     resolution: {integrity: sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA==}
 
@@ -1527,6 +1541,14 @@ snapshots:
     dependencies:
       '@babel/helper-string-parser': 7.25.9
       '@babel/helper-validator-identifier': 7.25.9
+
+  '@cynber/vitepress-valence@0.1.13(@iconify/vue@4.3.0(vue@3.5.13))(vitepress@1.6.3(@algolia/client-search@5.20.3)(@types/node@22.13.5)(postcss@8.5.3)(search-insights@2.17.3))(vue@3.5.13)':
+    dependencies:
+      '@iconify/vue': 4.3.0(vue@3.5.13)
+      medium-zoom: 1.1.0
+      photoswipe: 5.4.4
+      vitepress: 1.6.3(@algolia/client-search@5.20.3)(@types/node@22.13.5)(postcss@8.5.3)(search-insights@2.17.3)
+      vue: 3.5.13
 
   '@docsearch/css@3.8.2': {}
 
@@ -2533,6 +2555,8 @@ snapshots:
       resolve-protobuf-schema: 2.1.0
 
   perfect-debounce@1.0.0: {}
+
+  photoswipe@5.4.4: {}
 
   picocolors@1.1.1: {}
 

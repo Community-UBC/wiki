@@ -29,11 +29,14 @@ export default defineConfig({
   title: "UBC Community Wiki",
   description: "Guides, tools, and info relevant to UBC",
   srcDir: './src',
+  cleanUrls: true,
+  lastUpdated: true,
   head: [
     ['link', { rel: 'icon', href: '/bookshelf.svg' }]
   ],
-  cleanUrls: true,
-  lastUpdated: true,
+  vite: { 
+    ssr: { noExternal: ['@cynber/vitepress-valence']} 
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
