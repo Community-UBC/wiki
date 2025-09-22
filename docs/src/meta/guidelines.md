@@ -89,6 +89,8 @@ We’d like to place special emphasis on these rules:
 
 **If you are a UBC organization making money:** Please [contact the moderation team](http://www.reddit.com/message/compose?to=%2Fr%2FUBC) before posting an advertisement.
 
+We do not allow the private advertisement of any sale or purchase. This includes tickets, textbooks, tutoring services, etc.
+
 ## 7. Surveys
 Surveys should only be posted if they related to UBC or of unique interest to the UBC community. 
 
