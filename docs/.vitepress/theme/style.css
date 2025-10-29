@@ -192,15 +192,3 @@
   --card-disabled-text-2: #5a5a5e;
   --card-disabled-text-3: #4f4f53;
 }
-
-/* 
- * Medium Zoom
- * ========================================================================== */
-
-.medium-zoom-overlay {
-  z-index: 30;
-}
-
-.medium-zoom-image--opened {
-  z-index: 31;
-}
