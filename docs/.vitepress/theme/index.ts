@@ -4,27 +4,22 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
 import 'maplibre-gl/dist/maplibre-gl.css';
-import { Icon } from '@iconify/vue';              // Iconify
-import { onMounted, watch, nextTick } from 'vue'; // Medium Zoom
+import '@cynber/vitepress-valence/style.css'
+import { Icon } from '@iconify/vue';
 import { useRoute } from 'vitepress';
-import mediumZoom from 'medium-zoom';
-import Card from './components/Card.vue';         // Custom components
-import CardContainer from './components/CardContainer.vue';
-import ImageText from './components/ImageText.vue';
+import {
+  VpvContainerHorizontal,
+  VpvContainerVertical,
+  VpvCardHorizontal,
+  VpvCardVertical,
+  VpvImage,
+  VpvImageGallery,
+  VpvTableJSON
+} from '@cynber/vitepress-valence'
 import VitepressCard from './components/VitepressCard.vue';
 import VitepressCardContainer from './components/VitepressCardContainer.vue';
 import MapLibreMap from './components/MapLibreMap.vue';
 import MapLibreMapLocator from './components/MapLibreMapLocator.vue';
-
-import '@cynber/vitepress-valence/style.css'
-import {
-  HorizontalContainer,
-  VerticalContainer,
-  HorizontalCard,
-  VerticalCard
-} from '@cynber/vitepress-valence'
-
-
 
 export default {
   extends: DefaultTheme,
@@ -35,31 +30,20 @@ export default {
   },
   enhanceApp({ app, router, siteData }) {
     app.component('Icon', Icon);
-    app.component('Card', Card);
-    app.component('CardContainer', CardContainer);
-    app.component('ImageText', ImageText);
+    app.component('VpvContainerHorizontal', VpvContainerHorizontal);
+    app.component('VpvContainerVertical', VpvContainerVertical);
+    app.component('VpvCardHorizontal', VpvCardHorizontal);
+    app.component('VpvCardVertical', VpvCardVertical);
+    app.component('VpvImage', VpvImage);
+    app.component('VpvImageGallery', VpvImageGallery);
+    app.component('VpvTableJSON', VpvTableJSON);
     app.component('VitepressCard', VitepressCard);
     app.component('VitepressCardContainer', VitepressCardContainer);
     app.component('MapLibreMap', MapLibreMap);
     app.component('MapLibreMapLocator', MapLibreMapLocator);
-
-    app.component('HorizontalContainer', HorizontalContainer);
-    app.component('VerticalContainer', VerticalContainer);
-    app.component('HorizontalCard', HorizontalCard);
-    app.component('VerticalCard', VerticalCard);
   },
   setup() {
     // ...
     const route = useRoute();
-    const initZoom = () => {
-      mediumZoom('[data-zoomable]', { background: 'var(--vp-c-bg)' }); 
-    };
-    onMounted(() => {
-      initZoom();
-    });
-    watch(
-      () => route.path,
-      () => nextTick(() => initZoom())
-    );
   },
 } satisfies Theme
