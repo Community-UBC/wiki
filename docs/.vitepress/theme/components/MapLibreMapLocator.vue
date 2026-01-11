@@ -18,7 +18,7 @@
 </template>
 
 <script setup>
-import { onMounted, defineProps, ref } from "vue";
+import { onMounted, ref } from "vue";
 import maplibregl from "maplibre-gl";
 
 const props = defineProps({
