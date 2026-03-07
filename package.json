@@ -2,7 +2,7 @@
   "devDependencies": {
     "@iconify/vue": "^4.3.0",
     "vitepress": "^1.6.4",
-    "vue": "^3.5.26"
+    "vue": "^3.5.29"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
@@ -12,8 +12,8 @@
   "dependencies": {
     "@cynber/vitepress-valence": "^0.2.2",
     "@studiometa/vue-mapbox-gl": "^2.7.2",
-    "maplibre-gl": "^5.15.0",
-    "markdown-it": "^14.1.0",
+    "maplibre-gl": "^5.19.0",
+    "markdown-it": "^14.1.1",
     "medium-zoom": "^1.1.0"
   }
 }
